@@ -1,0 +1,1393 @@
+closed_date,industry_name,stock_ticker,stock_name,epsTrailingTwelveMonths,epsCurrentYear,epsForward,priceEpsCurrentYear
+10/27/25,Healthcare Plans,HUM,Humana Inc.,13.06,17.03984,16.84,17.363718
+10/27/25,Healthcare Plans,CNC,Centene Corporation,4.12,1.6724,7.04,21.8608
+10/27/25,Specialty Retail,TSCO,Tractor Supply Company,2.07,2.10781,11.13,26.017525
+10/27/25,Specialty Retail,WSM,"Williams-Sonoma, Inc.",8.98,8.59024,8.13,23.505747
+10/27/25,Specialty Retail,ULTA,"Ulta Beauty, Inc.",26.04,24.48678,22.87,20.90332
+10/27/25,Specialty Retail,DKS,"DICK'S Sporting Goods, Inc.",14.32,14.46896,14.82,15.9799185
+10/27/25,Specialty Retail,CASY,"Casey's General Stores, Inc.",15.6,16.43271,16.2,32.190063
+10/27/25,Specialty Retail,BBY,"Best Buy Co., Inc.",3.63,6.25117,6.84,13.477477
+10/27/25,Specialty Retail,GME,GameStop Corp.,0.8,0.99,-0.01,23.481314
+10/27/25,Residential Construction,DHI,"D.R. Horton, Inc.",11.58,11.63858,15.93,13.064737
+10/27/25,Residential Construction,LEN-B,Lennar Corporation,10.11,,16.2,
+10/27/25,Residential Construction,LEN,Lennar Corporation,10.1,8.22905,16.14,15.54736
+10/27/25,Residential Construction,PHM,"PulteGroup, Inc.",12.96,11.35675,13.5,10.618355
+10/27/25,Residential Construction,NVR,"NVR, Inc.",455.14,421.1654,518.05,17.630793
+10/27/25,Residential Construction,TOL,"Toll Brothers, Inc.",13.56,13.78934,14.62,10.007368
+10/27/25,Solar,FSLR,"First Solar, Inc.",11.69,15.28053,20.86,15.907825
+10/27/25,Solar,NXT,Nextracker Inc.,3.86,4.25532,3.38,23.673895
+10/27/25,Resorts & Casinos,LVS,Las Vegas Sands Corp.,2.22,2.88992,2.75,20.381187
+10/27/25,Resorts & Casinos,WYNN,"Wynn Resorts, Limited",3.38,4.73717,5.02,25.535286
+10/27/25,Semiconductors,MCHP,Microchip Technology Incorporated,-0.34,1.45249,2.6,43.921127
+10/27/25,Semiconductors,ASX,"ASE Technology Holding Co., Ltd.",0.49,0.55176,0.75,25.853632
+10/27/25,Semiconductors,CRDO,Credo Technology Group Holding Ltd,0.71,2.07529,0.77,81.39344
+10/27/25,Semiconductors,ALAB,"Astera Labs, Inc.",0.81,1.58169,1.15,109.21862
+10/27/25,Semiconductors,STM,STMicroelectronics N.V.,0.58,0.6108,1.39,41.150948
+10/27/25,Semiconductors,ON,ON Semiconductor Corporation,1.05,2.2914,4.32,22.772104
+10/27/25,Semiconductors,GFS,GLOBALFOUNDRIES Inc.,-0.21,1.62128,1.79,21.452187
+10/27/25,Semiconductors,UMC,United Microelectronics Corporation,0.54,0.44322,0.64,16.69645
+10/27/25,Semiconductors,SWKS,"Skyworks Solutions, Inc.",2.51,5.6546,6.4,14.519152
+10/27/25,Semiconductors,RMBS,Rambus Inc.,2.1,2.49286,2.45,44.039776
+10/27/25,Semiconductors,MTSI,"MACOM Technology Solutions Holdings, Inc.",-0.96,3.46932,3.98,44.230568
+10/27/25,Semiconductors,LSCC,Lattice Semiconductor Corporation,0.23,1.055,1.06,71.3365
+10/27/25,Luxury Goods,TPR,"Tapestry, Inc.",0.81,5.47978,4.76,20.73897
+10/27/25,Personal Services,ROL,"Rollins, Inc.",1.01,1.11947,1.12,49.103596
+10/27/25,Personal Services,SCI,Service Corporation International,3.68,3.84121,3.96,20.967352
+10/27/25,"Furnishings, Fixtures & Appliances",SGI,Somnigroup International Inc.,1.46,2.56592,0.11,32.043087
+10/27/25,"Furnishings, Fixtures & Appliances",SN,"SharkNinja, Inc.",3.66,5.11289,4.87,18.995129
+10/27/25,Apparel Manufacturing,RL,Ralph Lauren Corporation,12.52,14.79783,13.02,22.18028
+10/27/25,Footwear & Accessories,ONON,On Holding AG,0.53,0.60684,1.1,65.668045
+10/27/25,Footwear & Accessories,DECK,Deckers Outdoor Corporation,6.73,6.39992,6.36,13.40798
+10/27/25,Leisure,AS,"Amer Sports, Inc.",0.41,0.84876,0.7,38.350063
+10/27/25,Leisure,HAS,"Hasbro, Inc.",-3.99,4.97483,4.43,15.697018
+10/27/25,Gambling,FLUT,Flutter Entertainment plc,2.04,8.25923,8.32,28.864677
+10/27/25,Gambling,DKNG,DraftKings Inc.,-0.65,1.16957,0.57,26.975727
+10/27/25,Auto & Truck Dealerships,CVNA,Carvana Co.,4.02,5.43782,2.35,67.2034
+10/27/25,Auto & Truck Dealerships,PAG,"Penske Automotive Group, Inc.",14.36,13.93354,13.88,11.704132
+10/27/25,Packaging & Containers,IP,International Paper Company,-0.06,1.52626,3.0,30.224209
+10/27/25,Packaging & Containers,SW,Smurfit Westrock Plc,0.26,2.66,3.61,14.516917
+10/27/25,Packaging & Containers,AMCR,Amcor plc,0.32,0.80225,0.79,10.102835
+10/27/25,Packaging & Containers,PKG,Packaging Corporation of America,9.9,9.95076,11.24,20.27835
+10/27/25,Packaging & Containers,AVY,Avery Dennison Corporation,8.82,9.49832,10.52,18.914925
+10/27/25,Packaging & Containers,BALL,Ball Corporation,2.02,3.58174,3.53,13.575805
+10/27/25,Packaging & Containers,CCK,"Crown Holdings, Inc.",8.06,7.76331,6.87,12.474705
+10/27/25,Lodging,IHG,InterContinental Hotels Group PLC,4.72,5.4166,5.35,23.038437
+10/27/25,Lodging,H,Hyatt Hotels Corporation,4.4,2.37707,3.95,60.98474
+10/27/25,Lodging,HTHT,H World Group Limited,1.67,14.37524,2.05,2.6945636
+10/27/25,Discount Stores,TGT,Target Corporation,8.58,7.33666,10.51,13.052261
+10/27/25,Discount Stores,DG,Dollar General Corporation,5.4,6.12425,6.22,16.437931
+10/27/25,Discount Stores,DLTR,"Dollar Tree, Inc.",5.16,5.47996,6.06,18.651596
+10/27/25,Discount Stores,BJ,"BJ's Wholesale Club Holdings, Inc.",4.36,4.33025,4.25,20.935282
+10/27/25,Auto Parts,APTV,Aptiv PLC,4.42,7.58653,6.98,11.44924
+10/27/25,Auto Parts,GPC,Genuine Parts Company,5.81,7.63822,8.47,17.151901
+10/27/25,Auto Parts,MGA,Magna International Inc.,4.26,5.1685,5.95,8.787849
+10/27/25,Auto Parts,MBLY,Mobileye Global Inc.,-0.41,0.35611,0.41,37.40417
+10/27/25,Electronic Gaming & Multimedia,EA,Electronic Arts Inc.,3.45,8.41491,8.53,23.81606
+10/27/25,Electronic Gaming & Multimedia,TTWO,"Take-Two Interactive Software, Inc.",-24.13,2.88646,7.84,87.00276
+10/27/25,Advertising Agencies,OMC,Omnicom Group Inc.,6.78,8.59292,8.64,8.821797
+10/27/25,Entertainment,LYV,"Live Nation Entertainment, Inc.",2.36,1.47,2.42,103.210884
+10/27/25,Entertainment,FOXA,Fox Corporation,4.91,4.19845,3.73,14.583953
+10/27/25,Entertainment,FOX,Fox Corporation,4.91,,2.35,
+10/27/25,Entertainment,FWONK,Formula One Group,1.01,2.16236,1.34,46.38913
+10/27/25,Entertainment,FWONA,Formula One Group,1.0,3.62398,1.3,25.277458
+10/27/25,Entertainment,PSKY,Paramount Skydance Corporation,0.03,1.25599,,12.854402
+10/27/25,Entertainment,WMG,Warner Music Group Corp.,0.57,1.11674,1.4,28.439924
+10/27/25,Entertainment,NWS,News Corporation,0.84,0.98284,,31.470026
+10/27/25,Entertainment,NWSA,News Corporation,0.84,0.98284,1.06,26.927069
+10/27/25,Entertainment,TKO,"TKO Group Holdings, Inc.",2.44,3.28197,3.24,57.517284
+10/27/25,Entertainment,ROKU,"Roku, Inc.",-0.42,0.18182,-0.63,543.14703
+10/27/25,Telecom Services,CHT,"Chunghwa Telecom Co., Ltd.",1.58,,1.53,
+10/27/25,Telecom Services,CHTR,"Charter Communications, Inc.",36.54,37.16876,35.78,6.5627694
+10/27/25,Telecom Services,TEF,"Telefónica, S.A.",-0.16,0.2745,0.29,18.979963
+10/27/25,Telecom Services,VOD,Vodafone Group Public Limited Company,-1.85,0.726,0.85,16.528925
+10/27/25,Telecom Services,TU,TELUS Corporation,0.46,0.72594,0.75,20.38736
+10/27/25,Telecom Services,BCE,BCE Inc.,0.33,2.68783,2.09,8.692886
+10/27/25,Telecom Services,RCI,Rogers Communications Inc.,8.91,4.85804,3.75,8.194663
+10/27/25,Telecom Services,SATS,EchoStar Corporation,-1.06,-4.91732,-2.75,-15.0712185
+10/27/25,Telecom Services,VIV,Telefônica Brasil S.A.,0.66,3.94,0.76,3.2791877
+10/27/25,Telecom Services,TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,1.39,1.45144,1.8,13.717412
+10/27/25,Telecom Services,TIMB,TIM S.A.,1.38,1.48101,1.46,15.887807
+10/27/25,Telecom Services,LUMN,"Lumen Technologies, Inc.",-1.19,-0.56305,-0.64,-19.039164
+10/27/25,Internet Content & Information,BIDU,"Baidu, Inc.",10.94,52.69972,11.09,2.4344532
+10/27/25,Internet Content & Information,RDDT,"Reddit, Inc.",2.24,4.02891,0.67,52.32432
+10/27/25,Internet Content & Information,TME,Tencent Music Entertainment Group,0.93,6.13301,0.77,3.7526433
+10/27/25,Internet Content & Information,NBIS,,0.77,-1.69,,-73.13313
+10/27/25,Internet Content & Information,PINS,"Pinterest, Inc.",2.76,1.76545,1.8,18.836557
+10/27/25,Internet Content & Information,ZG,"Zillow Group, Inc.",-0.27,1.6153,1.87,44.40042
+10/27/25,Internet Content & Information,Z,"Zillow Group, Inc.",-0.27,1.65089,1.96,45.09083
+10/27/25,Internet Content & Information,SNAP,Snap Inc.,-0.32,0.26025,0.41,30.105667
+10/27/25,Internet Content & Information,BILI,Bilibili Inc.,0.08,5.44191,0.61,5.8894763
+10/27/25,Internet Content & Information,BZ,Kanzhun Limited,0.67,7.64553,0.97,2.9585915
+10/27/25,Grocery Stores,KR,The Kroger Co.,3.94,4.79894,4.58,13.857226
+10/27/25,Grocery Stores,SFM,"Sprouts Farmers Market, Inc.",4.85,5.31014,4.2,19.78008
+10/27/25,Grocery Stores,ACI,"Albertsons Companies, Inc.",1.69,2.14543,2.27,8.548403
+10/27/25,Food Distribution,SYY,Sysco Corporation,3.73,4.57351,4.92,16.352867
+10/27/25,Food Distribution,USFD,US Foods Holding Corp.,2.34,3.89758,3.78,18.88223
+10/27/25,Food Distribution,PFGC,Performance Food Group Company,2.18,5.16975,5.63,19.173075
+10/27/25,Farm Products,ADM,Archer-Daniels-Midland Company,2.3,3.83903,5.07,15.888127
+10/27/25,Farm Products,BG,Bunge Global SA,9.92,7.26651,9.3,13.275974
+10/27/25,Farm Products,TSN,"Tyson Foods, Inc.",2.2,3.79447,3.5,13.472237
+10/27/25,Confectioners,HSY,The Hershey Company,7.53,5.95706,8.4,29.491056
+10/27/25,Packaged Foods,KHC,The Kraft Heinz Company,-4.46,2.58502,3.07,9.510564
+10/27/25,Packaged Foods,K,Kellanova,3.82,3.64948,1.2,22.756666
+10/27/25,Packaged Foods,GIS,"General Mills, Inc.",5.29,3.65173,4.7,12.871982
+10/27/25,Packaged Foods,MKC-V,"McCormick & Company, Incorporated",2.88,,,
+10/27/25,Packaged Foods,MKC,"McCormick & Company, Incorporated",2.88,3.0215,3.12,21.409895
+10/27/25,Packaged Foods,JBS,JBS N.V.,1.13,10.293,,1.2659088
+10/27/25,Packaged Foods,HRL,Hormel Foods Corporation,1.37,1.42666,1.69,15.52928
+10/27/25,Packaged Foods,SJM,The J. M. Smucker Company,-13.72,9.07633,10.53,11.293111
+10/27/25,Household & Personal Products,KMB,Kimberly-Clark Corporation,7.31,7.43496,7.63,15.935527
+10/27/25,Household & Personal Products,EL,The Estée Lauder Companies Inc.,-3.15,2.0855,2.7,47.360344
+10/27/25,Household & Personal Products,KVUE,Kenvue Inc.,0.75,1.02921,1.22,13.7727
+10/27/25,Household & Personal Products,CHD,"Church & Dwight Co., Inc.",2.12,3.47597,3.73,23.737259
+10/27/25,Household & Personal Products,CLX,The Clorox Company,6.52,5.99709,7.29,18.830801
+10/27/25,Apparel Retail,LULU,lululemon athletica inc.,14.65,12.99338,14.93,13.396052
+10/27/25,Apparel Retail,BURL,"Burlington Stores, Inc.",8.48,9.55143,9.62,28.989117
+10/27/25,Restaurants,YUM,"Yum! Brands, Inc.",5.07,6.00689,6.08,23.204187
+10/27/25,Restaurants,QSR,Restaurant Brands International Inc.,2.65,3.64958,5.36,18.010292
+10/27/25,Restaurants,DRI,"Darden Restaurants, Inc.",9.34,10.62191,10.56,17.076262
+10/27/25,Restaurants,YUMC,"Yum China Holdings, Inc.",2.42,2.50516,2.58,17.46595
+10/27/25,Restaurants,DPZ,"Domino's Pizza, Inc.",17.1,17.61163,17.64,23.052666
+10/27/25,Restaurants,TXRH,"Texas Roadhouse, Inc.",6.56,6.52605,7.15,26.130661
+10/27/25,Travel Services,TCOM,Trip.com Group Limited,3.64,26.09611,3.64,2.7988846
+10/27/25,Travel Services,CCL,Carnival Corporation & plc,1.94,2.16127,1.72,12.983108
+10/27/25,Travel Services,CUK,Carnival Corporation & plc,1.94,2.13,1.68,11.938967
+10/27/25,Travel Services,EXPE,"Expedia Group, Inc.",8.11,14.32773,14.36,15.503154
+10/27/25,Travel Services,VIK,Viking Holdings Ltd,1.89,2.47899,2.08,23.729422
+10/27/25,Travel Services,NCLH,Norwegian Cruise Line Holdings Ltd.,1.46,2.07214,2.09,10.756996
+10/27/25,Health Information Services,VEEV,Veeva Systems Inc.,4.87,7.80524,6.76,37.036655
+10/27/25,Health Information Services,GEHC,GE HealthCare Technologies Inc.,4.88,4.52393,4.67,17.175331
+10/27/25,Health Information Services,TEM,"Tempus AI, Inc.",2.15,-0.71965,-0.7,-123.28216
+10/27/25,Health Information Services,DOCS,"Doximity, Inc.",1.17,1.52003,1.19,44.196495
+10/27/25,Medical Distribution,CAH,"Cardinal Health, Inc.",6.45,9.43068,8.64,17.270227
+10/27/25,Medical Care Facilities,THC,Tenet Healthcare Corporation,14.71,16.02395,11.46,13.045472
+10/27/25,Medical Care Facilities,FMS,Fresenius Medical Care AG,1.3,1.89675,2.62,14.371952
+10/27/25,Medical Care Facilities,UHS,"Universal Health Services, Inc.",21.01,21.40325,18.16,10.478783
+10/27/25,Medical Care Facilities,EHC,Encompass Health Corporation,5.13,5.25523,4.78,24.213974
+10/27/25,Medical Care Facilities,ENSG,"The Ensign Group, Inc.",5.51,6.41316,6.14,28.906189
+10/27/25,Biotechnology,ONC,BeOne Medicines AG,-1.68,2.26673,,139.71227
+10/27/25,Biotechnology,INSM,Insmed Incorporated,-5.67,-5.55943,-4.23,-29.916737
+10/27/25,Biotechnology,BNTX,BioNTech SE,-1.66,-4.04847,-3.9,-26.034527
+10/27/25,Biotechnology,RPRX,Royalty Pharma plc,2.29,4.44996,4.39,8.2228155
+10/27/25,Biotechnology,GMAB,Genmab A/S,1.93,1.71426,1.4,17.004421
+10/27/25,Biotechnology,INCY,Incyte Corporation,5.9,6.85538,6.14,13.256741
+10/27/25,Biotechnology,ROIV,Roivant Sciences Ltd.,-1.09,-1.16424,-1.19,-15.954615
+10/27/25,Biotechnology,BBIO,"BridgeBio Pharma, Inc.",-4.13,-2.898,-3.06,-22.767427
+10/27/25,Biotechnology,ASND,Ascendis Pharma A/S,-5.27,-2.21243,-3.95,-93.61878
+10/27/25,Biotechnology,IONS,"Ionis Pharmaceuticals, Inc.",-1.76,-1.92673,-3.74,-38.344757
+10/27/25,Biotechnology,RVMD,"Revolution Medicines, Inc.",-4.52,-5.31579,-4.05,-10.909009
+10/27/25,Biotechnology,EXEL,"Exelixis, Inc.",2.08,2.66467,1.7,15.030004
+10/27/25,Biotechnology,BMRN,BioMarin Pharmaceutical Inc.,2.69,3.58889,2.99,14.870893
+10/27/25,Medical Devices,EW,Edwards Lifesciences Corporation,2.39,2.51067,2.45,32.83785
+10/27/25,Medical Devices,DXCM,"DexCom, Inc.",1.42,2.05066,2.03,33.55505
+10/27/25,Medical Devices,PHG,Koninklijke Philips N.V.,0.19,1.57004,1.69,17.671524
+10/27/25,Medical Devices,STE,STERIS plc,6.54,10.16556,9.97,23.512232
+10/27/25,Medical Devices,PODD,Insulet Corporation,3.28,4.66792,3.87,68.85508
+10/27/25,Medical Devices,ZBH,"Zimmer Biomet Holdings, Inc.",4.1,8.14678,8.6,12.295042
+10/27/25,Medical Devices,SNN,Smith & Nephew plc,1.11,1.57026,1.29,23.07261
+10/27/25,Electronic Components,CLS,Celestica Inc.,6.14,5.91015,4.45,58.543354
+10/27/25,Electronic Components,FLEX,Flex Ltd.,2.27,3.03802,2.78,21.095976
+10/27/25,Electronic Components,JBL,Jabil Inc.,5.92,11.10305,10.01,19.92847
+10/27/25,Electronic Components,FN,Fabrinet,9.19,12.24816,11.07,36.67163
+10/27/25,Communication Equipment,UI,Ubiquiti Inc.,11.74,11.781,10.2,65.91121
+10/27/25,Communication Equipment,NOK,Nokia Oyj,0.19,0.31121,0.35,24.074419
+10/27/25,Communication Equipment,ERIC,Telefonaktiebolaget LM Ericsson (publ),0.79,0.78267,0.52,12.955779
+10/27/25,Communication Equipment,HPE,Hewlett Packard Enterprise Company,0.85,1.89832,2.1,12.903516
+10/27/25,Communication Equipment,ASTS,"AST SpaceMobile, Inc.",-1.86,-1.04814,-0.71,-77.52781
+10/27/25,Communication Equipment,CIEN,Ciena Corporation,0.99,2.49444,2.72,77.37809
+10/27/25,Communication Equipment,LITE,Lumentum Holdings Inc.,0.38,4.89769,3.69,43.25713
+10/27/25,Communication Equipment,ZBRA,Zebra Technologies Corporation,9.93,15.7969,16.04,17.396769
+10/27/25,Computer Hardware,WDC,Western Digital Corporation,4.45,6.73773,8.81,21.007074
+10/27/25,Computer Hardware,PSTG,"Pure Storage, Inc.",0.41,1.95638,1.85,49.438248
+10/27/25,Computer Hardware,SMCI,"Super Micro Computer, Inc.",1.68,2.56744,4.24,20.724924
+10/27/25,Computer Hardware,SNDK,Sandisk Corporation,-11.32,6.66328,,29.03375
+10/27/25,Computer Hardware,HPQ,HP Inc.,2.75,3.12294,3.6,8.938692
+10/27/25,Computer Hardware,IONQ,"IonQ, Inc.",-2.06,-0.718,-0.88,-84.401115
+10/27/25,Computer Hardware,LOGI,Logitech International S.A.,4.4,5.61772,4.69,20.821613
+10/27/25,Computer Hardware,QBTS,D-Wave Quantum Inc.,-1.13,-0.22625,-0.26,-150.09944
+10/27/25,Information Technology Services,FI,"Fiserv, Inc.",5.98,10.0681,10.19,7.349947
+10/27/25,Information Technology Services,CTSH,Cognizant Technology Solutions Corporation,4.93,5.15967,4.99,13.833249
+10/27/25,Information Technology Services,FIS,"Fidelity National Information Services, Inc.",0.25,5.75439,5.71,10.565846
+10/27/25,Information Technology Services,WIT,Wipro Limited,0.15,0.14388,0.29,18.52238
+10/27/25,Information Technology Services,BR,"Broadridge Financial Solutions, Inc.",7.1,9.35666,9.35,23.871767
+10/27/25,Information Technology Services,LDOS,"Leidos Holdings, Inc.",10.59,11.58317,10.45,16.277063
+10/27/25,Information Technology Services,CDW,CDW Corporation,8.04,9.85772,10.12,15.792697
+10/27/25,Information Technology Services,GIB,CGI Inc.,5.4,8.25605,6.47,10.492306
+10/27/25,Information Technology Services,IT,"Gartner, Inc.",16.22,12.20572,13.19,20.650154
+10/27/25,Information Technology Services,CACI,CACI International Inc,22.61,28.23121,26.9,20.107887
+10/27/25,Information Technology Services,JKHY,"Jack Henry & Associates, Inc.",6.23,6.29273,6.32,23.573235
+10/27/25,Information Technology Services,APLD,Applied Digital Corporation,-1.01,-0.87,-0.34,-41.103447
+10/27/25,Auto Manufacturers,HMC,"Honda Motor Co., Ltd.",2.82,,4.96,
+10/27/25,Auto Manufacturers,STLA,Stellantis N.V.,-0.93,0.81475,2.98,13.949186
+10/27/25,Auto Manufacturers,LI,Li Auto Inc.,1.07,5.39823,1.54,3.9128566
+10/27/25,Auto Manufacturers,XPEV,XPeng Inc.,-0.63,-0.8248,-0.45,-28.352327
+10/27/25,Auto Manufacturers,NIO,NIO Inc.,-1.62,-7.46854,-0.85,-0.9580186
+10/27/25,Auto Manufacturers,RIVN,"Rivian Automotive, Inc.",-3.21,-2.66694,-2.74,-5.168845
+10/27/25,Internet Retail,JD,"JD.com, Inc.",3.59,19.11743,4.14,1.8135282
+10/27/25,Internet Retail,EBAY,eBay Inc.,4.5,5.42501,5.22,18.394436
+10/27/25,Internet Retail,CHWY,"Chewy, Inc.",0.36,1.2747,0.6,26.61018
+10/27/25,Internet Retail,W,Wayfair Inc.,-2.57,2.18452,0.82,48.77044
+10/27/25,Internet Retail,CART,Maplebear Inc.,1.73,3.02737,1.34,12.436538
+10/27/25,Financial Conglomerates,IX,ORIX Corporation,2.13,,11.74,
+10/27/25,Mortgage Finance,RKT,"Rocket Companies, Inc.",-0.03,0.21359,0.66,82.19018
+10/27/25,Insurance Brokers,WTW,Willis Towers Watson Public Limited Company,1.47,16.92214,18.09,18.839815
+10/27/25,Insurance Brokers,BRO,"Brown & Brown, Inc.",3.3,4.2031,4.09,19.097807
+10/27/25,Insurance Brokers,ERIE,Erie Indemnity Company,11.95,12.46,13.4,24.996387
+10/27/25,Capital Markets,CRCL,Circle Internet Group,-1.74,-0.92922,,-144.65271
+10/27/25,Capital Markets,LPLA,LPL Financial Holdings Inc.,14.58,18.83761,18.58,18.091467
+10/27/25,Capital Markets,TW,Tradeweb Markets Inc.,2.59,3.40207,3.32,31.501408
+10/27/25,Capital Markets,NMR,"Nomura Holdings, Inc.",0.79,,0.56,
+10/27/25,Capital Markets,IREN,IREN Limited,0.39,0.98667,0.34,63.429413
+10/27/25,Capital Markets,GLXY,Galaxy Digital,0.87,0.90333,,41.7234
+10/27/25,Capital Markets,HLI,"Houlihan Lokey, Inc.",5.94,7.74699,6.74,25.833902
+10/27/25,Capital Markets,SF,Stifel Financial Corp.,5.65,7.25061,7.63,16.118645
+10/27/25,Capital Markets,EVR,Evercore Inc.,11.04,13.36041,14.06,22.529585
+10/27/25,Capital Markets,JEF,Jefferies Financial Group Inc.,2.88,2.94,4.47,18.47619
+10/27/25,Asset Management,AMP,"Ameriprise Financial, Inc.",32.08,38.21429,38.63,12.477531
+10/27/25,Asset Management,APO-PA,"Apollo Global Management, Inc.",,,,
+10/27/25,Asset Management,STT,State Street Corporation,9.42,10.14138,9.34,11.7272005
+10/27/25,Asset Management,RJF,"Raymond James Financial, Inc.",10.3,11.93758,11.14,13.410172
+10/27/25,Asset Management,OWL,Blue Owl Capital Inc.,0.11,0.82926,0.93,20.590649
+10/27/25,Asset Management,NTRS,Northern Trust Corporation,8.58,8.64887,7.64,14.748169
+10/27/25,Asset Management,TROW,"T. Rowe Price Group, Inc.",8.93,9.44858,9.35,11.01065
+10/27/25,Asset Management,TPG,TPG Inc.,-0.18,2.438,2.56,23.412634
+10/27/25,Asset Management,CG,The Carlyle Group Inc.,3.42,4.1283,4.43,14.02272
+10/27/25,Asset Management,PFG,"Principal Financial Group, Inc.",4.96,8.3006,8.44,9.951088
+10/27/25,Asset Management,STT-PG,State Street Corporation,7.376,,,
+10/27/25,Asset Management,CRBG,"Corebridge Financial, Inc.",-0.68,4.53203,5.62,7.0718856
+10/27/25,Asset Management,ARCC,Ares Capital Corporation,1.99,2.00482,2.2,10.347562
+10/27/25,Asset Management,EQH,"Equitable Holdings, Inc.",1.29,5.80204,7.23,8.347064
+10/27/25,Asset Management,BEN,"Franklin Resources, Inc.",0.51,2.12148,2.6,10.940475
+10/27/25,Asset Management,IVZ,Invesco Ltd.,0.93,1.98291,1.89,12.295061
+10/27/25,Asset Management,SEIC,SEI Investments Company,5.43,4.966,4.88,16.33508
+10/27/25,Credit Services,SOFI,"SoFi Technologies, Inc.",0.56,0.36967,0.29,83.62865
+10/27/25,Credit Services,SYF,Synchrony Financial,9.12,9.30839,6.47,8.004607
+10/27/25,Credit Services,ALLY,Ally Financial Inc.,1.04,3.74586,4.15,10.825124
+10/29/25,Healthcare Plans,HUM,Humana Inc.,13.06,17.03984,16.84,17.268354
+10/29/25,Healthcare Plans,CNC,Centene Corporation,4.12,1.6724,7.04,21.94152
+10/29/25,Specialty Retail,TSCO,Tractor Supply Company,2.07,2.10781,11.13,25.96069
+10/29/25,Specialty Retail,WSM,"Williams-Sonoma, Inc.",8.98,8.59024,8.13,23.460638
+10/29/25,Specialty Retail,ULTA,"Ulta Beauty, Inc.",26.04,24.48678,22.87,20.771616
+10/29/25,Specialty Retail,DKS,"DICK'S Sporting Goods, Inc.",14.32,14.46896,14.82,15.925125
+10/29/25,Specialty Retail,CASY,"Casey's General Stores, Inc.",15.6,16.43271,16.2,32.218056
+10/29/25,Specialty Retail,BBY,"Best Buy Co., Inc.",3.63,6.25117,6.84,13.439084
+10/29/25,Specialty Retail,GME,GameStop Corp.,0.8,0.99,-0.01,23.333334
+10/29/25,Residential Construction,DHI,"D.R. Horton, Inc.",11.58,11.63858,15.93,13.124453
+10/29/25,Residential Construction,LEN-B,Lennar Corporation,10.11,,16.2,
+10/29/25,Residential Construction,LEN,Lennar Corporation,10.1,8.22905,16.14,15.568323
+10/29/25,Residential Construction,PHM,"PulteGroup, Inc.",12.96,11.35675,13.5,10.668986
+10/29/25,Residential Construction,NVR,"NVR, Inc.",455.14,421.1654,518.05,17.651213
+10/29/25,Residential Construction,TOL,"Toll Brothers, Inc.",13.56,13.78934,14.62,10.107082
+10/29/25,Solar,FSLR,"First Solar, Inc.",11.69,15.28053,20.86,15.893428
+10/29/25,Solar,NXT,Nextracker Inc.,3.86,4.25532,3.38,24.01582
+10/29/25,Resorts & Casinos,LVS,Las Vegas Sands Corp.,2.22,2.88992,2.75,20.42617
+10/29/25,Resorts & Casinos,WYNN,"Wynn Resorts, Limited",3.38,4.73717,5.02,25.612337
+10/29/25,Semiconductors,MCHP,Microchip Technology Incorporated,-0.34,1.45249,2.6,43.97965
+10/29/25,Semiconductors,ASX,"ASE Technology Holding Co., Ltd.",0.49,0.55176,0.75,25.998623
+10/29/25,Semiconductors,CRDO,Credo Technology Group Holding Ltd,0.71,2.07529,0.77,82.514305
+10/29/25,Semiconductors,ALAB,"Astera Labs, Inc.",0.81,1.58169,1.15,110.087944
+10/29/25,Semiconductors,STM,STMicroelectronics N.V.,0.58,0.6108,1.39,41.04453
+10/29/25,Semiconductors,ON,ON Semiconductor Corporation,1.05,2.2914,4.32,22.721916
+10/29/25,Semiconductors,GFS,GLOBALFOUNDRIES Inc.,-0.21,1.62128,1.79,21.557043
+10/29/25,Semiconductors,UMC,United Microelectronics Corporation,0.54,0.44322,0.64,16.955462
+10/29/25,Semiconductors,SWKS,"Skyworks Solutions, Inc.",2.51,5.6546,6.4,14.669472
+10/29/25,Semiconductors,RMBS,Rambus Inc.,2.1,2.49286,2.45,44.306538
+10/29/25,Semiconductors,MTSI,"MACOM Technology Solutions Holdings, Inc.",-0.96,3.46932,3.98,44.458282
+10/29/25,Semiconductors,LSCC,Lattice Semiconductor Corporation,0.23,1.055,1.06,71.554504
+10/29/25,Luxury Goods,TPR,"Tapestry, Inc.",0.81,5.47978,4.76,20.701561
+10/29/25,Personal Services,ROL,"Rollins, Inc.",1.01,1.11947,1.12,48.942802
+10/29/25,Personal Services,SCI,Service Corporation International,3.68,3.84121,3.96,20.894459
+10/29/25,"Furnishings, Fixtures & Appliances",SGI,Somnigroup International Inc.,1.46,2.56592,0.11,32.146362
+10/29/25,"Furnishings, Fixtures & Appliances",SN,"SharkNinja, Inc.",3.66,5.11289,4.87,18.972635
+10/29/25,Apparel Manufacturing,RL,Ralph Lauren Corporation,12.52,14.79783,13.02,22.261374
+10/29/25,Footwear & Accessories,ONON,On Holding AG,0.53,0.60684,1.1,65.585655
+10/29/25,Footwear & Accessories,DECK,Deckers Outdoor Corporation,6.73,6.39992,6.36,13.45798
+10/29/25,Leisure,AS,"Amer Sports, Inc.",0.41,0.84876,0.7,38.03195
+10/29/25,Leisure,HAS,"Hasbro, Inc.",-3.99,4.97483,4.43,15.71712
+10/29/25,Gambling,FLUT,Flutter Entertainment plc,2.04,8.25923,8.32,28.992414
+10/29/25,Gambling,DKNG,DraftKings Inc.,-0.65,1.16957,0.57,27.168104
+10/29/25,Auto & Truck Dealerships,CVNA,Carvana Co.,4.02,5.43782,2.35,66.90549
+10/29/25,Auto & Truck Dealerships,PAG,"Penske Automotive Group, Inc.",14.36,13.93354,13.88,11.77949
+10/29/25,Packaging & Containers,IP,International Paper Company,-0.06,1.52626,3.0,30.106274
+10/29/25,Packaging & Containers,SW,Smurfit Westrock Plc,0.26,2.66,3.61,14.676692
+10/29/25,Packaging & Containers,AMCR,Amcor plc,0.32,0.80225,0.79,10.1153
+10/29/25,Packaging & Containers,PKG,Packaging Corporation of America,9.9,9.95076,11.24,20.401457
+10/29/25,Packaging & Containers,AVY,Avery Dennison Corporation,8.82,9.49832,10.52,18.881233
+10/29/25,Packaging & Containers,BALL,Ball Corporation,2.02,3.58174,3.53,13.560449
+10/29/25,Packaging & Containers,CCK,"Crown Holdings, Inc.",8.06,7.76331,6.87,12.514636
+10/29/25,Lodging,IHG,InterContinental Hotels Group PLC,4.72,5.4166,5.35,23.064283
+10/29/25,Lodging,H,Hyatt Hotels Corporation,4.4,2.37707,3.95,61.05836
+10/29/25,Lodging,HTHT,H World Group Limited,1.67,14.37524,2.05,2.688303
+10/29/25,Discount Stores,TGT,Target Corporation,8.58,7.33666,10.51,13.018186
+10/29/25,Discount Stores,DG,Dollar General Corporation,5.4,6.12425,6.22,16.402008
+10/29/25,Discount Stores,DLTR,"Dollar Tree, Inc.",5.16,5.47996,6.06,18.66072
+10/29/25,Discount Stores,BJ,"BJ's Wholesale Club Holdings, Inc.",4.36,4.33025,4.25,20.86831
+10/29/25,Auto Parts,APTV,Aptiv PLC,4.42,7.58653,6.98,11.495374
+10/29/25,Auto Parts,GPC,Genuine Parts Company,5.81,7.63822,8.47,17.128336
+10/29/25,Auto Parts,MGA,Magna International Inc.,4.26,5.1685,5.95,8.813002
+10/29/25,Auto Parts,MBLY,Mobileye Global Inc.,-0.41,0.35611,0.41,37.235687
+10/29/25,Electronic Gaming & Multimedia,EA,Electronic Arts Inc.,3.45,8.41491,8.53,23.805958
+10/29/25,Electronic Gaming & Multimedia,TTWO,"Take-Two Interactive Software, Inc.",-24.13,2.88646,7.84,87.29724
+10/29/25,Advertising Agencies,OMC,Omnicom Group Inc.,6.78,8.59292,8.64,8.815396
+10/29/25,Entertainment,LYV,"Live Nation Entertainment, Inc.",2.36,1.47,2.42,103.58163
+10/29/25,Entertainment,FOXA,Fox Corporation,4.91,4.19845,3.73,14.562516
+10/29/25,Entertainment,FOX,Fox Corporation,4.91,,2.35,
+10/29/25,Entertainment,FWONK,Formula One Group,1.01,2.16236,1.34,46.40532
+10/29/25,Entertainment,FWONA,Formula One Group,1.0,3.62398,1.3,25.251244
+10/29/25,Entertainment,PSKY,Paramount Skydance Corporation,0.03,1.25599,,12.774783
+10/29/25,Entertainment,WMG,Warner Music Group Corp.,0.57,1.11674,1.4,28.372763
+10/29/25,Entertainment,NWS,News Corporation,0.84,0.98284,,31.342844
+10/29/25,Entertainment,NWSA,News Corporation,0.84,0.98284,1.06,26.871107
+10/29/25,Entertainment,TKO,"TKO Group Holdings, Inc.",2.44,3.28197,3.24,57.538643
+10/29/25,Entertainment,ROKU,"Roku, Inc.",-0.42,0.18182,-0.63,541.46954
+10/29/25,Telecom Services,CHT,"Chunghwa Telecom Co., Ltd.",1.58,,1.53,
+10/29/25,Telecom Services,CHTR,"Charter Communications, Inc.",36.54,37.16876,35.78,6.537345
+10/29/25,Telecom Services,TEF,"Telefónica, S.A.",-0.16,0.2745,0.29,18.943533
+10/29/25,Telecom Services,VOD,Vodafone Group Public Limited Company,-1.85,0.726,0.85,16.508265
+10/29/25,Telecom Services,TU,TELUS Corporation,0.46,0.72594,0.75,20.394249
+10/29/25,Telecom Services,BCE,BCE Inc.,0.33,2.68783,2.09,8.687231
+10/29/25,Telecom Services,RCI,Rogers Communications Inc.,8.91,4.85804,3.75,8.180254
+10/29/25,Telecom Services,SATS,EchoStar Corporation,-1.06,-4.91732,-2.75,-15.097655
+10/29/25,Telecom Services,VIV,Telefônica Brasil S.A.,0.66,3.94,0.76,3.270888
+10/29/25,Telecom Services,TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,1.39,1.45144,1.8,13.746142
+10/29/25,Telecom Services,TIMB,TIM S.A.,1.38,1.48101,1.46,15.830413
+10/29/25,Telecom Services,LUMN,"Lumen Technologies, Inc.",-1.19,-0.56305,-0.64,-18.984283
+10/29/25,Internet Content & Information,BIDU,"Baidu, Inc.",10.94,52.69972,11.09,2.427717
+10/29/25,Internet Content & Information,RDDT,"Reddit, Inc.",2.24,4.02891,0.67,52.65196
+10/29/25,Internet Content & Information,TME,Tencent Music Entertainment Group,0.93,6.13301,0.77,3.7379687
+10/29/25,Internet Content & Information,NBIS,,0.77,-1.69,,-73.42603
+10/29/25,Internet Content & Information,PINS,"Pinterest, Inc.",2.76,1.76545,1.8,18.82523
+10/29/25,Internet Content & Information,ZG,"Zillow Group, Inc.",-0.27,1.6153,1.87,43.96706
+10/29/25,Internet Content & Information,Z,"Zillow Group, Inc.",-0.27,1.65089,1.96,44.715275
+10/29/25,Internet Content & Information,SNAP,Snap Inc.,-0.32,0.26025,0.41,30.12488
+10/29/25,Internet Content & Information,BILI,Bilibili Inc.,0.08,5.44191,0.61,5.898664
+10/29/25,Internet Content & Information,BZ,Kanzhun Limited,0.67,7.64553,0.97,2.9589837
+10/29/25,Grocery Stores,KR,The Kroger Co.,3.94,4.79894,4.58,13.847433
+10/29/25,Grocery Stores,SFM,"Sprouts Farmers Market, Inc.",4.85,5.31014,4.2,19.777256
+10/29/25,Grocery Stores,ACI,"Albertsons Companies, Inc.",1.69,2.14543,2.27,8.555394
+10/29/25,Food Distribution,SYY,Sysco Corporation,3.73,4.57351,4.92,16.30039
+10/29/25,Food Distribution,USFD,US Foods Holding Corp.,2.34,3.89758,3.78,18.883512
+10/29/25,Food Distribution,PFGC,Performance Food Group Company,2.18,5.16975,5.63,19.190481
+10/29/25,Farm Products,ADM,Archer-Daniels-Midland Company,2.3,3.83903,5.07,15.882917
+10/29/25,Farm Products,BG,Bunge Global SA,9.92,7.26651,9.3,13.317259
+10/29/25,Farm Products,TSN,"Tyson Foods, Inc.",2.2,3.79447,3.5,13.451154
+10/29/25,Confectioners,HSY,The Hershey Company,7.53,5.95706,8.4,29.496096
+10/29/25,Packaged Foods,K,Kellanova,3.82,3.64948,1.2,22.763515
+10/29/25,Packaged Foods,KHC,The Kraft Heinz Company,-4.46,2.58502,3.07,9.429327
+10/29/25,Packaged Foods,GIS,"General Mills, Inc.",5.29,3.65173,4.7,12.855551
+10/29/25,Packaged Foods,MKC-V,"McCormick & Company, Incorporated",2.88,,,
+10/29/25,Packaged Foods,MKC,"McCormick & Company, Incorporated",2.88,3.0215,3.12,21.403275
+10/29/25,Packaged Foods,JBS,JBS N.V.,1.13,10.293,,1.2693092
+10/29/25,Packaged Foods,HRL,Hormel Foods Corporation,1.37,1.42666,1.69,15.294464
+10/29/25,Packaged Foods,SJM,The J. M. Smucker Company,-13.72,9.07633,10.53,11.245603
+10/29/25,Household & Personal Products,KMB,Kimberly-Clark Corporation,7.31,7.43496,7.63,15.930147
+10/29/25,Household & Personal Products,EL,The Estée Lauder Companies Inc.,-3.15,2.0855,2.7,47.14457
+10/29/25,Household & Personal Products,KVUE,Kenvue Inc.,0.75,1.02921,1.22,13.724119
+10/29/25,Household & Personal Products,CHD,"Church & Dwight Co., Inc.",2.12,3.47597,3.73,23.704174
+10/29/25,Household & Personal Products,CLX,The Clorox Company,6.52,5.99709,7.29,18.764101
+10/29/25,Apparel Retail,LULU,lululemon athletica inc.,14.65,12.99338,14.93,13.299081
+10/29/25,Apparel Retail,BURL,"Burlington Stores, Inc.",8.48,9.55143,9.62,29.169453
+10/29/25,Restaurants,YUM,"Yum! Brands, Inc.",5.07,6.00689,6.08,23.224997
+10/29/25,Restaurants,QSR,Restaurant Brands International Inc.,2.65,3.64958,5.36,18.015772
+10/29/25,Restaurants,DRI,"Darden Restaurants, Inc.",9.34,10.62191,10.56,17.088263
+10/29/25,Restaurants,YUMC,"Yum China Holdings, Inc.",2.42,2.50516,2.58,17.493893
+10/29/25,Restaurants,DPZ,"Domino's Pizza, Inc.",17.1,17.61163,17.64,23.12506
+10/29/25,Restaurants,TXRH,"Texas Roadhouse, Inc.",6.56,6.52605,7.15,26.078562
+10/29/25,Travel Services,TCOM,Trip.com Group Limited,3.64,26.09611,3.64,2.799651
+10/29/25,Travel Services,CCL,Carnival Corporation & plc,1.94,2.16127,1.72,13.068706
+10/29/25,Travel Services,CUK,Carnival Corporation & plc,1.94,2.13,1.68,12.018779
+10/29/25,Travel Services,EXPE,"Expedia Group, Inc.",8.11,14.32773,14.36,15.598424
+10/29/25,Travel Services,VIK,Viking Holdings Ltd,1.89,2.47899,2.08,23.90288
+10/29/25,Travel Services,NCLH,Norwegian Cruise Line Holdings Ltd.,1.46,2.07214,2.09,10.870404
+10/29/25,Health Information Services,VEEV,Veeva Systems Inc.,4.87,7.80524,6.76,37.13723
+10/29/25,Health Information Services,GEHC,GE HealthCare Technologies Inc.,4.88,4.52393,4.67,17.130018
+10/29/25,Health Information Services,TEM,"Tempus AI, Inc.",2.15,-0.71965,-0.7,-122.55973
+10/29/25,Health Information Services,DOCS,"Doximity, Inc.",1.17,1.52003,1.19,44.229393
+10/29/25,Medical Distribution,CAH,"Cardinal Health, Inc.",6.45,9.43068,8.64,17.249022
+10/29/25,Medical Care Facilities,THC,Tenet Healthcare Corporation,14.71,16.02395,11.46,12.998667
+10/29/25,Medical Care Facilities,FMS,Fresenius Medical Care AG,1.3,1.89675,2.62,14.419402
+10/29/25,Medical Care Facilities,UHS,"Universal Health Services, Inc.",21.01,21.40325,18.16,10.494434
+10/29/25,Medical Care Facilities,EHC,Encompass Health Corporation,5.13,5.25523,4.78,24.288185
+10/29/25,Medical Care Facilities,ENSG,"The Ensign Group, Inc.",5.51,6.41316,6.14,28.963413
+10/29/25,Biotechnology,ONC,BeOne Medicines AG,-1.68,2.26673,,138.5498
+10/29/25,Biotechnology,INSM,Insmed Incorporated,-5.67,-5.55943,-4.23,-29.75125
+10/29/25,Biotechnology,BNTX,BioNTech SE,-1.66,-4.04847,-3.9,-25.982656
+10/29/25,Biotechnology,RPRX,Royalty Pharma plc,2.29,4.44996,4.39,8.256254
+10/29/25,Biotechnology,GMAB,Genmab A/S,1.93,1.71426,1.4,16.985756
+10/29/25,Biotechnology,INCY,Incyte Corporation,5.9,6.85538,6.14,13.131292
+10/29/25,Biotechnology,BBIO,"BridgeBio Pharma, Inc.",-4.13,-2.898,-3.06,-23.119392
+10/29/25,Biotechnology,ROIV,Roivant Sciences Ltd.,-1.09,-1.16424,-1.19,-15.963202
+10/29/25,Biotechnology,ASND,Ascendis Pharma A/S,-5.27,-2.21243,-3.95,-93.48093
+10/29/25,Biotechnology,IONS,"Ionis Pharmaceuticals, Inc.",-1.76,-1.92673,-3.74,-37.75049
+10/29/25,Biotechnology,RVMD,"Revolution Medicines, Inc.",-4.52,-5.31579,-4.05,-10.940048
+10/29/25,Biotechnology,EXEL,"Exelixis, Inc.",2.08,2.66467,1.7,15.022498
+10/29/25,Biotechnology,BMRN,BioMarin Pharmaceutical Inc.,2.69,3.58889,2.99,14.851388
+10/29/25,Medical Devices,EW,Edwards Lifesciences Corporation,2.39,2.51067,2.45,32.927467
+10/29/25,Medical Devices,DXCM,"DexCom, Inc.",1.42,2.05066,2.03,33.506287
+10/29/25,Medical Devices,PHG,Koninklijke Philips N.V.,0.19,1.57004,1.69,17.636494
+10/29/25,Medical Devices,STE,STERIS plc,6.54,10.16556,9.97,23.486656
+10/29/25,Medical Devices,PODD,Insulet Corporation,3.28,4.66792,3.87,68.33236
+10/29/25,Medical Devices,ZBH,"Zimmer Biomet Holdings, Inc.",4.1,8.14678,8.6,12.296883
+10/29/25,Medical Devices,SNN,Smith & Nephew plc,1.11,1.57026,1.29,23.066244
+10/29/25,Electronic Components,CLS,Celestica Inc.,6.14,5.91015,4.45,58.57467
+10/29/25,Electronic Components,FLEX,Flex Ltd.,2.27,3.03802,2.78,21.326391
+10/29/25,Electronic Components,JBL,Jabil Inc.,5.92,11.10305,10.01,19.998108
+10/29/25,Electronic Components,FN,Fabrinet,9.19,12.24816,11.07,36.74062
+10/29/25,Communication Equipment,UI,Ubiquiti Inc.,11.74,11.781,10.2,65.59885
+10/29/25,Communication Equipment,NOK,Nokia Oyj,0.19,0.31121,0.35,23.71389
+10/29/25,Communication Equipment,ERIC,Telefonaktiebolaget LM Ericsson (publ),0.79,0.78267,0.52,12.963061
+10/29/25,Communication Equipment,HPE,Hewlett Packard Enterprise Company,0.85,1.89832,2.1,12.858791
+10/29/25,Communication Equipment,ASTS,"AST SpaceMobile, Inc.",-1.86,-1.04814,-0.71,-76.89812
+10/29/25,Communication Equipment,CIEN,Ciena Corporation,0.99,2.49444,2.72,75.828636
+10/29/25,Communication Equipment,LITE,Lumentum Holdings Inc.,0.38,4.89769,3.69,43.41639
+10/29/25,Communication Equipment,ZBRA,Zebra Technologies Corporation,9.93,15.7969,16.04,17.386005
+10/29/25,Computer Hardware,WDC,Western Digital Corporation,4.45,6.73773,8.81,20.965517
+10/29/25,Computer Hardware,SMCI,"Super Micro Computer, Inc.",1.68,2.56744,4.24,20.92746
+10/29/25,Computer Hardware,PSTG,"Pure Storage, Inc.",0.41,1.95638,1.85,49.233788
+10/29/25,Computer Hardware,SNDK,Sandisk Corporation,-11.32,6.66328,,29.264866
+10/29/25,Computer Hardware,HPQ,HP Inc.,2.75,3.12294,3.6,8.887458
+10/29/25,Computer Hardware,IONQ,"IonQ, Inc.",-2.06,-0.718,-0.88,-85.099304
+10/29/25,Computer Hardware,LOGI,Logitech International S.A.,4.4,5.61772,4.69,20.682768
+10/29/25,Computer Hardware,QBTS,D-Wave Quantum Inc.,-1.13,-0.22625,-0.26,-150.09944
+10/29/25,Information Technology Services,FI,"Fiserv, Inc.",5.98,10.0681,10.19,7.4557266
+10/29/25,Information Technology Services,CTSH,Cognizant Technology Solutions Corporation,4.93,5.15967,4.99,13.888486
+10/29/25,Information Technology Services,FIS,"Fidelity National Information Services, Inc.",0.25,5.75439,5.71,10.442463
+10/29/25,Information Technology Services,WIT,Wipro Limited,0.15,0.14388,0.29,18.555742
+10/29/25,Information Technology Services,BR,"Broadridge Financial Solutions, Inc.",7.1,9.35666,9.35,23.674046
+10/29/25,Information Technology Services,LDOS,"Leidos Holdings, Inc.",10.59,11.58317,10.45,16.369871
+10/29/25,Information Technology Services,CDW,CDW Corporation,8.04,9.85772,10.12,15.917474
+10/29/25,Information Technology Services,GIB,CGI Inc.,5.4,8.25605,6.47,10.530459
+10/29/25,Information Technology Services,IT,"Gartner, Inc.",16.22,12.20572,13.19,20.602636
+10/29/25,Information Technology Services,CACI,CACI International Inc,22.61,28.23121,26.9,20.080791
+10/29/25,Information Technology Services,JKHY,"Jack Henry & Associates, Inc.",6.23,6.29273,6.32,23.500135
+10/29/25,Auto Manufacturers,HMC,"Honda Motor Co., Ltd.",2.82,,4.96,
+10/29/25,Auto Manufacturers,STLA,Stellantis N.V.,-0.93,0.81475,2.98,13.986376
+10/29/25,Auto Manufacturers,LI,Li Auto Inc.,1.07,5.39823,1.54,3.902205
+10/29/25,Auto Manufacturers,XPEV,XPeng Inc.,-0.63,-0.8248,-0.45,-28.26746
+10/29/25,Auto Manufacturers,NIO,NIO Inc.,-1.62,-7.46854,-0.85,-0.9486459
+10/29/25,Auto Manufacturers,RIVN,"Rivian Automotive, Inc.",-3.21,-2.66694,-2.74,-5.168845
+10/29/25,Internet Retail,JD,"JD.com, Inc.",3.59,19.11743,4.14,1.8098667
+10/29/25,Internet Retail,EBAY,eBay Inc.,4.5,5.42501,5.22,18.467245
+10/29/25,Internet Retail,CHWY,"Chewy, Inc.",0.36,1.2747,0.6,26.559189
+10/29/25,Internet Retail,W,Wayfair Inc.,-2.57,2.18452,0.82,48.49578
+10/29/25,Internet Retail,CART,Maplebear Inc.,1.73,3.02737,1.34,12.426627
+10/29/25,Financial Conglomerates,IX,ORIX Corporation,2.13,,11.74,
+10/29/25,Mortgage Finance,RKT,"Rocket Companies, Inc.",-0.03,0.21359,0.66,81.67517
+10/29/25,Insurance Brokers,WTW,Willis Towers Watson Public Limited Company,1.47,16.92214,18.09,18.845726
+10/29/25,Insurance Brokers,BRO,"Brown & Brown, Inc.",3.3,4.2031,4.09,19.195354
+10/29/25,Insurance Brokers,ERIE,Erie Indemnity Company,11.95,12.46,13.4,24.823034
+10/29/25,Capital Markets,CRCL,Circle Internet Group,-1.74,-0.92922,,-143.26187
+10/29/25,Capital Markets,LPLA,LPL Financial Holdings Inc.,14.58,18.83761,18.58,18.061739
+10/29/25,Capital Markets,TW,Tradeweb Markets Inc.,2.59,3.40207,3.32,31.426455
+10/29/25,Capital Markets,NMR,"Nomura Holdings, Inc.",0.79,,0.56,
+10/29/25,Capital Markets,IREN,IREN Limited,0.39,0.98667,0.34,62.026817
+10/29/25,Capital Markets,GLXY,Galaxy Digital,0.87,0.90333,,41.800888
+10/29/25,Capital Markets,HLI,"Houlihan Lokey, Inc.",5.94,7.74699,6.74,25.762264
+10/29/25,Capital Markets,SF,Stifel Financial Corp.,5.65,7.25061,7.63,16.111748
+10/29/25,Capital Markets,EVR,Evercore Inc.,11.04,13.36041,14.06,22.422592
+10/29/25,Capital Markets,JEF,Jefferies Financial Group Inc.,2.88,2.94,4.47,18.47619
+10/29/25,Asset Management,AMP,"Ameriprise Financial, Inc.",32.08,38.21429,38.63,12.52712
+10/29/25,Asset Management,STT,State Street Corporation,9.42,10.14138,9.34,11.755796
+10/29/25,Asset Management,APO-PA,"Apollo Global Management, Inc.",,,,
+10/29/25,Asset Management,RJF,"Raymond James Financial, Inc.",10.3,11.93758,11.14,13.390487
+10/29/25,Asset Management,OWL,Blue Owl Capital Inc.,0.11,0.82926,0.93,20.663002
+10/29/25,Asset Management,NTRS,Northern Trust Corporation,8.58,8.64887,7.64,14.812339
+10/29/25,Asset Management,TROW,"T. Rowe Price Group, Inc.",8.93,9.44858,9.35,11.038696
+10/29/25,Asset Management,TPG,TPG Inc.,-0.18,2.438,2.56,23.42904
+10/29/25,Asset Management,CG,The Carlyle Group Inc.,3.42,4.1283,4.43,14.037254
+10/29/25,Asset Management,PFG,"Principal Financial Group, Inc.",4.96,8.3006,8.44,10.0191555
+10/29/25,Asset Management,STT-PG,State Street Corporation,7.376,,,
+10/29/25,Asset Management,CRBG,"Corebridge Financial, Inc.",-0.68,4.53203,5.62,7.078506
+10/29/25,Asset Management,ARCC,Ares Capital Corporation,1.99,2.00482,2.2,10.389959
+10/29/25,Asset Management,EQH,"Equitable Holdings, Inc.",1.29,5.80204,7.23,8.366023
+10/29/25,Asset Management,BEN,"Franklin Resources, Inc.",0.51,2.12148,2.6,10.971209
+10/29/25,Asset Management,IVZ,Invesco Ltd.,0.93,1.98291,1.89,12.378272
+10/29/25,Asset Management,SEIC,SEI Investments Company,5.43,4.966,4.88,16.354208
+10/29/25,Credit Services,SOFI,"SoFi Technologies, Inc.",0.56,0.36967,0.29,84.007355
+10/29/25,Credit Services,SYF,Synchrony Financial,9.12,9.30839,6.47,8.025019
+10/29/25,Credit Services,ALLY,Ally Financial Inc.,1.04,3.74586,4.15,10.851981
+10/29/25,Healthcare Plans,HUM,Humana Inc.,13.06,17.03984,16.84,17.277157
+10/29/25,Healthcare Plans,CNC,Centene Corporation,4.12,1.6724,7.04,21.950489
+10/29/25,Specialty Retail,TSCO,Tractor Supply Company,2.07,2.10781,11.13,25.970083
+10/29/25,Specialty Retail,WSM,"Williams-Sonoma, Inc.",8.98,8.59024,8.13,23.438229
+10/29/25,Specialty Retail,ULTA,"Ulta Beauty, Inc.",26.04,24.48678,22.87,20.72016
+10/29/25,Specialty Retail,DKS,"DICK'S Sporting Goods, Inc.",14.32,14.46896,14.82,15.936184
+10/29/25,Specialty Retail,CASY,"Casey's General Stores, Inc.",15.6,16.43271,16.2,32.2783
+10/29/25,Specialty Retail,BBY,"Best Buy Co., Inc.",3.63,6.25117,6.84,13.440683
+10/29/25,Specialty Retail,GME,GameStop Corp.,0.8,0.99,-0.01,23.358585
+10/29/25,Residential Construction,DHI,"D.R. Horton, Inc.",11.58,11.63858,15.93,13.138629
+10/29/25,Residential Construction,LEN,Lennar Corporation,10.1,8.22905,16.14,15.56741
+10/29/25,Residential Construction,PHM,"PulteGroup, Inc.",12.96,11.35675,13.5,10.672068
+10/29/25,Residential Construction,TOL,"Toll Brothers, Inc.",13.56,13.78934,14.62,10.104182
+10/29/25,Solar,FSLR,"First Solar, Inc.",11.69,15.28053,20.86,15.911752
+10/29/25,Solar,NXT,Nextracker Inc.,3.86,4.25532,3.38,24.078094
+10/29/25,Resorts & Casinos,LVS,Las Vegas Sands Corp.,2.22,2.88992,2.75,20.41925
+10/29/25,Resorts & Casinos,WYNN,"Wynn Resorts, Limited",3.38,4.73717,5.02,25.606005
+10/29/25,Semiconductors,MCHP,Microchip Technology Incorporated,-0.34,1.45249,2.6,44.007187
+10/29/25,Semiconductors,ASX,"ASE Technology Holding Co., Ltd.",0.49,0.55176,0.75,25.993729
+10/29/25,Semiconductors,CRDO,Credo Technology Group Holding Ltd,0.71,2.07529,0.77,82.61737
+10/29/25,Semiconductors,ALAB,"Astera Labs, Inc.",0.81,1.58169,1.15,110.09111
+10/29/25,Semiconductors,STM,STMicroelectronics N.V.,0.58,0.6108,1.39,41.052715
+10/29/25,Semiconductors,ON,ON Semiconductor Corporation,1.05,2.2914,4.32,22.732828
+10/29/25,Semiconductors,GFS,GLOBALFOUNDRIES Inc.,-0.21,1.62128,1.79,21.553957
+10/29/25,Semiconductors,SWKS,"Skyworks Solutions, Inc.",2.51,5.6546,6.4,14.671241
+10/29/25,Semiconductors,RMBS,Rambus Inc.,2.1,2.49286,2.45,44.272438
+10/29/25,Semiconductors,MTSI,"MACOM Technology Solutions Holdings, Inc.",-0.96,3.46932,3.98,44.442425
+10/29/25,Semiconductors,LSCC,Lattice Semiconductor Corporation,0.23,1.055,1.06,71.57346
+10/29/25,Luxury Goods,TPR,"Tapestry, Inc.",0.81,5.47978,4.76,20.686962
+10/29/25,Personal Services,ROL,"Rollins, Inc.",1.01,1.11947,1.12,49.03213
+10/29/25,Personal Services,SCI,Service Corporation International,3.68,3.84121,3.96,20.915285
+10/29/25,"Furnishings, Fixtures & Appliances",SGI,Somnigroup International Inc.,1.46,2.56592,0.11,32.12103
+10/29/25,"Furnishings, Fixtures & Appliances",SN,"SharkNinja, Inc.",3.66,5.11289,4.87,18.959925
+10/29/25,Apparel Manufacturing,RL,Ralph Lauren Corporation,12.52,14.79783,13.02,22.248533
+10/29/25,Footwear & Accessories,ONON,On Holding AG,0.53,0.60684,1.1,65.618614
+10/29/25,Footwear & Accessories,DECK,Deckers Outdoor Corporation,6.73,6.39992,6.36,13.456419
+10/29/25,Leisure,AS,"Amer Sports, Inc.",0.41,0.84876,0.7,38.043736
+10/29/25,Leisure,HAS,"Hasbro, Inc.",-3.99,4.97483,4.43,15.725161
+10/29/25,Gambling,FLUT,Flutter Entertainment plc,2.04,8.25923,8.32,29.00331
+10/29/25,Gambling,DKNG,DraftKings Inc.,-0.65,1.16957,0.57,27.180931
+10/29/25,Auto & Truck Dealerships,CVNA,Carvana Co.,4.02,5.43782,2.35,66.80067
+10/29/25,Packaging & Containers,IP,International Paper Company,-0.06,1.52626,3.0,30.119377
+10/29/25,Packaging & Containers,SW,Smurfit Westrock Plc,0.26,2.66,3.61,14.656014
+10/29/25,Packaging & Containers,PKG,Packaging Corporation of America,9.9,9.95076,11.24,20.415024
+10/29/25,Packaging & Containers,AVY,Avery Dennison Corporation,8.82,9.49832,10.52,18.90545
+10/29/25,Packaging & Containers,BALL,Ball Corporation,2.02,3.58174,3.53,13.564636
+10/29/25,Packaging & Containers,CCK,"Crown Holdings, Inc.",8.06,7.76331,6.87,12.521077
+10/29/25,Lodging,IHG,InterContinental Hotels Group PLC,4.72,5.4166,5.35,23.073515
+10/29/25,Lodging,H,Hyatt Hotels Corporation,4.4,2.37707,3.95,61.05626
+10/29/25,Lodging,HTHT,H World Group Limited,1.67,14.37524,2.05,2.692129
+10/29/25,Discount Stores,TGT,Target Corporation,8.58,7.33666,10.51,13.035905
+10/29/25,Discount Stores,BJ,"BJ's Wholesale Club Holdings, Inc.",4.36,4.33025,4.25,20.85561
+10/29/25,Auto Parts,APTV,Aptiv PLC,4.42,7.58653,6.98,11.498011
+10/29/25,Auto Parts,GPC,Genuine Parts Company,5.81,7.63822,8.47,17.129644
+10/29/25,Auto Parts,MGA,Magna International Inc.,4.26,5.1685,5.95,8.819774
+10/29/25,Auto Parts,MBLY,Mobileye Global Inc.,-0.41,0.35611,0.41,37.249725
+10/29/25,Electronic Gaming & Multimedia,EA,Electronic Arts Inc.,3.45,8.41491,8.53,23.804174
+10/29/25,Electronic Gaming & Multimedia,TTWO,"Take-Two Interactive Software, Inc.",-24.13,2.88646,7.84,87.25394
+10/29/25,Advertising Agencies,OMC,Omnicom Group Inc.,6.78,8.59292,8.64,8.823543
+10/29/25,Entertainment,LYV,"Live Nation Entertainment, Inc.",2.36,1.47,2.42,103.64285
+10/29/25,Entertainment,FOXA,Fox Corporation,4.91,4.19845,3.73,14.560135
+10/29/25,Entertainment,FWONK,Formula One Group,1.01,2.16236,1.34,46.349823
+10/29/25,Entertainment,FWONA,Formula One Group,1.0,3.62398,1.3,25.292635
+10/29/25,Entertainment,PSKY,Paramount Skydance Corporation,0.03,1.25599,,12.7708025
+10/29/25,Entertainment,WMG,Warner Music Group Corp.,0.57,1.11674,1.4,28.39515
+10/29/25,Entertainment,NWSA,News Corporation,0.84,0.98284,1.06,26.866022
+10/29/25,Entertainment,TKO,"TKO Group Holdings, Inc.",2.44,3.28197,3.24,57.57213
+10/29/25,Entertainment,ROKU,"Roku, Inc.",-0.42,0.18182,-0.63,542.23956
+10/29/25,Telecom Services,CHTR,"Charter Communications, Inc.",36.54,37.16876,35.78,6.5385556
+10/29/25,Telecom Services,TEF,"Telefónica, S.A.",-0.16,0.2745,0.29,18.925318
+10/29/25,Telecom Services,TU,TELUS Corporation,0.46,0.72594,0.75,20.384054
+10/29/25,Telecom Services,BCE,BCE Inc.,0.33,2.68783,2.09,8.694747
+10/29/25,Telecom Services,RCI,Rogers Communications Inc.,8.91,4.85804,3.75,8.178195
+10/29/25,Telecom Services,SATS,EchoStar Corporation,-1.06,-4.91732,-2.75,-15.0996895
+10/29/25,Telecom Services,VIV,Telefônica Brasil S.A.,0.66,3.94,0.76,3.2703047
+10/29/25,Telecom Services,TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,1.39,1.45144,1.8,13.755305
+10/29/25,Telecom Services,TIMB,TIM S.A.,1.38,1.48101,1.46,15.810158
+10/29/25,Telecom Services,LUMN,"Lumen Technologies, Inc.",-1.19,-0.56305,-0.64,-18.959242
+10/29/25,Internet Content & Information,BIDU,"Baidu, Inc.",10.94,52.69972,11.09,2.4281704
+10/29/25,Internet Content & Information,RDDT,"Reddit, Inc.",2.24,4.02891,0.67,52.7078
+10/29/25,Internet Content & Information,TME,Tencent Music Entertainment Group,0.93,6.13301,0.77,3.7363384
+10/29/25,Internet Content & Information,NBIS,,0.77,-1.69,,-73.33136
+10/29/25,Internet Content & Information,PINS,"Pinterest, Inc.",2.76,1.76545,1.8,18.850718
+10/29/25,Internet Content & Information,Z,"Zillow Group, Inc.",-0.27,1.65089,1.96,44.709217
+10/29/25,Internet Content & Information,ZG,"Zillow Group, Inc.",-0.27,1.6153,1.87,43.973255
+10/29/25,Internet Content & Information,SNAP,Snap Inc.,-0.32,0.26025,0.41,30.240152
+10/29/25,Internet Content & Information,BZ,Kanzhun Limited,0.67,7.64553,0.97,2.9612072
+10/29/25,Grocery Stores,KR,The Kroger Co.,3.94,4.79894,4.58,13.848891
+10/29/25,Grocery Stores,SFM,"Sprouts Farmers Market, Inc.",4.85,5.31014,4.2,19.79232
+10/29/25,Grocery Stores,ACI,"Albertsons Companies, Inc.",1.69,2.14543,2.27,8.557725
+10/29/25,Food Distribution,SYY,Sysco Corporation,3.73,4.57351,4.92,16.302576
+10/29/25,Food Distribution,USFD,US Foods Holding Corp.,2.34,3.89758,3.78,18.929695
+10/29/25,Food Distribution,PFGC,Performance Food Group Company,2.18,5.16975,5.63,19.190619
+10/29/25,Farm Products,ADM,Archer-Daniels-Midland Company,2.3,3.83903,5.07,15.892035
+10/29/25,Farm Products,TSN,"Tyson Foods, Inc.",2.2,3.79447,3.5,13.453789
+10/29/25,Confectioners,HSY,The Hershey Company,7.53,5.95706,8.4,29.529669
+10/29/25,Packaged Foods,KHC,The Kraft Heinz Company,-4.46,2.58502,3.07,9.413853
+10/29/25,Packaged Foods,GIS,"General Mills, Inc.",5.29,3.65173,4.7,12.850074
+10/29/25,Packaged Foods,MKC,"McCormick & Company, Incorporated",2.88,3.0215,3.12,21.399967
+10/29/25,Packaged Foods,HRL,Hormel Foods Corporation,1.37,1.42666,1.69,15.29797
+10/29/25,Packaged Foods,SJM,The J. M. Smucker Company,-13.72,9.07633,10.53,11.239124
+10/29/25,Household & Personal Products,KMB,Kimberly-Clark Corporation,7.31,7.43496,7.63,15.934988
+10/29/25,Household & Personal Products,KVUE,Kenvue Inc.,0.75,1.02921,1.22,13.733835
+10/29/25,Household & Personal Products,CHD,"Church & Dwight Co., Inc.",2.12,3.47597,3.73,23.715681
+10/29/25,Household & Personal Products,CLX,The Clorox Company,6.52,5.99709,7.29,18.76827
+10/29/25,Apparel Retail,LULU,lululemon athletica inc.,14.65,12.99338,14.93,13.310624
+10/29/25,Restaurants,QSR,Restaurant Brands International Inc.,2.65,3.64958,5.36,18.017141
+10/29/25,Restaurants,DRI,"Darden Restaurants, Inc.",9.34,10.62191,10.56,17.084497
+10/29/25,Restaurants,YUMC,"Yum China Holdings, Inc.",2.42,2.50516,2.58,17.497883
+10/29/25,Travel Services,TCOM,Trip.com Group Limited,3.64,26.09611,3.64,2.8000343
+10/29/25,Travel Services,CCL,Carnival Corporation & plc,1.94,2.16127,1.72,13.077959
+10/29/25,Travel Services,CUK,Carnival Corporation & plc,1.94,2.13,1.68,12.032863
+10/29/25,Travel Services,EXPE,"Expedia Group, Inc.",8.11,14.32773,14.36,15.5949335
+10/29/25,Travel Services,VIK,Viking Holdings Ltd,1.89,2.47899,2.08,23.89683
+10/29/25,Travel Services,NCLH,Norwegian Cruise Line Holdings Ltd.,1.46,2.07214,2.09,10.877644
+10/29/25,Health Information Services,GEHC,GE HealthCare Technologies Inc.,4.88,4.52393,4.67,17.148808
+10/29/25,Health Information Services,TEM,"Tempus AI, Inc.",2.15,-0.71965,-0.7,-122.94866
+10/29/25,Health Information Services,DOCS,"Doximity, Inc.",1.17,1.52003,1.19,44.239258
+10/29/25,Medical Distribution,CAH,"Cardinal Health, Inc.",6.45,9.43068,8.64,17.24372
+10/29/25,Medical Care Facilities,THC,Tenet Healthcare Corporation,14.71,16.02395,11.46,13.004908
+10/29/25,Medical Care Facilities,UHS,"Universal Health Services, Inc.",21.01,21.40325,18.16,10.472241
+10/29/25,Medical Care Facilities,EHC,Encompass Health Corporation,5.13,5.25523,4.78,24.261545
+10/29/25,Medical Care Facilities,ENSG,"The Ensign Group, Inc.",5.51,6.41316,6.14,28.990389
+10/29/25,Biotechnology,INSM,Insmed Incorporated,-5.67,-5.55943,-4.23,-29.76744
+10/29/25,Biotechnology,BNTX,BioNTech SE,-1.66,-4.04847,-3.9,-25.950544
+10/29/25,Biotechnology,GMAB,Genmab A/S,1.93,1.71426,1.4,16.989838
+10/29/25,Biotechnology,INCY,Incyte Corporation,5.9,6.85538,6.14,13.121081
+10/29/25,Biotechnology,BBIO,"BridgeBio Pharma, Inc.",-4.13,-2.898,-3.06,-23.055557
+10/29/25,Biotechnology,IONS,"Ionis Pharmaceuticals, Inc.",-1.76,-1.92673,-3.74,-37.79201
+10/29/25,Biotechnology,RVMD,"Revolution Medicines, Inc.",-4.52,-5.31579,-4.05,-10.964503
+10/29/25,Biotechnology,BMRN,BioMarin Pharmaceutical Inc.,2.69,3.58889,2.99,14.856961
+10/29/25,Medical Devices,EW,Edwards Lifesciences Corporation,2.39,2.51067,2.45,32.91353
+10/29/25,Medical Devices,DXCM,"DexCom, Inc.",1.42,2.05066,2.03,33.508724
+10/29/25,Medical Devices,PHG,Koninklijke Philips N.V.,0.19,1.57004,1.69,17.677893
+10/29/25,Medical Devices,ZBH,"Zimmer Biomet Holdings, Inc.",4.1,8.14678,8.6,12.300566
+10/29/25,Electronic Components,CLS,Celestica Inc.,6.14,5.91015,4.45,58.48373
+10/29/25,Electronic Components,FLEX,Flex Ltd.,2.27,3.03802,2.78,21.306643
+10/29/25,Electronic Components,JBL,Jabil Inc.,5.92,11.10305,10.01,19.9873
+10/29/25,Electronic Components,FN,Fabrinet,9.19,12.24816,11.07,36.687958
+10/29/25,Communication Equipment,UI,Ubiquiti Inc.,11.74,11.781,10.2,65.84458
+10/29/25,Communication Equipment,NOK,Nokia Oyj,0.19,0.31121,0.35,23.729958
+10/29/25,Communication Equipment,ERIC,Telefonaktiebolaget LM Ericsson (publ),0.79,0.78267,0.52,12.962041
+10/29/25,Communication Equipment,HPE,Hewlett Packard Enterprise Company,0.85,1.89832,2.1,12.845569
+10/29/25,Communication Equipment,ASTS,"AST SpaceMobile, Inc.",-1.86,-1.04814,-0.71,-77.193886
+10/29/25,Communication Equipment,CIEN,Ciena Corporation,0.99,2.49444,2.72,75.8527
+10/29/25,Communication Equipment,LITE,Lumentum Holdings Inc.,0.38,4.89769,3.69,43.45616
+10/29/25,Communication Equipment,ZBRA,Zebra Technologies Corporation,9.93,15.7969,16.04,17.344225
+10/29/25,Computer Hardware,WDC,Western Digital Corporation,4.45,6.73773,8.81,20.846043
+10/29/25,Computer Hardware,SMCI,"Super Micro Computer, Inc.",1.68,2.56744,4.24,20.830088
+10/29/25,Computer Hardware,PSTG,"Pure Storage, Inc.",0.41,1.95638,1.85,49.21334
+10/29/25,Computer Hardware,SNDK,Sandisk Corporation,-11.32,6.66328,,29.221346
+10/29/25,Computer Hardware,HPQ,HP Inc.,2.75,3.12294,3.6,8.881055
+10/29/25,Computer Hardware,IONQ,"IonQ, Inc.",-2.06,-0.718,-0.88,-85.153206
+10/29/25,Computer Hardware,LOGI,Logitech International S.A.,4.4,5.61772,4.69,20.647165
+10/29/25,Computer Hardware,QBTS,D-Wave Quantum Inc.,-1.13,-0.22625,-0.26,-150.49945
+10/29/25,Information Technology Services,FI,"Fiserv, Inc.",5.98,10.0681,10.19,7.459203
+10/29/25,Information Technology Services,CTSH,Cognizant Technology Solutions Corporation,4.93,5.15967,4.99,13.8943
+10/29/25,Information Technology Services,FIS,"Fidelity National Information Services, Inc.",0.25,5.75439,5.71,10.48417
+10/29/25,Information Technology Services,BR,"Broadridge Financial Solutions, Inc.",7.1,9.35666,9.35,23.675116
+10/29/25,Information Technology Services,CDW,CDW Corporation,8.04,9.85772,10.12,15.93269
+10/29/25,Information Technology Services,GIB,CGI Inc.,5.4,8.25605,6.47,10.54136
+10/29/25,Information Technology Services,IT,"Gartner, Inc.",16.22,12.20572,13.19,20.63213
+10/29/25,Information Technology Services,JKHY,"Jack Henry & Associates, Inc.",6.23,6.29273,6.32,23.504902
+10/29/25,Auto Manufacturers,STLA,Stellantis N.V.,-0.93,0.81475,2.98,13.979749
+10/29/25,Auto Manufacturers,LI,Li Auto Inc.,1.07,5.39823,1.54,3.9059098
+10/29/25,Auto Manufacturers,XPEV,XPeng Inc.,-0.63,-0.8248,-0.45,-28.30383
+10/29/25,Auto Manufacturers,NIO,NIO Inc.,-1.62,-7.46854,-0.85,-0.9513238
+10/29/25,Auto Manufacturers,RIVN,"Rivian Automotive, Inc.",-3.21,-2.66694,-2.74,-5.1669703
+10/29/25,Internet Retail,JD,"JD.com, Inc.",3.59,19.11743,4.14,1.81062
+10/29/25,Internet Retail,EBAY,eBay Inc.,4.5,5.42501,5.22,18.49213
+10/29/25,Internet Retail,CHWY,"Chewy, Inc.",0.36,1.2747,0.6,26.570955
+10/29/25,Internet Retail,W,Wayfair Inc.,-2.57,2.18452,0.82,48.445427
+10/29/25,Internet Retail,CART,Maplebear Inc.,1.73,3.02737,1.34,12.446447
+10/29/25,Insurance Brokers,WTW,Willis Towers Watson Public Limited Company,1.47,16.92214,18.09,18.84927
+10/29/25,Insurance Brokers,BRO,"Brown & Brown, Inc.",3.3,4.2031,4.09,19.215292
+10/29/25,Capital Markets,CRCL,Circle Internet Group,-1.74,-0.92922,,-143.4585
+10/29/25,Capital Markets,LPLA,LPL Financial Holdings Inc.,14.58,18.83761,18.58,18.056961
+10/29/25,Capital Markets,TW,Tradeweb Markets Inc.,2.59,3.40207,3.32,31.419106
+10/29/25,Capital Markets,IREN,IREN Limited,0.39,0.98667,0.34,62.138306
+10/29/25,Capital Markets,GLXY,Galaxy Digital,0.87,0.90333,,41.590557
+10/29/25,Capital Markets,HLI,"Houlihan Lokey, Inc.",5.94,7.74699,6.74,25.763554
+10/29/25,Capital Markets,SF,Stifel Financial Corp.,5.65,7.25061,7.63,16.12416
+10/29/25,Capital Markets,EVR,Evercore Inc.,11.04,13.36041,14.06,22.454401
+10/29/25,Capital Markets,JEF,Jefferies Financial Group Inc.,2.88,2.94,4.47,18.493196
+10/29/25,Asset Management,ARES,Ares Management Corporation,1.77,5.01192,5.6,30.47335
+10/29/25,Asset Management,STT,State Street Corporation,9.42,10.14138,9.34,11.760233
+10/29/25,Asset Management,RJF,"Raymond James Financial, Inc.",10.3,11.93758,11.14,13.402632
+10/29/25,Asset Management,OWL,Blue Owl Capital Inc.,0.11,0.82926,0.93,20.66903
+10/29/25,Asset Management,NTRS,Northern Trust Corporation,8.58,8.64887,7.64,14.816963
+10/29/25,Asset Management,TROW,"T. Rowe Price Group, Inc.",8.93,9.44858,9.35,11.039754
+10/29/25,Asset Management,TPG,TPG Inc.,-0.18,2.438,2.56,23.420837
+10/29/25,Asset Management,CG,The Carlyle Group Inc.,3.42,4.1283,4.43,14.055422
+10/29/25,Asset Management,PFG,"Principal Financial Group, Inc.",4.96,8.3006,8.44,10.0215645
+10/29/25,Asset Management,CRBG,"Corebridge Financial, Inc.",-0.68,4.53203,5.62,7.080712
+10/29/25,Asset Management,ARCC,Ares Capital Corporation,1.99,2.00482,2.2,10.387466
+10/29/25,Asset Management,EQH,"Equitable Holdings, Inc.",1.29,5.80204,7.23,8.378088
+10/29/25,Asset Management,BEN,"Franklin Resources, Inc.",0.51,2.12148,2.6,10.978186
+10/29/25,Asset Management,IVZ,Invesco Ltd.,0.93,1.98291,1.89,12.3757515
+10/29/25,Asset Management,SEIC,SEI Investments Company,5.43,4.966,4.88,16.351187
+10/29/25,Credit Services,SOFI,"SoFi Technologies, Inc.",0.56,0.36967,0.29,84.11556
+10/29/25,Credit Services,SYF,Synchrony Financial,9.12,9.30839,6.47,8.030927
+10/29/25,Credit Services,ALLY,Ally Financial Inc.,1.04,3.74586,4.15,10.8626585
+10/29/25,Healthcare Plans,HUM,Humana Inc.,13.06,17.03984,16.84,17.361664
+10/29/25,Healthcare Plans,CNC,Centene Corporation,4.12,1.6724,7.04,22.333174
+10/29/25,Specialty Retail,TSCO,Tractor Supply Company,2.07,2.10781,11.13,25.960594
+10/29/25,Specialty Retail,WSM,"Williams-Sonoma, Inc.",8.98,8.59024,8.13,23.449871
+10/29/25,Specialty Retail,ULTA,"Ulta Beauty, Inc.",26.04,24.48678,22.87,20.852884
+10/29/25,Specialty Retail,DKS,"DICK'S Sporting Goods, Inc.",14.32,14.46896,14.82,15.94586
+10/29/25,Specialty Retail,CASY,"Casey's General Stores, Inc.",15.6,16.43271,16.2,32.293514
+10/29/25,Specialty Retail,BBY,"Best Buy Co., Inc.",3.63,6.25117,6.84,13.466279
+10/29/25,Specialty Retail,GME,GameStop Corp.,0.8,0.99,-0.01,23.42091
+10/29/25,Residential Construction,DHI,"D.R. Horton, Inc.",11.58,11.63858,15.93,13.200923
+10/29/25,Residential Construction,LEN,Lennar Corporation,10.1,8.22905,16.14,15.634855
+10/29/25,Residential Construction,PHM,"PulteGroup, Inc.",12.96,11.35675,13.5,10.6813135
+10/29/25,Residential Construction,NVR,"NVR, Inc.",455.14,421.1654,518.05,17.757359
+10/29/25,Residential Construction,TOL,"Toll Brothers, Inc.",13.56,13.78934,14.62,10.152045
+10/29/25,Solar,FSLR,"First Solar, Inc.",11.69,15.28053,20.86,15.860052
+10/29/25,Solar,NXT,Nextracker Inc.,3.86,4.25532,3.38,24.108644
+10/29/25,Resorts & Casinos,LVS,Las Vegas Sands Corp.,2.22,2.88992,2.75,20.509218
+10/29/25,Resorts & Casinos,WYNN,"Wynn Resorts, Limited",3.38,4.73717,5.02,25.633448
+10/29/25,Semiconductors,MCHP,Microchip Technology Incorporated,-0.34,1.45249,2.6,44.069153
+10/29/25,Semiconductors,ASX,"ASE Technology Holding Co., Ltd.",0.49,0.55176,0.75,26.125488
+10/29/25,Semiconductors,CRDO,Credo Technology Group Holding Ltd,0.71,2.07529,0.77,81.786156
+10/29/25,Semiconductors,ALAB,"Astera Labs, Inc.",0.81,1.58169,1.15,109.43358
+10/29/25,Semiconductors,STM,STMicroelectronics N.V.,0.58,0.6108,1.39,40.90537
+10/29/25,Semiconductors,ON,ON Semiconductor Corporation,1.05,2.2914,4.32,22.71537
+10/29/25,Semiconductors,GFS,GLOBALFOUNDRIES Inc.,-0.21,1.62128,1.79,21.37817
+10/29/25,Semiconductors,UMC,United Microelectronics Corporation,0.54,0.44322,0.64,16.636208
+10/29/25,Semiconductors,SWKS,"Skyworks Solutions, Inc.",2.51,5.6546,6.4,14.558059
+10/29/25,Semiconductors,RMBS,Rambus Inc.,2.1,2.49286,2.45,44.113987
+10/29/25,Semiconductors,MTSI,"MACOM Technology Solutions Holdings, Inc.",-0.96,3.46932,3.98,44.386997
+10/29/25,Semiconductors,LSCC,Lattice Semiconductor Corporation,0.23,1.055,1.06,71.696686
+10/29/25,Luxury Goods,TPR,"Tapestry, Inc.",0.81,5.47978,4.76,20.71251
+10/29/25,Personal Services,ROL,"Rollins, Inc.",1.01,1.11947,1.12,48.715015
+10/29/25,Personal Services,SCI,Service Corporation International,3.68,3.84121,3.96,20.891855
+10/29/25,"Furnishings, Fixtures & Appliances",SGI,Somnigroup International Inc.,1.46,2.56592,0.11,32.31589
+10/29/25,"Furnishings, Fixtures & Appliances",SN,"SharkNinja, Inc.",3.66,5.11289,4.87,18.982416
+10/29/25,Apparel Manufacturing,RL,Ralph Lauren Corporation,12.52,14.79783,13.02,22.27151
+10/29/25,Footwear & Accessories,ONON,On Holding AG,0.53,0.60684,1.1,65.31672
+10/29/25,Footwear & Accessories,DECK,Deckers Outdoor Corporation,6.73,6.39992,6.36,13.390011
+10/29/25,Leisure,AS,"Amer Sports, Inc.",0.41,0.84876,0.7,38.102642
+10/29/25,Leisure,HAS,"Hasbro, Inc.",-3.99,4.97483,4.43,15.781444
+10/29/25,Gambling,FLUT,Flutter Entertainment plc,2.04,8.25923,8.32,28.931269
+10/29/25,Gambling,DKNG,DraftKings Inc.,-0.65,1.16957,0.57,27.056953
+10/29/25,Auto & Truck Dealerships,CVNA,Carvana Co.,4.02,5.43782,2.35,66.88177
+10/29/25,Auto & Truck Dealerships,PAG,"Penske Automotive Group, Inc.",14.36,13.93354,13.88,11.778055
+10/29/25,Packaging & Containers,IP,International Paper Company,-0.06,1.52626,3.0,29.811434
+10/29/25,Packaging & Containers,SW,Smurfit Westrock Plc,0.26,2.7113,3.61,14.102092
+10/29/25,Packaging & Containers,AMCR,Amcor plc,0.32,0.80225,0.79,10.084138
+10/29/25,Packaging & Containers,PKG,Packaging Corporation of America,9.9,9.95076,11.24,20.132132
+10/29/25,Packaging & Containers,AVY,Avery Dennison Corporation,8.82,9.49832,10.52,18.765425
+10/29/25,Packaging & Containers,BALL,Ball Corporation,2.02,3.58174,3.53,13.496234
+10/29/25,Packaging & Containers,CCK,"Crown Holdings, Inc.",8.06,7.76331,6.87,12.462468
+10/29/25,Lodging,IHG,InterContinental Hotels Group PLC,4.72,5.4166,5.35,22.988588
+10/29/25,Lodging,H,Hyatt Hotels Corporation,4.4,2.37707,3.95,61.039433
+10/29/25,Lodging,HTHT,H World Group Limited,1.67,14.37524,2.05,2.6816943
+10/29/25,Discount Stores,TGT,Target Corporation,8.58,7.33666,10.51,13.012733
+10/29/25,Discount Stores,DG,Dollar General Corporation,5.4,6.12425,6.22,16.406908
+10/29/25,Discount Stores,DLTR,"Dollar Tree, Inc.",5.16,5.47996,6.06,18.688093
+10/29/25,Discount Stores,BJ,"BJ's Wholesale Club Holdings, Inc.",4.36,4.33025,4.25,20.88794
+10/29/25,Auto Parts,APTV,Aptiv PLC,4.42,7.58653,6.98,11.447921
+10/29/25,Auto Parts,GPC,Genuine Parts Company,5.81,7.63822,8.47,17.084478
+10/29/25,Auto Parts,MGA,Magna International Inc.,4.26,5.17684,5.95,8.79977
+10/29/25,Auto Parts,MBLY,Mobileye Global Inc.,-0.41,0.35611,0.41,36.954872
+10/29/25,Electronic Gaming & Multimedia,EA,Electronic Arts Inc.,3.45,8.41491,8.53,23.806553
+10/29/25,Electronic Gaming & Multimedia,TTWO,"Take-Two Interactive Software, Inc.",-24.13,2.88646,7.84,87.18638
+10/29/25,Advertising Agencies,OMC,Omnicom Group Inc.,6.78,8.59292,8.64,8.813069
+10/29/25,Entertainment,LYV,"Live Nation Entertainment, Inc.",2.36,1.47,2.42,102.95578
+10/29/25,Entertainment,FOXA,Fox Corporation,4.91,4.19845,3.73,14.519644
+10/29/25,Entertainment,FWONK,Formula One Group,1.01,2.16236,1.34,45.37635
+10/29/25,Entertainment,FWONA,Formula One Group,1.0,3.62398,1.3,24.834574
+10/29/25,Entertainment,WMG,Warner Music Group Corp.,0.57,1.11674,1.4,28.269785
+10/29/25,Entertainment,NWS,News Corporation,0.84,0.98284,,31.093565
+10/29/25,Entertainment,NWSA,News Corporation,0.84,0.98284,1.06,26.749014
+10/29/25,Entertainment,TKO,"TKO Group Holdings, Inc.",2.44,3.28197,3.24,57.179073
+10/29/25,Entertainment,ROKU,"Roku, Inc.",-0.42,0.18182,-0.63,541.3601
+10/29/25,Telecom Services,CHTR,"Charter Communications, Inc.",36.54,37.16876,35.78,6.4944324
+10/29/25,Telecom Services,VOD,Vodafone Group Public Limited Company,-1.85,0.726,0.85,16.494492
+10/29/25,Telecom Services,TU,TELUS Corporation,0.46,0.72556,0.75,20.404928
+10/29/25,Telecom Services,BCE,BCE Inc.,0.33,2.68783,2.09,8.72265
+10/29/25,Telecom Services,RCI,Rogers Communications Inc.,8.91,4.85804,3.75,8.232744
+10/29/25,Telecom Services,SATS,EchoStar Corporation,-1.06,-4.91732,-2.75,-15.020378
+10/29/25,Telecom Services,VIV,Telefônica Brasil S.A.,0.66,3.94,0.76,3.2715735
+10/29/25,Telecom Services,TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,1.39,1.45144,1.8,13.75875
+10/29/25,Telecom Services,TIMB,TIM S.A.,1.38,1.48101,1.46,15.813533
+10/29/25,Telecom Services,LUMN,"Lumen Technologies, Inc.",-1.19,-0.56305,-0.64,-19.092443
+10/29/25,Internet Content & Information,BIDU,"Baidu, Inc.",10.94,52.69972,11.09,2.407603
+10/29/25,Internet Content & Information,RDDT,"Reddit, Inc.",2.24,4.02891,0.67,52.71897
+10/29/25,Internet Content & Information,TME,Tencent Music Entertainment Group,0.93,6.13301,0.77,3.726555
+10/29/25,Internet Content & Information,NBIS,,0.77,-1.69,,-72.2071
+10/29/25,Internet Content & Information,PINS,"Pinterest, Inc.",2.76,1.76545,1.8,18.816732
+10/29/25,Internet Content & Information,Z,"Zillow Group, Inc.",-0.27,1.65089,1.96,44.660763
+10/29/25,Internet Content & Information,SNAP,Snap Inc.,-0.32,0.26025,0.41,30.278578
+10/29/25,Internet Content & Information,BILI,Bilibili Inc.,0.08,5.44191,0.61,5.922553
+10/29/25,Internet Content & Information,BZ,Kanzhun Limited,0.67,7.64553,0.97,2.9409342
+10/29/25,Grocery Stores,SFM,"Sprouts Farmers Market, Inc.",4.85,5.31014,4.2,19.824335
+10/29/25,Grocery Stores,ACI,"Albertsons Companies, Inc.",1.69,2.14543,2.27,8.539081
+10/29/25,Food Distribution,USFD,US Foods Holding Corp.,2.34,3.89758,3.78,18.862986
+10/29/25,Food Distribution,PFGC,Performance Food Group Company,2.18,5.16975,5.63,19.137287
+10/29/25,Farm Products,ADM,Archer-Daniels-Midland Company,2.3,3.83903,5.07,15.858172
+10/29/25,Farm Products,BG,Bunge Global SA,9.92,7.26651,9.3,13.286984
+10/29/25,Farm Products,TSN,"Tyson Foods, Inc.",2.2,3.79447,3.5,13.466966
+10/29/25,Confectioners,HSY,The Hershey Company,7.53,5.95706,8.4,29.420553
+10/29/25,Packaged Foods,K,Kellanova,3.82,3.64948,1.2,22.758036
+10/29/25,Packaged Foods,KHC,The Kraft Heinz Company,-4.46,2.58502,3.07,9.338458
+10/29/25,Packaged Foods,GIS,"General Mills, Inc.",5.29,3.65173,4.7,12.826797
+10/29/25,Packaged Foods,MKC,"McCormick & Company, Incorporated",2.88,3.0215,3.12,21.36025
+10/29/25,Packaged Foods,JBS,JBS N.V.,1.13,10.293,,1.2644516
+10/29/25,Packaged Foods,HRL,Hormel Foods Corporation,1.37,1.42666,1.69,15.157432
+10/29/25,Packaged Foods,SJM,The J. M. Smucker Company,-13.72,9.07633,10.53,11.220393
+10/29/25,Household & Personal Products,KMB,Kimberly-Clark Corporation,7.31,7.43496,7.63,15.941579
+10/29/25,Household & Personal Products,EL,The Estée Lauder Companies Inc.,-3.15,2.0855,2.7,47.274033
+10/29/25,Household & Personal Products,KVUE,Kenvue Inc.,0.75,1.02921,1.22,13.753267
+10/29/25,Household & Personal Products,CHD,"Church & Dwight Co., Inc.",2.12,3.47597,3.73,23.833635
+10/29/25,Household & Personal Products,CLX,The Clorox Company,6.52,5.99709,7.29,18.787445
+10/29/25,Apparel Retail,LULU,lululemon athletica inc.,14.65,12.99338,14.93,13.291777
+10/29/25,Apparel Retail,BURL,"Burlington Stores, Inc.",8.48,9.55143,9.62,29.487207
+10/29/25,Restaurants,YUM,"Yum! Brands, Inc.",5.07,6.00689,6.08,23.255262
+10/29/25,Restaurants,QSR,Restaurant Brands International Inc.,2.65,3.64958,5.36,18.034952
+10/29/25,Restaurants,DRI,"Darden Restaurants, Inc.",9.34,10.62191,10.56,17.112741
+10/29/25,Restaurants,YUMC,"Yum China Holdings, Inc.",2.42,2.50516,2.58,17.479921
+10/29/25,Restaurants,DPZ,"Domino's Pizza, Inc.",17.1,17.61163,17.64,23.153734
+10/29/25,Restaurants,TXRH,"Texas Roadhouse, Inc.",6.56,6.52605,7.15,26.316072
+10/29/25,Travel Services,TCOM,Trip.com Group Limited,3.64,26.09611,3.64,2.7912204
+10/29/25,Travel Services,CCL,Carnival Corporation & plc,1.94,2.16127,1.72,13.096467
+10/29/25,Travel Services,EXPE,"Expedia Group, Inc.",8.11,14.32773,14.36,15.4794235
+10/29/25,Travel Services,VIK,Viking Holdings Ltd,1.89,2.47899,2.08,24.060766
+10/29/25,Travel Services,NCLH,Norwegian Cruise Line Holdings Ltd.,1.46,2.07214,2.09,10.851101
+10/29/25,Health Information Services,VEEV,Veeva Systems Inc.,4.87,7.80524,6.76,37.080856
+10/29/25,Health Information Services,GEHC,GE HealthCare Technologies Inc.,4.88,4.52393,4.67,17.156542
+10/29/25,Health Information Services,TEM,"Tempus AI, Inc.",2.15,-0.71965,-0.7,-124.504974
+10/29/25,Health Information Services,DOCS,"Doximity, Inc.",1.17,1.52003,1.19,44.255703
+10/29/25,Medical Distribution,CAH,"Cardinal Health, Inc.",6.45,9.43068,8.64,17.358238
+10/29/25,Medical Care Facilities,THC,Tenet Healthcare Corporation,14.71,16.02395,11.46,13.06513
+10/29/25,Medical Care Facilities,FMS,Fresenius Medical Care AG,1.3,1.89675,2.62,14.4009495
+10/29/25,Medical Care Facilities,UHS,"Universal Health Services, Inc.",21.01,21.40325,18.16,10.537185
+10/29/25,Medical Care Facilities,EHC,Encompass Health Corporation,5.13,5.25523,4.78,24.187334
+10/29/25,Medical Care Facilities,ENSG,"The Ensign Group, Inc.",5.51,6.41316,6.14,28.860968
+10/29/25,Biotechnology,ONC,BeOne Medicines AG,-1.68,2.26673,,139.24022
+10/29/25,Biotechnology,INSM,Insmed Incorporated,-5.67,-5.55943,-4.23,-29.76654
+10/29/25,Biotechnology,BNTX,BioNTech SE,-1.66,-4.04847,-3.9,-25.990065
+10/29/25,Biotechnology,RPRX,Royalty Pharma plc,2.29,4.44996,4.39,8.289962
+10/29/25,Biotechnology,GMAB,Genmab A/S,1.93,1.71426,1.4,16.957754
+10/29/25,Biotechnology,INCY,Incyte Corporation,5.9,6.85538,6.14,13.107224
+10/29/25,Biotechnology,ROIV,Roivant Sciences Ltd.,-1.09,-1.16424,-1.19,-16.105099
+10/29/25,Biotechnology,BBIO,"BridgeBio Pharma, Inc.",-4.13,-2.898,-3.06,-23.057281
+10/29/25,Biotechnology,ASND,Ascendis Pharma A/S,-5.27,-2.21243,-3.95,-93.73698
+10/29/25,Biotechnology,IONS,"Ionis Pharmaceuticals, Inc.",-1.76,-1.92673,-3.74,-37.999615
+10/29/25,Biotechnology,RVMD,"Revolution Medicines, Inc.",-4.52,-5.31579,-4.05,-10.957919
+10/29/25,Biotechnology,EXEL,"Exelixis, Inc.",2.08,2.66467,1.7,15.013415
+10/29/25,Biotechnology,BMRN,BioMarin Pharmaceutical Inc.,2.69,3.58889,2.99,14.777549
+10/29/25,Medical Devices,EW,Edwards Lifesciences Corporation,2.39,2.51067,2.45,33.042973
+10/29/25,Medical Devices,DXCM,"DexCom, Inc.",1.42,2.05066,2.03,33.44777
+10/29/25,Medical Devices,PHG,Koninklijke Philips N.V.,0.19,1.57004,1.69,17.719294
+10/29/25,Medical Devices,STE,STERIS plc,6.54,10.16556,9.97,23.473375
+10/29/25,Medical Devices,PODD,Insulet Corporation,3.28,4.66792,3.87,68.36556
+10/29/25,Medical Devices,ZBH,"Zimmer Biomet Holdings, Inc.",4.1,8.14678,8.6,12.3950815
+10/29/25,Medical Devices,SNN,Smith & Nephew plc,1.11,1.57026,1.29,23.0344
+10/29/25,Electronic Components,CLS,Celestica Inc.,6.14,5.91015,4.45,57.528996
+10/29/25,Electronic Components,FLEX,Flex Ltd.,2.27,3.03802,2.78,21.171684
+10/29/25,Electronic Components,JBL,Jabil Inc.,5.92,11.10305,10.01,20.198954
+10/29/25,Electronic Components,FN,Fabrinet,9.19,12.24816,11.07,36.60468
+10/29/25,Communication Equipment,UI,Ubiquiti Inc.,11.74,11.781,10.2,65.53773
+10/29/25,Communication Equipment,NOK,Nokia Oyj,0.19,0.31121,0.35,23.510813
+10/29/25,Communication Equipment,ERIC,Telefonaktiebolaget LM Ericsson (publ),0.79,0.78267,0.52,12.936486
+10/29/25,Communication Equipment,HPE,Hewlett Packard Enterprise Company,0.85,1.89832,2.1,12.832347
+10/29/25,Communication Equipment,ASTS,"AST SpaceMobile, Inc.",-1.86,-1.04814,-0.71,-76.40401
+10/29/25,Communication Equipment,CIEN,Ciena Corporation,0.99,2.49444,2.72,75.27541
+10/29/25,Communication Equipment,LITE,Lumentum Holdings Inc.,0.38,4.89769,3.69,43.266315
+10/29/25,Communication Equipment,ZBRA,Zebra Technologies Corporation,9.93,15.7969,16.04,17.373663
+10/29/25,Computer Hardware,WDC,Western Digital Corporation,4.45,6.73773,8.81,20.974424
+10/29/25,Computer Hardware,PSTG,"Pure Storage, Inc.",0.41,1.95638,1.85,49.33091
+10/29/25,Computer Hardware,SMCI,"Super Micro Computer, Inc.",1.68,2.56744,4.24,20.647024
+10/29/25,Computer Hardware,SNDK,Sandisk Corporation,-11.32,6.66328,,29.411192
+10/29/25,Computer Hardware,HPQ,HP Inc.,2.75,3.12294,3.6,8.909873
+10/29/25,Computer Hardware,IONQ,"IonQ, Inc.",-2.06,-0.718,-0.88,-85.13231
+10/29/25,Computer Hardware,LOGI,Logitech International S.A.,4.4,5.61772,4.69,20.684547
+10/29/25,Computer Hardware,QBTS,D-Wave Quantum Inc.,-1.13,-0.22625,-0.26,-149.92265
+10/29/25,Information Technology Services,FI,"Fiserv, Inc.",5.98,10.0681,10.19,7.429406
+10/29/25,Information Technology Services,CTSH,Cognizant Technology Solutions Corporation,4.93,5.15967,4.99,14.0280285
+10/29/25,Information Technology Services,FIS,"Fidelity National Information Services, Inc.",0.25,5.75439,5.71,10.76917
+10/29/25,Information Technology Services,WIT,Wipro Limited,0.15,0.14388,0.29,18.52238
+10/29/25,Information Technology Services,BR,"Broadridge Financial Solutions, Inc.",7.1,9.35666,9.35,23.655876
+10/29/25,Information Technology Services,LDOS,"Leidos Holdings, Inc.",10.59,11.58317,10.45,16.409584
+10/29/25,Information Technology Services,CDW,CDW Corporation,8.04,9.85772,10.12,15.972252
+10/29/25,Information Technology Services,GIB,CGI Inc.,5.4,8.25605,6.47,10.567402
+10/29/25,Information Technology Services,IT,"Gartner, Inc.",16.22,12.20572,13.19,20.743143
+10/29/25,Information Technology Services,CACI,CACI International Inc,22.61,28.23121,26.9,20.230093
+10/29/25,Information Technology Services,JKHY,"Jack Henry & Associates, Inc.",6.23,6.29273,6.32,23.900597
+10/29/25,Auto Manufacturers,STLA,Stellantis N.V.,-0.93,0.81475,2.98,13.8386
+10/29/25,Auto Manufacturers,LI,Li Auto Inc.,1.07,5.39823,1.54,3.897574
+10/29/25,Auto Manufacturers,XPEV,XPeng Inc.,-0.63,-0.8248,-0.45,-28.255335
+10/29/25,Auto Manufacturers,NIO,NIO Inc.,-1.62,-7.46854,-0.85,-0.9526627
+10/29/25,Auto Manufacturers,RIVN,"Rivian Automotive, Inc.",-3.21,-2.66694,-2.74,-5.180094
+10/29/25,Internet Retail,JD,"JD.com, Inc.",3.59,19.11743,4.14,1.8080359
+10/29/25,Internet Retail,EBAY,eBay Inc.,4.5,5.42501,5.22,18.611946
+10/29/25,Internet Retail,CHWY,"Chewy, Inc.",0.36,1.2747,0.6,26.48074
+10/29/25,Internet Retail,W,Wayfair Inc.,-2.57,2.18452,0.82,49.14581
+10/29/25,Internet Retail,CART,Maplebear Inc.,1.73,3.02737,1.34,12.429932
+10/29/25,Mortgage Finance,RKT,"Rocket Companies, Inc.",-0.03,0.21359,0.66,81.4879
+10/29/25,Insurance Brokers,WTW,Willis Towers Watson Public Limited Company,1.47,16.92214,18.09,18.820314
+10/29/25,Insurance Brokers,ERIE,Erie Indemnity Company,11.95,12.46,13.4,24.7726
+10/29/25,Capital Markets,CRCL,Circle Internet Group,-1.74,-0.92922,,-141.39816
+10/29/25,Capital Markets,LPLA,LPL Financial Holdings Inc.,14.58,18.83761,18.58,18.147207
+10/29/25,Capital Markets,TW,Tradeweb Markets Inc.,2.59,3.40207,3.32,31.30447
+10/29/25,Capital Markets,IREN,IREN Limited,0.39,0.98667,0.34,61.717697
+10/29/25,Capital Markets,GLXY,Galaxy Digital,0.87,0.90333,,41.269524
+10/29/25,Capital Markets,HLI,"Houlihan Lokey, Inc.",5.94,7.74699,6.74,25.735155
+10/29/25,Capital Markets,SF,Stifel Financial Corp.,5.65,7.25061,7.63,16.068993
+10/29/25,Capital Markets,EVR,Evercore Inc.,11.04,13.36041,14.06,22.407995
+10/29/25,Capital Markets,JEF,Jefferies Financial Group Inc.,2.88,2.94,4.47,18.445578
+10/29/25,Asset Management,ARES,Ares Management Corporation,1.77,5.01192,5.6,30.273827
+10/29/25,Asset Management,AMP,"Ameriprise Financial, Inc.",32.08,38.21429,38.63,12.557868
+10/29/25,Asset Management,STT,State Street Corporation,9.42,10.14138,9.34,11.670009
+10/29/25,Asset Management,RJF,"Raymond James Financial, Inc.",10.3,11.93758,11.14,13.351115
+10/29/25,Asset Management,OWL,Blue Owl Capital Inc.,0.11,0.82926,0.93,20.385647
+10/29/25,Asset Management,NTRS,Northern Trust Corporation,8.58,8.64887,7.64,14.825057
+10/29/25,Asset Management,TROW,"T. Rowe Price Group, Inc.",8.93,9.44858,9.35,11.014883
+10/29/25,Asset Management,TPG,TPG Inc.,-0.18,2.438,2.56,23.38392
+10/29/25,Asset Management,CG,The Carlyle Group Inc.,3.42,4.1283,4.43,13.996075
+10/29/25,Asset Management,PFG,"Principal Financial Group, Inc.",4.96,8.3006,8.44,9.973978
+10/29/25,Asset Management,CRBG,"Corebridge Financial, Inc.",-0.68,4.53203,5.62,7.0796084
+10/29/25,Asset Management,ARCC,Ares Capital Corporation,1.99,2.00482,2.2,10.340079
+10/29/25,Asset Management,EQH,"Equitable Holdings, Inc.",1.29,5.80204,7.23,8.336722
+10/29/25,Asset Management,BEN,"Franklin Resources, Inc.",0.51,2.12148,2.6,10.940475
+10/29/25,Asset Management,IVZ,Invesco Ltd.,0.93,1.98291,1.89,12.335405
+10/29/25,Asset Management,SEIC,SEI Investments Company,5.43,4.966,4.88,16.336084
+10/29/25,Credit Services,SOFI,"SoFi Technologies, Inc.",0.56,0.36967,0.29,83.7639
+10/29/25,Credit Services,SYF,Synchrony Financial,9.12,9.30839,6.47,8.004607
+10/29/25,Credit Services,ALLY,Ally Financial Inc.,1.04,3.74586,4.15,10.78524
+10/29/25,Healthcare Plans,HUM,Humana Inc.,13.06,17.03984,16.84,17.311487
+10/29/25,Healthcare Plans,CNC,Centene Corporation,4.12,1.7207,7.04,21.484743
+10/29/25,Specialty Retail,TSCO,Tractor Supply Company,2.07,2.10781,11.13,25.936872
+10/29/25,Specialty Retail,WSM,"Williams-Sonoma, Inc.",8.98,8.59024,8.13,23.413784
+10/29/25,Specialty Retail,ULTA,"Ulta Beauty, Inc.",26.04,24.48678,22.87,20.821644
+10/29/25,Specialty Retail,DKS,"DICK'S Sporting Goods, Inc.",14.32,14.46896,14.82,15.906465
+10/29/25,Specialty Retail,CASY,"Casey's General Stores, Inc.",15.6,16.43271,16.2,32.44748
+10/29/25,Specialty Retail,BBY,"Best Buy Co., Inc.",3.63,6.25117,6.84,13.485476
+10/29/25,Specialty Retail,GME,GameStop Corp.,0.8,0.99,-0.01,23.277777
+10/29/25,Residential Construction,DHI,"D.R. Horton, Inc.",11.58,11.58858,15.93,13.247955
+10/29/25,Residential Construction,LEN,Lennar Corporation,10.1,8.22905,16.14,15.616627
+10/29/25,Residential Construction,PHM,"PulteGroup, Inc.",12.96,11.35675,13.5,10.654897
+10/29/25,Residential Construction,NVR,"NVR, Inc.",455.14,421.1654,518.05,17.799372
+10/29/25,Residential Construction,TOL,"Toll Brothers, Inc.",13.56,13.78934,14.62,10.135003
+10/29/25,Solar,FSLR,"First Solar, Inc.",11.69,15.28053,20.86,15.879684
+10/29/25,Solar,NXT,Nextracker Inc.,3.86,4.27298,3.38,24.198568
+10/29/25,Resorts & Casinos,LVS,Las Vegas Sands Corp.,2.22,2.88992,2.75,20.484997
+10/29/25,Resorts & Casinos,WYNN,"Wynn Resorts, Limited",3.38,4.73717,5.02,25.616558
+10/29/25,Semiconductors,MCHP,Microchip Technology Incorporated,-0.34,1.45249,2.6,43.89015
+10/29/25,Semiconductors,ASX,"ASE Technology Holding Co., Ltd.",0.49,0.55176,0.75,26.071117
+10/29/25,Semiconductors,CRDO,Credo Technology Group Holding Ltd,0.71,2.07529,0.77,82.015045
+10/29/25,Semiconductors,ALAB,"Astera Labs, Inc.",0.81,1.58169,1.15,108.870895
+10/29/25,Semiconductors,STM,STMicroelectronics N.V.,0.58,0.6108,1.39,40.774395
+10/29/25,Semiconductors,ON,ON Semiconductor Corporation,1.05,2.2914,4.32,22.611591
+10/29/25,Semiconductors,GFS,GLOBALFOUNDRIES Inc.,-0.21,1.62128,1.79,21.334995
+10/29/25,Semiconductors,UMC,United Microelectronics Corporation,0.54,0.44322,0.64,16.639593
+10/29/25,Semiconductors,SWKS,"Skyworks Solutions, Inc.",2.51,5.6546,6.4,14.385066
+10/29/25,Semiconductors,RMBS,Rambus Inc.,2.1,2.49286,2.45,44.378704
+10/29/25,Semiconductors,MTSI,"MACOM Technology Solutions Holdings, Inc.",-0.96,3.46932,3.98,44.30407
+10/29/25,Semiconductors,LSCC,Lattice Semiconductor Corporation,0.23,1.055,1.06,71.52607
+10/29/25,Luxury Goods,TPR,"Tapestry, Inc.",0.81,5.47978,4.76,20.676924
+10/29/25,Personal Services,ROL,"Rollins, Inc.",1.01,1.11947,1.12,48.603355
+10/29/25,Personal Services,SCI,Service Corporation International,3.68,3.84121,3.96,20.908777
+10/29/25,"Furnishings, Fixtures & Appliances",SGI,Somnigroup International Inc.,1.46,2.56592,0.11,32.230152
+10/29/25,"Furnishings, Fixtures & Appliances",SN,"SharkNinja, Inc.",3.66,5.11289,4.87,19.030334
+10/29/25,Apparel Manufacturing,RL,Ralph Lauren Corporation,12.52,14.79783,13.02,22.267117
+10/29/25,Footwear & Accessories,ONON,On Holding AG,0.53,0.60684,1.1,65.28903
+10/29/25,Footwear & Accessories,DECK,Deckers Outdoor Corporation,6.73,6.39992,6.36,13.396261
+10/29/25,Leisure,AS,"Amer Sports, Inc.",0.41,0.84876,0.7,37.902348
+10/29/25,Leisure,HAS,"Hasbro, Inc.",-3.99,4.97483,4.43,15.742247
+10/29/25,Gambling,FLUT,Flutter Entertainment plc,2.04,8.25217,8.32,28.923302
+10/29/25,Gambling,DKNG,DraftKings Inc.,-0.65,1.16957,0.57,26.9458
+10/29/25,Auto & Truck Dealerships,CVNA,Carvana Co.,4.02,5.43782,2.35,65.89406
+10/29/25,Auto & Truck Dealerships,PAG,"Penske Automotive Group, Inc.",14.36,13.93354,13.88,11.799944
+10/29/25,Packaging & Containers,IP,International Paper Company,-0.06,1.52626,3.0,29.713154
+10/29/25,Packaging & Containers,SW,Smurfit Westrock Plc,0.26,2.7113,3.61,14.247779
+10/29/25,Packaging & Containers,AMCR,Amcor plc,0.32,0.80225,0.79,10.028046
+10/29/25,Packaging & Containers,PKG,Packaging Corporation of America,9.9,9.95076,11.24,20.029625
+10/29/25,Packaging & Containers,AVY,Avery Dennison Corporation,8.82,9.49832,10.52,18.771372
+10/29/25,Packaging & Containers,BALL,Ball Corporation,2.02,3.58174,3.53,13.429227
+10/29/25,Packaging & Containers,CCK,"Crown Holdings, Inc.",8.06,7.76331,6.87,12.439281
+10/29/25,Lodging,IHG,InterContinental Hotels Group PLC,4.72,5.4166,5.35,23.02736
+10/29/25,Lodging,H,Hyatt Hotels Corporation,4.4,2.37707,3.95,61.138294
+10/29/25,Lodging,HTHT,H World Group Limited,1.67,14.37524,2.05,2.6719553
+10/29/25,Discount Stores,TGT,Target Corporation,8.58,7.33666,10.51,13.038631
+10/29/25,Discount Stores,DG,Dollar General Corporation,5.4,6.12425,6.22,16.450994
+10/29/25,Discount Stores,DLTR,"Dollar Tree, Inc.",5.16,5.47996,6.06,18.711815
+10/29/25,Discount Stores,BJ,"BJ's Wholesale Club Holdings, Inc.",4.36,4.33025,4.25,20.877548
+10/29/25,Auto Parts,APTV,Aptiv PLC,4.42,7.58653,6.98,11.418922
+10/29/25,Auto Parts,GPC,Genuine Parts Company,5.81,7.63822,8.47,17.108698
+10/29/25,Auto Parts,MGA,Magna International Inc.,4.26,5.17684,5.95,8.809428
+10/29/25,Auto Parts,MBLY,Mobileye Global Inc.,-0.41,0.35611,0.41,36.85659
+10/29/25,Electronic Gaming & Multimedia,EA,Electronic Arts Inc.,3.45,8.49438,8.53,23.582651
+10/29/25,Electronic Gaming & Multimedia,TTWO,"Take-Two Interactive Software, Inc.",-24.13,2.88646,7.84,86.97158
+10/29/25,Advertising Agencies,OMC,Omnicom Group Inc.,6.78,8.59292,8.64,8.832853
+10/29/25,Entertainment,LYV,"Live Nation Entertainment, Inc.",2.36,1.47,2.42,103.23129
+10/29/25,Entertainment,FOXA,Fox Corporation,4.91,4.19845,3.73,14.529171
+10/29/25,Entertainment,FWONK,Formula One Group,1.01,2.16236,1.34,45.438778
+10/29/25,Entertainment,FWONA,Formula One Group,1.0,3.62398,1.3,24.833195
+10/29/25,Entertainment,PSKY,Paramount Skydance Corporation,0.03,1.25599,,12.794687
+10/29/25,Entertainment,WMG,Warner Music Group Corp.,0.57,1.11674,1.4,28.345901
+10/29/25,Entertainment,NWS,News Corporation,0.84,0.98284,,31.08339
+10/29/25,Entertainment,NWSA,News Corporation,0.84,0.98284,1.06,26.759188
+10/29/25,Entertainment,TKO,"TKO Group Holdings, Inc.",2.44,3.28197,3.24,57.393883
+10/29/25,Entertainment,ROKU,"Roku, Inc.",-0.42,0.18182,-0.63,541.08453
+10/29/25,Telecom Services,CHTR,"Charter Communications, Inc.",36.54,37.16876,35.78,6.494164
+10/29/25,Telecom Services,VOD,Vodafone Group Public Limited Company,-1.85,0.726,0.85,16.44628
+10/29/25,Telecom Services,TU,TELUS Corporation,0.46,0.72556,0.75,20.398037
+10/29/25,Telecom Services,BCE,BCE Inc.,0.33,2.68783,2.09,8.743075
+10/29/25,Telecom Services,RCI,Rogers Communications Inc.,8.91,4.85804,3.75,8.222452
+10/29/25,Telecom Services,SATS,EchoStar Corporation,-1.06,-4.91732,-2.75,-15.021394
+10/29/25,Telecom Services,VIV,Telefônica Brasil S.A.,0.66,3.94,0.76,3.2771573
+10/29/25,Telecom Services,TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,1.39,1.45144,1.8,13.762196
+10/29/25,Telecom Services,LUMN,"Lumen Technologies, Inc.",-1.19,-0.56305,-0.64,-19.589735
+10/29/25,Telecom Services,TIMB,TIM S.A.,1.38,1.48101,1.46,15.83379
+10/29/25,Internet Content & Information,BIDU,"Baidu, Inc.",10.94,52.69972,11.09,2.3973563
+10/29/25,Internet Content & Information,RDDT,"Reddit, Inc.",2.24,4.02891,0.67,52.542747
+10/29/25,Internet Content & Information,TME,Tencent Music Entertainment Group,0.93,6.13301,0.77,3.71025
+10/29/25,Internet Content & Information,NBIS,,0.77,-1.69,,-72.13017
+10/29/25,Internet Content & Information,PINS,"Pinterest, Inc.",2.76,1.76545,1.8,18.78926
+10/29/25,Internet Content & Information,ZG,"Zillow Group, Inc.",-0.27,1.6153,1.87,43.756577
+10/29/25,Internet Content & Information,Z,"Zillow Group, Inc.",-0.27,1.65089,1.96,44.572926
+10/29/25,Internet Content & Information,SNAP,Snap Inc.,-0.32,0.26025,0.41,30.14409
+10/29/25,Internet Content & Information,BILI,Bilibili Inc.,0.08,5.44191,0.61,5.882126
+10/29/25,Internet Content & Information,BZ,Kanzhun Limited,0.67,7.64553,0.97,2.9337404
+10/29/25,Grocery Stores,KR,The Kroger Co.,3.94,4.79894,4.58,13.83222
+10/29/25,Grocery Stores,SFM,"Sprouts Farmers Market, Inc.",4.85,5.31014,4.2,19.833752
+10/29/25,Grocery Stores,ACI,"Albertsons Companies, Inc.",1.69,2.14543,2.27,8.546072
+10/29/25,Food Distribution,SYY,Sysco Corporation,3.73,4.57351,4.92,16.312416
+10/29/25,Food Distribution,USFD,US Foods Holding Corp.,2.34,3.89758,3.78,18.878382
+10/29/25,Food Distribution,PFGC,Performance Food Group Company,2.18,5.16975,5.63,19.120846
+10/29/25,Farm Products,ADM,Archer-Daniels-Midland Company,2.3,3.83903,5.07,15.841241
+10/29/25,Farm Products,BG,Bunge Global SA,9.92,7.26651,9.3,13.295929
+10/29/25,Farm Products,TSN,"Tyson Foods, Inc.",2.2,3.79447,3.5,13.474873
+10/29/25,Confectioners,HSY,The Hershey Company,7.53,5.95706,8.4,29.460842
+10/29/25,Packaged Foods,K,Kellanova,3.82,3.64948,1.2,22.759405
+10/29/25,Packaged Foods,KHC,The Kraft Heinz Company,-4.46,2.58502,3.07,9.417722
+10/29/25,Packaged Foods,MKC,"McCormick & Company, Incorporated",2.88,3.0215,3.12,21.391693
+10/29/25,Packaged Foods,JBS,JBS N.V.,1.13,10.293,,1.261537
+10/29/25,Packaged Foods,HRL,Hormel Foods Corporation,1.37,1.41046,1.69,15.473746
+10/29/25,Packaged Foods,SJM,The J. M. Smucker Company,-13.72,9.07633,10.53,11.233615
+10/29/25,Household & Personal Products,KMB,Kimberly-Clark Corporation,7.31,7.43496,7.63,15.946771
+10/29/25,Household & Personal Products,EL,The Estée Lauder Companies Inc.,-3.15,2.0855,2.7,47.12539
+10/29/25,Household & Personal Products,KVUE,Kenvue Inc.,0.75,1.02921,1.22,13.714402
+10/29/25,Household & Personal Products,CHD,"Church & Dwight Co., Inc.",2.12,3.47597,3.73,23.858088
+10/29/25,Household & Personal Products,CLX,The Clorox Company,6.52,5.99709,7.29,18.72158
+10/29/25,Apparel Retail,LULU,lululemon athletica inc.,14.65,12.99338,14.93,13.312556
+10/29/25,Apparel Retail,BURL,"Burlington Stores, Inc.",8.48,9.55143,9.62,29.514954
+10/29/25,Restaurants,YUM,"Yum! Brands, Inc.",5.07,6.00689,6.08,23.28243
+10/29/25,Restaurants,QSR,Restaurant Brands International Inc.,2.65,3.64958,5.36,18.002071
+10/29/25,Restaurants,DRI,"Darden Restaurants, Inc.",9.34,10.62191,10.56,17.100502
+10/29/25,Restaurants,YUMC,"Yum China Holdings, Inc.",2.42,2.50516,2.58,17.461958
+10/29/25,Restaurants,DPZ,"Domino's Pizza, Inc.",17.1,17.61163,17.64,23.242027
+10/29/25,Restaurants,TXRH,"Texas Roadhouse, Inc.",6.56,6.52605,7.15,26.335226
+10/29/25,Travel Services,TCOM,Trip.com Group Limited,3.64,26.09611,3.64,2.7843232
+10/29/25,Travel Services,CCL,Carnival Corporation & plc,1.94,2.16127,1.72,13.064079
+10/29/25,Travel Services,CUK,Carnival Corporation & plc,1.94,2.13,1.68,11.99061
+10/29/25,Travel Services,EXPE,"Expedia Group, Inc.",8.11,14.32773,14.36,15.406488
+10/29/25,Travel Services,VIK,Viking Holdings Ltd,1.89,2.47899,2.08,24.056166
+10/29/25,Travel Services,NCLH,Norwegian Cruise Line Holdings Ltd.,1.46,2.07214,2.09,10.80815
+10/29/25,Health Information Services,VEEV,Veeva Systems Inc.,4.87,7.80524,6.76,36.72405
+10/29/25,Health Information Services,GEHC,GE HealthCare Technologies Inc.,4.88,4.51,4.67,17.29268
+10/29/25,Health Information Services,TEM,"Tempus AI, Inc.",2.15,-0.71965,-0.7,-124.30349
+10/29/25,Health Information Services,DOCS,"Doximity, Inc.",1.17,1.52003,1.19,44.00571
+10/29/25,Medical Distribution,CAH,"Cardinal Health, Inc.",6.45,9.43068,8.64,17.404364
+10/29/25,Medical Care Facilities,THC,Tenet Healthcare Corporation,14.71,16.02395,11.46,13.091029
+10/29/25,Medical Care Facilities,FMS,Fresenius Medical Care AG,1.3,1.89675,2.62,14.404218
+10/29/25,Medical Care Facilities,UHS,"Universal Health Services, Inc.",21.01,21.40325,18.16,10.502144
+10/29/25,Medical Care Facilities,EHC,Encompass Health Corporation,5.13,5.25523,4.78,24.129295
+10/29/25,Medical Care Facilities,ENSG,"The Ensign Group, Inc.",5.51,6.41316,6.14,28.806393
+10/29/25,Biotechnology,ONC,BeOne Medicines AG,-1.68,2.26673,,138.51451
+10/29/25,Biotechnology,INSM,Insmed Incorporated,-5.67,-5.55943,-4.23,-29.735062
+10/29/25,Biotechnology,BNTX,BioNTech SE,-1.66,-4.04847,-3.9,-25.950567
+10/29/25,Biotechnology,RPRX,Royalty Pharma plc,2.29,4.44996,4.39,8.275355
+10/29/25,Biotechnology,GMAB,Genmab A/S,1.93,1.71426,1.4,16.946087
+10/29/25,Biotechnology,INCY,Incyte Corporation,5.9,6.85567,6.14,13.050511
+10/29/25,Biotechnology,ROIV,Roivant Sciences Ltd.,-1.09,-1.16424,-1.19,-16.134989
+10/29/25,Biotechnology,BBIO,"BridgeBio Pharma, Inc.",-4.13,-2.898,-3.06,-23.06418
+10/29/25,Biotechnology,ASND,Ascendis Pharma A/S,-5.27,-2.21243,-3.95,-93.31595
+10/29/25,Biotechnology,IONS,"Ionis Pharmaceuticals, Inc.",-1.76,-1.92673,-3.74,-37.919167
+10/29/25,Biotechnology,RVMD,"Revolution Medicines, Inc.",-4.52,-5.31579,-4.05,-10.939108
+10/29/25,Biotechnology,EXEL,"Exelixis, Inc.",2.08,2.66467,1.7,14.990599
+10/29/25,Biotechnology,BMRN,BioMarin Pharmaceutical Inc.,2.69,3.58889,2.99,14.7677965
+10/29/25,Medical Devices,EW,Edwards Lifesciences Corporation,2.39,2.51067,2.45,33.0828
+10/29/25,Medical Devices,DXCM,"DexCom, Inc.",1.42,2.05066,2.03,33.41334
+10/29/25,Medical Devices,PHG,Koninklijke Philips N.V.,0.19,1.57004,1.69,17.71611
+10/29/25,Medical Devices,STE,STERIS plc,6.54,10.16556,9.97,23.444355
+10/29/25,Medical Devices,PODD,Insulet Corporation,3.28,4.66792,3.87,68.24024
+10/29/25,Medical Devices,ZBH,"Zimmer Biomet Holdings, Inc.",4.1,8.14678,8.6,12.375442
+10/29/25,Medical Devices,SNN,Smith & Nephew plc,1.11,1.57026,1.29,23.015295
+10/29/25,Electronic Components,CLS,Celestica Inc.,6.14,5.93783,4.45,57.163136
+10/29/25,Electronic Components,FLEX,Flex Ltd.,2.27,3.03802,2.78,21.713156
+10/29/25,Electronic Components,JBL,Jabil Inc.,5.92,11.10305,10.01,20.268303
+10/29/25,Electronic Components,FN,Fabrinet,9.19,12.24816,11.07,36.570393
+10/29/25,Communication Equipment,UI,Ubiquiti Inc.,11.74,11.781,10.2,65.5547
+10/29/25,Communication Equipment,ERIC,Telefonaktiebolaget LM Ericsson (publ),0.79,0.78267,0.52,12.910933
+10/29/25,Communication Equipment,HPE,Hewlett Packard Enterprise Company,0.85,1.89832,2.1,12.86664
+10/29/25,Communication Equipment,ASTS,"AST SpaceMobile, Inc.",-1.86,-1.04814,-0.71,-75.877266
+10/29/25,Communication Equipment,CIEN,Ciena Corporation,0.99,2.49444,2.72,75.08899
+10/29/25,Communication Equipment,LITE,Lumentum Holdings Inc.,0.38,4.89769,3.69,43.06724
+10/29/25,Communication Equipment,ZBRA,Zebra Technologies Corporation,9.93,15.7969,16.04,17.282505
+10/29/25,Computer Hardware,WDC,Western Digital Corporation,4.45,6.73773,8.81,21.005236
+10/29/25,Computer Hardware,PSTG,"Pure Storage, Inc.",0.41,1.95638,1.85,49.397354
+10/29/25,Computer Hardware,SMCI,"Super Micro Computer, Inc.",1.68,2.56744,4.24,20.576918
+10/29/25,Computer Hardware,SNDK,Sandisk Corporation,-11.32,6.66328,,29.335403
+10/29/25,Computer Hardware,HPQ,HP Inc.,2.75,3.12294,3.6,8.938692
+10/29/25,Computer Hardware,IONQ,"IonQ, Inc.",-2.06,-0.718,-0.88,-84.65181
+10/29/25,Computer Hardware,LOGI,Logitech International S.A.,4.4,5.61772,4.69,20.73973
+10/29/25,Computer Hardware,QBTS,D-Wave Quantum Inc.,-1.13,-0.22625,-0.26,-148.22365
+10/29/25,Information Technology Services,FI,"Fiserv, Inc.",5.98,10.07222,10.19,7.2824063
+10/29/25,Information Technology Services,CTSH,Cognizant Technology Solutions Corporation,4.93,5.15967,4.99,14.087141
+10/29/25,Information Technology Services,FIS,"Fidelity National Information Services, Inc.",0.25,5.75439,5.71,10.750054
+10/29/25,Information Technology Services,WIT,Wipro Limited,0.15,0.14388,0.29,18.591883
+10/29/25,Information Technology Services,BR,"Broadridge Financial Solutions, Inc.",7.1,9.35666,9.35,23.66122
+10/29/25,Information Technology Services,LDOS,"Leidos Holdings, Inc.",10.59,11.58317,10.45,16.353037
+10/29/25,Information Technology Services,CDW,CDW Corporation,8.04,9.85772,10.12,15.983411
+10/29/25,Information Technology Services,GIB,CGI Inc.,5.4,8.25605,6.47,10.568007
+10/29/25,Information Technology Services,IT,"Gartner, Inc.",16.22,12.20572,13.19,20.78042
+10/29/25,Information Technology Services,CACI,CACI International Inc,22.61,28.23121,26.9,20.145433
+10/29/25,Information Technology Services,JKHY,"Jack Henry & Associates, Inc.",6.23,6.29273,6.32,23.878347
+10/29/25,Auto Manufacturers,STLA,Stellantis N.V.,-0.93,0.81475,2.98,13.82019
+10/29/25,Auto Manufacturers,LI,Li Auto Inc.,1.07,5.39823,1.54,3.8873854
+10/29/25,Auto Manufacturers,XPEV,XPeng Inc.,-0.63,-0.8248,-0.45,-28.400824
+10/29/25,Auto Manufacturers,RIVN,"Rivian Automotive, Inc.",-3.21,-2.66694,-2.74,-5.1538467
+10/29/25,Internet Retail,JD,"JD.com, Inc.",3.59,19.11743,4.14,1.7996665
+10/29/25,Internet Retail,EBAY,eBay Inc.,4.5,5.42501,5.22,18.540058
+10/29/25,Internet Retail,CHWY,"Chewy, Inc.",0.36,1.2747,0.6,26.398369
+10/29/25,Internet Retail,W,Wayfair Inc.,-2.57,2.24912,0.82,47.676426
+10/29/25,Internet Retail,CART,Maplebear Inc.,1.73,3.02737,1.34,12.410111
+10/29/25,Mortgage Finance,RKT,"Rocket Companies, Inc.",-0.03,0.21359,0.66,80.691986
+10/29/25,Insurance Brokers,WTW,Willis Towers Watson Public Limited Company,1.47,16.92214,18.09,18.736992
+10/29/25,Insurance Brokers,BRO,"Brown & Brown, Inc.",3.3,4.20002,4.09,19.04991
+10/29/25,Insurance Brokers,ERIE,Erie Indemnity Company,11.95,12.46,13.4,24.813803
+10/29/25,Capital Markets,CRCL,Circle Internet Group,-1.74,-0.92922,,-141.32283
+10/29/25,Capital Markets,LPLA,LPL Financial Holdings Inc.,14.58,18.83761,18.58,18.175873
+10/29/25,Capital Markets,TW,Tradeweb Markets Inc.,2.59,3.40207,3.32,31.295652
+10/29/25,Capital Markets,IREN,IREN Limited,0.39,0.98667,0.34,60.810604
+10/29/25,Capital Markets,GLXY,Galaxy Digital,0.87,0.90333,,40.793507
+10/29/25,Capital Markets,HLI,"Houlihan Lokey, Inc.",5.94,7.74699,6.74,25.702885
+10/29/25,Capital Markets,SF,Stifel Financial Corp.,5.65,7.25061,7.63,16.070372
+10/29/25,Capital Markets,EVR,Evercore Inc.,11.04,13.36041,14.06,22.428204
+10/29/25,Capital Markets,JEF,Jefferies Financial Group Inc.,2.88,2.94,4.47,18.343536
+10/29/25,Asset Management,ARES,Ares Management Corporation,1.77,5.01192,5.6,30.154114
+10/29/25,Asset Management,AMP,"Ameriprise Financial, Inc.",32.08,38.21429,38.63,12.552503
+10/29/25,Asset Management,STT,State Street Corporation,9.42,10.14138,9.34,11.643878
+10/29/25,Asset Management,RJF,"Raymond James Financial, Inc.",10.3,11.93758,11.14,13.2878685
+10/29/25,Asset Management,OWL,Blue Owl Capital Inc.,0.11,0.82941,0.93,20.273447
+10/29/25,Asset Management,NTRS,Northern Trust Corporation,8.58,8.64887,7.64,14.841245
+10/29/25,Asset Management,TROW,"T. Rowe Price Group, Inc.",8.93,9.44858,9.35,11.036579
+10/29/25,Asset Management,TPG,TPG Inc.,-0.18,2.438,2.56,23.330599
+10/29/25,Asset Management,CG,The Carlyle Group Inc.,3.42,4.1283,4.43,13.959741
+10/29/25,Asset Management,PFG,"Principal Financial Group, Inc.",4.96,8.3006,8.44,9.9498825
+10/29/25,Asset Management,CRBG,"Corebridge Financial, Inc.",-0.68,4.53203,5.62,7.0674725
+10/29/25,Asset Management,ARCC,Ares Capital Corporation,1.99,1.99588,2.2,10.359139
+10/29/25,Asset Management,EQH,"Equitable Holdings, Inc.",1.29,5.80204,7.23,8.349649
+10/29/25,Asset Management,BEN,"Franklin Resources, Inc.",0.51,2.12148,2.6,10.933405
+10/29/25,Asset Management,IVZ,Invesco Ltd.,0.93,1.98291,1.89,12.267324
+10/29/25,Asset Management,SEIC,SEI Investments Company,5.43,4.966,4.88,16.345146
+10/29/25,Credit Services,SOFI,"SoFi Technologies, Inc.",0.56,0.36967,0.29,83.43766
+10/29/25,Credit Services,SYF,Synchrony Financial,9.12,9.30839,6.47,8.011053
+10/29/25,Credit Services,ALLY,Ally Financial Inc.,1.04,3.74586,4.15,10.758544
+2025-10-29,Specialty Retail,TSCO,Tractor Supply Company,2.07,2.10781,11.13,25.870453
+2025-10-29,Specialty Retail,WSM,"Williams-Sonoma, Inc.",8.98,8.59115,8.13,23.407808
+2025-10-29,Specialty Retail,ULTA,"Ulta Beauty, Inc.",26.04,24.48678,22.87,20.845943
+2025-10-29,Specialty Retail,DKS,"DICK'S Sporting Goods, Inc.",14.32,14.46896,14.82,15.906465
+2025-10-29,Specialty Retail,CASY,"Casey's General Stores, Inc.",15.6,16.43271,16.2,32.424355
+2025-10-29,Specialty Retail,BBY,"Best Buy Co., Inc.",3.63,6.25117,6.84,13.466279
+2025-10-29,Specialty Retail,GME,GameStop Corp.,0.8,0.99,-0.01,23.287878
+2025-10-29,Residential Construction,DHI,"D.R. Horton, Inc.",11.58,11.58858,15.93,13.239327
+2025-10-29,Residential Construction,LEN-B,Lennar Corporation,10.11,,16.2,
+2025-10-29,Residential Construction,LEN,Lennar Corporation,10.1,8.22905,16.14,15.572879
+2025-10-29,Residential Construction,PHM,"PulteGroup, Inc.",12.96,11.35675,13.5,10.654457
+2025-10-29,Residential Construction,NVR,"NVR, Inc.",455.14,421.1654,518.05,17.754925
+2025-10-29,Residential Construction,TOL,"Toll Brothers, Inc.",13.56,13.78934,14.62,10.097655
+2025-10-29,Healthcare Plans,HUM,Humana Inc.,13.06,17.03984,16.84,17.345232
+2025-10-29,Healthcare Plans,CNC,Centene Corporation,4.12,1.7207,7.04,21.438948
+2025-10-29,Resorts & Casinos,LVS,Las Vegas Sands Corp.,2.22,2.88992,2.75,20.446934
+2025-10-29,Resorts & Casinos,WYNN,"Wynn Resorts, Limited",3.38,4.73717,5.02,25.650335
+2025-10-29,Leisure,AS,"Amer Sports, Inc.",0.41,0.84876,0.7,38.149773
+2025-10-29,Leisure,HAS,"Hasbro, Inc.",-3.99,4.97483,4.43,15.761343
+2025-10-29,Luxury Goods,TPR,"Tapestry, Inc.",0.81,5.47978,4.76,20.659588
+2025-10-29,Personal Services,ROL,"Rollins, Inc.",1.01,1.11947,1.12,48.397903
+2025-10-29,Personal Services,SCI,Service Corporation International,3.68,3.84121,3.96,20.916588
+2025-10-29,"Furnishings, Fixtures & Appliances",SGI,Somnigroup International Inc.,1.46,2.56592,0.11,32.19118
+2025-10-29,"Furnishings, Fixtures & Appliances",SN,"SharkNinja, Inc.",3.66,5.11289,4.87,19.03669
+2025-10-29,Apparel Manufacturing,RL,Ralph Lauren Corporation,12.52,14.79783,13.02,22.274212
+2025-10-29,Semiconductors,MCHP,Microchip Technology Incorporated,-0.34,1.45249,2.6,43.73868
+2025-10-29,Semiconductors,ASX,"ASE Technology Holding Co., Ltd.",0.49,0.55176,0.75,26.161737
+2025-10-29,Semiconductors,CRDO,Credo Technology Group Holding Ltd,0.71,2.07529,0.77,82.224655
+2025-10-29,Semiconductors,ALAB,"Astera Labs, Inc.",0.81,1.58169,1.15,109.80028
+2025-10-29,Semiconductors,STM,STMicroelectronics N.V.,0.58,0.6108,1.39,40.84807
+2025-10-29,Semiconductors,ON,ON Semiconductor Corporation,1.05,2.2914,4.32,22.663002
+2025-10-29,Semiconductors,GFS,GLOBALFOUNDRIES Inc.,-0.21,1.62128,1.79,21.390507
+2025-10-29,Semiconductors,UMC,United Microelectronics Corporation,0.54,0.44322,0.64,16.684717
+2025-10-29,Semiconductors,SWKS,"Skyworks Solutions, Inc.",2.51,5.67686,6.4,14.356528
+2025-10-29,Semiconductors,RMBS,Rambus Inc.,2.1,2.49286,2.45,44.392784
+2025-10-29,Semiconductors,MTSI,"MACOM Technology Solutions Holdings, Inc.",-0.96,3.46932,3.98,44.18157
+2025-10-29,Semiconductors,LSCC,Lattice Semiconductor Corporation,0.23,1.055,1.06,71.004745
+2025-10-29,Gambling,FLUT,Flutter Entertainment plc,2.04,8.25217,8.32,28.908154
+2025-10-29,Gambling,DKNG,DraftKings Inc.,-0.65,1.16957,0.57,26.83465
+2025-10-29,Auto & Truck Dealerships,CVNA,Carvana Co.,4.02,5.43782,2.35,66.19197
+2025-10-29,Auto & Truck Dealerships,PAG,"Penske Automotive Group, Inc.",14.36,13.93354,13.88,11.698463
+2025-10-29,Packaging & Containers,IP,International Paper Company,-0.06,1.52626,3.0,29.726257
+2025-10-29,Packaging & Containers,SW,Smurfit Westrock Plc,0.26,2.7113,3.61,14.251467
+2025-10-29,Packaging & Containers,AMCR,Amcor plc,0.32,0.80225,0.79,10.028046
+2025-10-29,Packaging & Containers,PKG,Packaging Corporation of America,9.9,9.95076,11.24,20.078365
+2025-10-29,Packaging & Containers,AVY,Avery Dennison Corporation,8.82,9.49832,10.52,18.746473
+2025-10-29,Packaging & Containers,BALL,Ball Corporation,2.02,3.58174,3.53,13.434811
+2025-10-29,Packaging & Containers,CCK,"Crown Holdings, Inc.",8.06,7.76331,6.87,12.441214
+2025-10-29,Lodging,IHG,InterContinental Hotels Group PLC,4.72,5.4166,5.35,23.041206
+2025-10-29,Lodging,H,Hyatt Hotels Corporation,4.4,2.37707,3.95,61.23926
+2025-10-29,Lodging,HTHT,H World Group Limited,1.67,14.37524,2.05,2.6688251
+2025-10-29,Apparel Retail,LULU,lululemon athletica inc.,14.65,12.99338,14.93,13.261369
+2025-10-29,Apparel Retail,BURL,"Burlington Stores, Inc.",8.48,9.55143,9.62,29.42596
+2025-10-29,Footwear & Accessories,ONON,On Holding AG,0.53,0.60684,1.1,65.008896
+2025-10-29,Footwear & Accessories,DECK,Deckers Outdoor Corporation,6.73,6.39992,6.36,13.388449
+2025-10-29,Discount Stores,TGT,Target Corporation,8.58,7.33666,10.51,13.017504
+2025-10-29,Discount Stores,DG,Dollar General Corporation,5.4,6.12425,6.22,16.48202
+2025-10-29,Discount Stores,DLTR,"Dollar Tree, Inc.",5.16,5.47996,6.06,18.72459
+2025-10-29,Discount Stores,BJ,"BJ's Wholesale Club Holdings, Inc.",4.36,4.33025,4.25,20.922558
+2025-10-29,Electronic Gaming & Multimedia,EA,Electronic Arts Inc.,3.45,8.49438,8.53,23.586184
+2025-10-29,Electronic Gaming & Multimedia,TTWO,"Take-Two Interactive Software, Inc.",-24.13,2.88646,7.84,87.03741
+2025-10-29,Advertising Agencies,OMC,Omnicom Group Inc.,6.78,8.59292,8.64,8.831107
+2025-10-29,Entertainment,LYV,"Live Nation Entertainment, Inc.",2.36,1.47,2.42,103.31632
+2025-10-29,Entertainment,FOXA,Fox Corporation,4.91,4.19845,3.73,14.43628
+2025-10-29,Entertainment,FOX,Fox Corporation,4.91,,2.35,
+2025-10-29,Entertainment,FWONK,Formula One Group,1.01,2.16236,1.34,45.089626
+2025-10-29,Entertainment,FWONA,Formula One Group,1.0,3.62398,1.3,24.582088
+2025-10-29,Entertainment,PSKY,Paramount Skydance Corporation,0.03,1.25599,,12.746917
+2025-10-29,Entertainment,WMG,Warner Music Group Corp.,0.57,1.11674,1.4,28.319036
+2025-10-29,Entertainment,NWS,News Corporation,0.84,0.98284,,30.920597
+2025-10-29,Entertainment,TKO,"TKO Group Holdings, Inc.",2.44,3.28197,3.24,57.413685
+2025-10-29,Entertainment,NWSA,News Corporation,0.84,0.98284,1.06,26.64218
+2025-10-29,Entertainment,ROKU,"Roku, Inc.",-0.42,0.18182,-0.63,541.50916
+2025-10-29,Telecom Services,CHT,"Chunghwa Telecom Co., Ltd.",1.58,,1.53,
+2025-10-29,Telecom Services,CHTR,"Charter Communications, Inc.",36.54,37.16876,35.78,6.496047
+2025-10-29,Telecom Services,TEF,"Telefónica, S.A.",-0.16,0.2745,0.29,18.943169
+2025-10-29,Telecom Services,VOD,Vodafone Group Public Limited Company,-1.85,0.726,0.85,16.453167
+2025-10-29,Telecom Services,TU,TELUS Corporation,0.46,0.72556,0.75,20.342907
+2025-10-29,Telecom Services,BCE,BCE Inc.,0.33,2.68783,2.09,8.733811
+2025-10-29,Telecom Services,RCI,Rogers Communications Inc.,8.91,4.85804,3.75,8.225539
+2025-10-29,Telecom Services,SATS,EchoStar Corporation,-1.06,-4.91732,-2.75,-15.0427475
+2025-10-29,Telecom Services,VIV,Telefônica Brasil S.A.,0.66,3.94,0.76,3.2766497
+2025-10-29,Telecom Services,TLK,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,1.39,1.45144,1.8,13.769085
+2025-10-29,Telecom Services,LUMN,"Lumen Technologies, Inc.",-1.19,-0.56305,-0.64,-19.980465
+2025-10-29,Telecom Services,TIMB,TIM S.A.,1.38,1.48101,1.46,15.813533
+2025-10-29,Internet Content & Information,BIDU,"Baidu, Inc.",10.94,52.69972,11.09,2.4159048
+2025-10-29,Internet Content & Information,RDDT,"Reddit, Inc.",2.24,4.02891,0.67,52.733887
+2025-10-29,Internet Content & Information,TME,Tencent Music Entertainment Group,0.93,6.13301,0.77,3.7175872
+2025-10-29,Internet Content & Information,NBIS,,0.77,-1.69,,-72.183426
+2025-10-29,Internet Content & Information,PINS,"Pinterest, Inc.",2.76,1.76545,1.8,18.765755
+2025-10-29,Internet Content & Information,ZG,"Zillow Group, Inc.",-0.27,1.6153,1.87,43.76586
+2025-10-29,Internet Content & Information,Z,"Zillow Group, Inc.",-0.27,1.65089,1.96,44.530525
+2025-10-29,Internet Content & Information,SNAP,Snap Inc.,-0.32,0.26025,0.41,30.182516
+2025-10-29,Internet Content & Information,BILI,Bilibili Inc.,0.08,5.44191,0.61,5.9276066
+2025-10-29,Internet Content & Information,BZ,Kanzhun Limited,0.67,7.64553,0.97,2.9442039
+2025-10-29,Grocery Stores,KR,The Kroger Co.,3.94,4.79894,4.58,13.810341
+2025-10-29,Grocery Stores,SFM,"Sprouts Farmers Market, Inc.",4.85,5.31014,4.2,19.888365
+2025-10-29,Grocery Stores,ACI,"Albertsons Companies, Inc.",1.69,2.14543,2.27,8.53675
+2025-10-29,Travel Services,TCOM,Trip.com Group Limited,3.64,26.09611,3.64,2.7893047
+2025-10-29,Travel Services,CCL,Carnival Corporation & plc,1.94,2.16127,1.72,13.114974
+2025-10-29,Travel Services,CUK,Carnival Corporation & plc,1.94,2.13,1.68,12.037558
+2025-10-29,Travel Services,EXPE,"Expedia Group, Inc.",8.11,14.32773,14.36,15.420097
+2025-10-29,Travel Services,VIK,Viking Holdings Ltd,1.89,2.47899,2.08,24.191303
+2025-10-29,Travel Services,NCLH,Norwegian Cruise Line Holdings Ltd.,1.46,2.07214,2.09,10.863166
+2025-10-29,Food Distribution,SYY,Sysco Corporation,3.73,4.57485,4.92,16.212553
+2025-10-29,Food Distribution,USFD,US Foods Holding Corp.,2.34,3.89758,3.78,18.847593
+2025-10-29,Food Distribution,PFGC,Performance Food Group Company,2.18,5.16975,5.63,19.147926
+2025-10-29,Farm Products,ADM,Archer-Daniels-Midland Company,2.3,3.83903,5.07,15.808681
+2025-10-29,Farm Products,BG,Bunge Global SA,9.92,7.26651,9.3,13.304874
+2025-10-29,Farm Products,TSN,"Tyson Foods, Inc.",2.2,3.79447,3.5,13.453789
+2025-10-29,Confectioners,HSY,The Hershey Company,7.53,5.95706,8.4,29.339136
+2025-10-29,Packaged Foods,K,Kellanova,3.82,3.64948,1.2,22.759405
+2025-10-29,Packaged Foods,KHC,The Kraft Heinz Company,-4.46,2.58502,3.07,9.435129
+2025-10-29,Packaged Foods,GIS,"General Mills, Inc.",5.29,3.65173,4.7,12.800781
+2025-10-29,Packaged Foods,MKC-V,"McCormick & Company, Incorporated",2.88,,,
+2025-10-29,Packaged Foods,MKC,"McCormick & Company, Incorporated",2.88,3.0215,3.12,21.310606
+2025-10-29,Packaged Foods,JBS,JBS N.V.,1.13,10.293,,1.261537
+2025-10-29,Packaged Foods,HRL,Hormel Foods Corporation,1.37,1.41046,1.69,15.377962
+2025-10-29,Packaged Foods,SJM,The J. M. Smucker Company,-13.72,9.07633,10.53,11.082673
+2025-10-29,Household & Personal Products,KMB,Kimberly-Clark Corporation,7.31,7.43496,7.63,15.913334
+2025-10-29,Household & Personal Products,EL,The Estée Lauder Companies Inc.,-3.15,2.0855,2.7,47.158955
+2025-10-29,Household & Personal Products,KVUE,Kenvue Inc.,0.75,1.02921,1.22,14.584002
+2025-10-29,Household & Personal Products,CHD,"Church & Dwight Co., Inc.",2.12,3.47597,3.73,23.797674
+2025-10-29,Household & Personal Products,CLX,The Clorox Company,6.52,5.99709,7.29,18.700737
+2025-10-29,Auto Parts,APTV,Aptiv PLC,4.42,7.58653,6.98,11.429467
+2025-10-29,Auto Parts,GPC,Genuine Parts Company,5.81,7.63822,8.47,17.070076
+2025-10-29,Auto Parts,MGA,Magna International Inc.,4.26,5.17684,5.95,8.806531
+2025-10-29,Auto Parts,MBLY,Mobileye Global Inc.,-0.41,0.35611,0.41,36.88467
+2025-10-29,Restaurants,YUM,"Yum! Brands, Inc.",5.07,6.00689,6.08,23.183378
+2025-10-29,Restaurants,QSR,Restaurant Brands International Inc.,2.65,3.64958,5.36,18.015772
+2025-10-29,Restaurants,DRI,"Darden Restaurants, Inc.",9.34,10.62191,10.56,17.109446
+2025-10-29,Restaurants,YUMC,"Yum China Holdings, Inc.",2.42,2.49016,2.58,17.593248
+2025-10-29,Restaurants,DPZ,"Domino's Pizza, Inc.",17.1,17.61163,17.64,23.159128
+2025-10-29,Restaurants,TXRH,"Texas Roadhouse, Inc.",6.56,6.52605,7.15,26.323732
+2025-10-29,Medical Care Facilities,THC,Tenet Healthcare Corporation,14.71,16.02395,11.46,13.064507
+2025-10-29,Medical Care Facilities,FMS,Fresenius Medical Care AG,1.3,1.89675,2.62,14.390405
+2025-10-29,Medical Care Facilities,UHS,"Universal Health Services, Inc.",21.01,21.40325,18.16,10.464999
+2025-10-29,Medical Care Facilities,EHC,Encompass Health Corporation,5.13,5.25523,4.78,24.014172
+2025-10-29,Medical Care Facilities,ENSG,"The Ensign Group, Inc.",5.51,6.41316,6.14,28.776766
+2025-10-29,Biotechnology,ONC,BeOne Medicines AG,-1.68,2.26673,,138.75714
+2025-10-29,Biotechnology,INSM,Insmed Incorporated,-5.67,-5.55943,-4.23,-29.791723
+2025-10-29,Biotechnology,BNTX,BioNTech SE,-1.66,-4.04847,-3.9,-25.907318
+2025-10-29,Biotechnology,RPRX,Royalty Pharma plc,2.29,4.34282,4.39,8.474908
+2025-10-29,Biotechnology,GMAB,Genmab A/S,1.93,1.71426,1.4,16.949005
+2025-10-29,Biotechnology,INCY,Incyte Corporation,5.9,6.85567,6.14,13.125632
+2025-10-29,Biotechnology,ROIV,Roivant Sciences Ltd.,-1.09,-1.16424,-1.19,-16.186525
+2025-10-29,Biotechnology,BBIO,"BridgeBio Pharma, Inc.",-4.13,-2.898,-3.06,-23.126293
+2025-10-29,Biotechnology,ASND,Ascendis Pharma A/S,-5.27,-2.21243,-3.95,-94.115974
+2025-10-29,Biotechnology,IONS,"Ionis Pharmaceuticals, Inc.",-1.76,-1.92673,-3.74,-37.862076
+2025-10-29,Biotechnology,RVMD,"Revolution Medicines, Inc.",-4.52,-5.31579,-4.05,-10.982375
+2025-10-29,Biotechnology,EXEL,"Exelixis, Inc.",2.08,2.66467,1.7,15.037509
+2025-10-29,Biotechnology,BMRN,BioMarin Pharmaceutical Inc.,2.69,3.58889,2.99,14.781729
+2025-10-29,Medical Devices,EW,Edwards Lifesciences Corporation,2.39,2.51067,2.45,33.109768
+2025-10-29,Medical Devices,DXCM,"DexCom, Inc.",1.42,2.05066,2.03,33.325855
+2025-10-29,Medical Devices,PHG,Koninklijke Philips N.V.,0.19,1.57004,1.69,17.712925
+2025-10-29,Medical Devices,STE,STERIS plc,6.54,10.16556,9.97,23.431568
+2025-10-29,Medical Devices,PODD,Insulet Corporation,3.28,4.66792,3.87,68.561584
+2025-10-29,Medical Devices,ZBH,"Zimmer Biomet Holdings, Inc.",4.1,8.14678,8.6,12.354574
+2025-10-29,Medical Devices,SNN,Smith & Nephew plc,1.11,1.57026,1.29,23.01848
+2025-10-29,Solar,FSLR,"First Solar, Inc.",11.69,15.28053,20.86,15.960834
+2025-10-29,Solar,NXT,Nextracker Inc.,3.86,4.27298,3.38,24.334305
+2025-10-29,Electronic Components,CLS,Celestica Inc.,6.14,5.93783,4.45,56.869244
+2025-10-29,Electronic Components,FLEX,Flex Ltd.,2.27,3.03802,2.78,21.566677
+2025-10-29,Electronic Components,JBL,Jabil Inc.,5.92,11.10305,10.01,20.295324
+2025-10-29,Electronic Components,FN,Fabrinet,9.19,12.24816,11.07,36.50181
+2025-10-29,Communication Equipment,UI,Ubiquiti Inc.,11.74,11.781,10.2,65.72362
+2025-10-29,Communication Equipment,NOK,Nokia Oyj,0.19,0.31121,0.35,23.71389
+2025-10-29,Communication Equipment,ERIC,Telefonaktiebolaget LM Ericsson (publ),0.79,0.78267,0.52,12.917449
+2025-10-29,Communication Equipment,HPE,Hewlett Packard Enterprise Company,0.85,1.89832,2.1,12.882443
+2025-10-29,Communication Equipment,ASTS,"AST SpaceMobile, Inc.",-1.86,-1.04814,-0.71,-76.57374
+2025-10-29,Communication Equipment,CIEN,Ciena Corporation,0.99,2.49444,2.72,75.473854
+2025-10-29,Communication Equipment,LITE,Lumentum Holdings Inc.,0.38,4.89769,3.69,42.971283
+2025-10-29,Communication Equipment,ZBRA,Zebra Technologies Corporation,9.93,15.80023,16.04,17.325722
+2025-10-29,Computer Hardware,WDC,Western Digital Corporation,4.45,6.73773,8.81,21.115421
+2025-10-29,Computer Hardware,PSTG,"Pure Storage, Inc.",0.41,1.95638,1.85,49.397354
+2025-10-29,Computer Hardware,SMCI,"Super Micro Computer, Inc.",1.68,2.56744,4.24,20.63729
+2025-10-29,Computer Hardware,SNDK,Sandisk Corporation,-11.32,6.66328,,29.416443
+2025-10-29,Computer Hardware,HPQ,HP Inc.,2.75,3.12294,3.6,8.969112
+2025-10-29,Computer Hardware,IONQ,"IonQ, Inc.",-2.06,-0.718,-0.88,-85.44568
+2025-10-29,Computer Hardware,LOGI,Logitech International S.A.,4.4,5.61772,4.69,20.787792
+2025-10-29,Computer Hardware,QBTS,D-Wave Quantum Inc.,-1.13,-0.22625,-0.26,-150.49637
+2025-10-29,Information Technology Services,FI,"Fiserv, Inc.",5.98,10.07222,10.19,7.2029805
+2025-10-29,Information Technology Services,CTSH,Cognizant Technology Solutions Corporation,4.93,5.13622,4.99,14.093049
+2025-10-29,Information Technology Services,FIS,"Fidelity National Information Services, Inc.",0.25,5.75439,5.71,10.681411
+2025-10-29,Information Technology Services,WIT,Wipro Limited,0.15,0.14388,0.29,18.626635
+2025-10-29,Information Technology Services,BR,"Broadridge Financial Solutions, Inc.",7.1,9.35666,9.35,23.475256
+2025-10-29,Information Technology Services,LDOS,"Leidos Holdings, Inc.",10.59,11.58317,10.45,16.332748
+2025-10-29,Information Technology Services,CDW,CDW Corporation,8.04,9.85772,10.12,16.003193
+2025-10-29,Information Technology Services,GIB,CGI Inc.,5.4,8.25581,6.47,10.601019
+2025-10-29,Information Technology Services,IT,"Gartner, Inc.",16.22,12.20572,13.19,20.768131
+2025-10-29,Information Technology Services,CACI,CACI International Inc,22.61,28.23121,26.9,20.127369
+2025-10-29,Information Technology Services,JKHY,"Jack Henry & Associates, Inc.",6.23,6.29273,6.32,23.806042
+2025-10-29,Medical Distribution,CAH,"Cardinal Health, Inc.",6.45,9.43068,8.64,17.373083
+2025-10-29,Health Information Services,VEEV,Veeva Systems Inc.,4.87,7.80524,6.76,36.730453
+2025-10-29,Health Information Services,GEHC,GE HealthCare Technologies Inc.,4.88,4.51,4.67,17.363634
+2025-10-29,Health Information Services,TEM,"Tempus AI, Inc.",2.15,-0.71965,-0.7,-124.984375
+2025-10-29,Health Information Services,DOCS,"Doximity, Inc.",1.17,1.52003,1.19,44.133995
+2025-10-29,Auto Manufacturers,HMC,"Honda Motor Co., Ltd.",2.82,,4.96,
+2025-10-29,Auto Manufacturers,STLA,Stellantis N.V.,-0.93,0.81475,2.98,13.826327
+2025-10-29,Auto Manufacturers,LI,Li Auto Inc.,1.07,5.39823,1.54,3.902205
+2025-10-29,Auto Manufacturers,XPEV,XPeng Inc.,-0.63,-0.8248,-0.45,-28.606934
+2025-10-29,Auto Manufacturers,NIO,NIO Inc.,-1.62,-7.46854,-0.85,-0.9593575
+2025-10-29,Auto Manufacturers,RIVN,"Rivian Automotive, Inc.",-3.21,-2.66694,-2.74,-5.1557217
+2025-10-29,Internet Retail,JD,"JD.com, Inc.",3.59,19.11743,4.14,1.809082
+2025-10-29,Internet Retail,EBAY,eBay Inc.,4.5,5.42501,5.22,18.42485
+2025-10-29,Internet Retail,CHWY,"Chewy, Inc.",0.36,1.2747,0.6,26.421902
+2025-10-29,Internet Retail,W,Wayfair Inc.,-2.57,2.24912,0.82,48.134384
+2025-10-29,Internet Retail,CART,Maplebear Inc.,1.73,3.02737,1.34,12.434886
+2025-10-29,Financial Conglomerates,IX,ORIX Corporation,2.13,,11.74,
+2025-10-29,Mortgage Finance,RKT,"Rocket Companies, Inc.",-0.03,0.21359,0.66,80.94995
+2025-10-29,Insurance Brokers,WTW,Willis Towers Watson Public Limited Company,1.47,16.92214,18.09,18.730196
+2025-10-29,Insurance Brokers,BRO,"Brown & Brown, Inc.",3.3,4.20002,4.09,19.147528
+2025-10-29,Insurance Brokers,ERIE,Erie Indemnity Company,11.95,12.46,13.4,24.824238
+2025-10-29,Capital Markets,CRCL,Circle Internet Group,-1.74,-0.92922,,-141.85027
+2025-10-29,Capital Markets,LPLA,LPL Financial Holdings Inc.,14.58,18.83761,18.58,18.175608
+2025-10-29,Capital Markets,TW,Tradeweb Markets Inc.,2.59,3.40207,3.32,31.30447
+2025-10-29,Capital Markets,NMR,"Nomura Holdings, Inc.",0.79,,0.56,
+2025-10-29,Capital Markets,IREN,IREN Limited,0.39,0.98667,0.34,61.06398
+2025-10-29,Capital Markets,GLXY,Galaxy Digital,0.87,0.90333,,41.048122
+2025-10-29,Capital Markets,HLI,"Houlihan Lokey, Inc.",5.94,7.74699,6.74,25.745481
+2025-10-29,Capital Markets,SF,Stifel Financial Corp.,5.65,7.25061,7.63,16.086922
+2025-10-29,Capital Markets,EVR,Evercore Inc.,11.04,13.36041,14.06,22.44654
+2025-10-29,Capital Markets,JEF,Jefferies Financial Group Inc.,2.88,2.94,4.47,18.299318
+2025-10-29,Asset Management,ARES,Ares Management Corporation,1.77,5.01192,5.6,30.238909
+2025-10-29,Asset Management,AMP,"Ameriprise Financial, Inc.",32.08,38.21429,38.63,12.59712
+2025-10-29,Asset Management,APO-PA,"Apollo Global Management, Inc.",,,,
+2025-10-29,Asset Management,STT,State Street Corporation,9.42,10.14138,9.34,11.630567
+2025-10-29,Asset Management,RJF,"Raymond James Financial, Inc.",10.3,11.93758,11.14,13.3109045
+2025-10-29,Asset Management,OWL,Blue Owl Capital Inc.,0.11,0.82941,0.93,20.466356
+2025-10-29,Asset Management,NTRS,Northern Trust Corporation,8.58,8.64887,7.64,14.835463
+2025-10-29,Asset Management,TROW,"T. Rowe Price Group, Inc.",8.93,9.44858,9.35,11.045046
+2025-10-29,Asset Management,TPG,TPG Inc.,-0.18,2.438,2.56,23.38392
+2025-10-29,Asset Management,CG,The Carlyle Group Inc.,3.42,4.1283,4.43,13.983964
+2025-10-29,Asset Management,PFG,"Principal Financial Group, Inc.",4.96,8.3006,8.44,9.960726
+2025-10-29,Asset Management,STT-PG,State Street Corporation,7.376,,,
+2025-10-29,Asset Management,CRBG,"Corebridge Financial, Inc.",-0.68,4.53203,5.62,7.0536823
+2025-10-29,Asset Management,ARCC,Ares Capital Corporation,1.99,1.99588,2.2,10.3639
+2025-10-29,Asset Management,EQH,"Equitable Holdings, Inc.",1.29,5.80204,7.23,8.322935
+2025-10-29,Asset Management,BEN,"Franklin Resources, Inc.",0.51,2.12148,2.6,10.935762
+2025-10-29,Asset Management,IVZ,Invesco Ltd.,0.93,1.98291,1.89,12.191677
+2025-10-29,Asset Management,SEIC,SEI Investments Company,5.43,4.966,4.88,16.339106
+2025-10-29,Credit Services,SOFI,"SoFi Technologies, Inc.",0.56,0.36967,0.29,84.859474
+2025-10-29,Credit Services,SYF,Synchrony Financial,9.12,9.30839,6.47,8.016424
+2025-10-29,Credit Services,ALLY,Ally Financial Inc.,1.04,3.74586,4.15,10.78257

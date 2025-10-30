@@ -1,0 +1,12 @@
+﻿gics_sector,yahoo_sector,FMP_sector,what_it_covers
+Information Technology,technology,Technology,"software, semiconductors, hardware, IT services"
+Health Care,healthcare,Healthcare,"pharmaceuticals, biotechnology, medical devices, providers"
+Financials,financial-services,Financial Services,"banks, insurance, asset management, capital markets"
+Consumer Discretionary,consumer-cyclical,Consumer Cyclical,"retail, autos, hotels/restaurants/leisure, apparel, durables"
+Consumer Staples,consumer-defensive,Consumer Defensive,"food, beverages, tobacco, household & personal products, supermarkets"
+Energy,energy,Energy,"oil & gas exploration/production, equipment & services, refining, integrated energy"
+Industrials,industrials,Industrials,"machinery, aerospace & defense, transportation, construction & engineering"
+Materials,basic-materials,Basic Materials,"chemicals, metals & mining, paper/forest products, construction materials"
+Utilities,utilities,Utilities,"electric, gas, water utilities, independent power producers"
+Real Estate,real-estate,Real Estate,"REITs, real estate management & development (commercial, residential, specialized)"
+Communication Services,communication-services,Communication Services,"telecom, media, entertainment, interactive media & services (search, social, streaming)"

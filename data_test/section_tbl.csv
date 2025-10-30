@@ -1,0 +1,1521 @@
+closed_date,industry,industry_code,metric,val
+2025-10-13,Semiconductors,^YH31130020,previousClose,4724150.0
+2025-10-13,Semiconductors,^YH31130020,regularMarketPreviousClose,4724150.0
+2025-10-13,Semiconductors,^YH31130020,fiftyTwoWeekLow,3884656.8
+2025-10-13,Semiconductors,^YH31130020,fiftyTwoWeekHigh,7986656.0
+2025-10-13,Semiconductors,^YH31130020,fiftyDayAverage,7305559.0
+2025-10-13,Semiconductors,^YH31130020,twoHundredDayAverage,5941006.0
+2025-10-13,Semiconductors,^YH31130020,52WeekChange,34.558403
+2025-10-13,Semiconductors,^YH31130020,regularMarketChange,366730.0
+2025-10-13,Semiconductors,^YH31130020,fiftyTwoWeekLowChange,4009300.8
+2025-10-13,Semiconductors,^YH31130020,fiftyTwoWeekLowChangePercent,1.0320863
+2025-10-13,Semiconductors,^YH31130020,regularMarketChangePercent,7.762878
+2025-10-13,Semiconductors,^YH31130020,regularMarketPrice,7893957.5
+2025-10-13,Semiconductors,^YH31130020,fiftyTwoWeekHighChange,-92698.5
+2025-10-13,Semiconductors,^YH31130020,fiftyTwoWeekHighChangePercent,-0.011606673
+2025-10-13,Semiconductors,^YH31130020,fiftyTwoWeekChangePercent,34.558403
+2025-10-13,Semiconductors,^YH31130020,fiftyDayAverageChange,588398.5
+2025-10-13,Semiconductors,^YH31130020,fiftyDayAverageChangePercent,0.0805412
+2025-10-13,Semiconductors,^YH31130020,twoHundredDayAverageChange,1952951.5
+2025-10-13,Semiconductors,^YH31130020,twoHundredDayAverageChangePercent,0.32872403
+2025-10-13,Software - Infrastructure,^YH31110030,previousClose,5010300.0
+2025-10-13,Software - Infrastructure,^YH31110030,regularMarketPreviousClose,5010300.0
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyTwoWeekLow,4055548.8
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyTwoWeekHigh,6510833.5
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyDayAverage,6221911.5
+2025-10-13,Software - Infrastructure,^YH31110030,twoHundredDayAverage,5387265.0
+2025-10-13,Software - Infrastructure,^YH31110030,52WeekChange,28.03067
+2025-10-13,Software - Infrastructure,^YH31110030,regularMarketChange,-80790.0
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyTwoWeekLowChange,2360911.2
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyTwoWeekLowChangePercent,0.5821435
+2025-10-13,Software - Infrastructure,^YH31110030,regularMarketChangePercent,-1.6124783
+2025-10-13,Software - Infrastructure,^YH31110030,regularMarketPrice,6416460.0
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyTwoWeekHighChange,-94373.5
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyTwoWeekHighChangePercent,-0.014494842
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyTwoWeekChangePercent,28.03067
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyDayAverageChange,194548.5
+2025-10-13,Software - Infrastructure,^YH31110030,fiftyDayAverageChangePercent,0.031268284
+2025-10-13,Software - Infrastructure,^YH31110030,twoHundredDayAverageChange,1029195.0
+2025-10-13,Software - Infrastructure,^YH31110030,twoHundredDayAverageChangePercent,0.19104221
+2025-10-13,Consumer Electronics,^YH31120030,previousClose,3495160.0
+2025-10-13,Consumer Electronics,^YH31120030,regularMarketPreviousClose,3495160.0
+2025-10-13,Consumer Electronics,^YH31120030,fiftyTwoWeekLow,2591850.8
+2025-10-13,Consumer Electronics,^YH31120030,fiftyTwoWeekHigh,3918506.5
+2025-10-13,Consumer Electronics,^YH31120030,fiftyDayAverage,3529409.8
+2025-10-13,Consumer Electronics,^YH31120030,twoHundredDayAverage,3305281.5
+2025-10-13,Consumer Electronics,^YH31120030,52WeekChange,2.3244143
+2025-10-13,Consumer Electronics,^YH31120030,regularMarketChangePercent,0.5730782
+2025-10-13,Consumer Electronics,^YH31120030,regularMarketPrice,3678607.0
+2025-10-13,Consumer Electronics,^YH31120030,fiftyDayAverageChange,149197.25
+2025-10-13,Consumer Electronics,^YH31120030,fiftyDayAverageChangePercent,0.04227258
+2025-10-13,Consumer Electronics,^YH31120030,twoHundredDayAverageChange,373325.5
+2025-10-13,Consumer Electronics,^YH31120030,twoHundredDayAverageChangePercent,0.11294817
+2025-10-13,Consumer Electronics,^YH31120030,regularMarketChange,20030.0
+2025-10-13,Consumer Electronics,^YH31120030,fiftyTwoWeekLowChange,1086756.2
+2025-10-13,Consumer Electronics,^YH31120030,fiftyTwoWeekLowChangePercent,0.4192974
+2025-10-13,Consumer Electronics,^YH31120030,fiftyTwoWeekHighChange,-239899.5
+2025-10-13,Consumer Electronics,^YH31120030,fiftyTwoWeekHighChangePercent,-0.061222177
+2025-10-13,Consumer Electronics,^YH31120030,fiftyTwoWeekChangePercent,2.3244143
+2025-10-13,Software - Application,^YH31110020,previousClose,1868570.0
+2025-10-13,Software - Application,^YH31110020,regularMarketPreviousClose,1868570.0
+2025-10-13,Software - Application,^YH31110020,fiftyTwoWeekLow,2125408.5
+2025-10-13,Software - Application,^YH31110020,fiftyTwoWeekHigh,2886394.5
+2025-10-13,Software - Application,^YH31110020,fiftyDayAverage,2513652.2
+2025-10-13,Software - Application,^YH31110020,twoHundredDayAverage,2560287.0
+2025-10-13,Software - Application,^YH31110020,52WeekChange,7.0580244
+2025-10-13,Software - Application,^YH31110020,fiftyDayAverageChange,-15216.5
+2025-10-13,Software - Application,^YH31110020,fiftyDayAverageChangePercent,-0.0060535423
+2025-10-13,Software - Application,^YH31110020,twoHundredDayAverageChange,-61851.25
+2025-10-13,Software - Application,^YH31110020,twoHundredDayAverageChangePercent,-0.024157936
+2025-10-13,Software - Application,^YH31110020,regularMarketChangePercent,0.21353227
+2025-10-13,Software - Application,^YH31110020,regularMarketPrice,2498435.8
+2025-10-13,Software - Application,^YH31110020,regularMarketChange,3990.0
+2025-10-13,Software - Application,^YH31110020,fiftyTwoWeekLowChange,373027.25
+2025-10-13,Software - Application,^YH31110020,fiftyTwoWeekLowChangePercent,0.1755085
+2025-10-13,Software - Application,^YH31110020,fiftyTwoWeekHighChange,-387958.75
+2025-10-13,Software - Application,^YH31110020,fiftyTwoWeekHighChangePercent,-0.13440947
+2025-10-13,Software - Application,^YH31110020,fiftyTwoWeekChangePercent,7.0580244
+2025-10-13,Information Technology Services,^YH31110010,previousClose,763740.0
+2025-10-13,Information Technology Services,^YH31110010,regularMarketPreviousClose,763740.0
+2025-10-13,Information Technology Services,^YH31110010,fiftyTwoWeekLow,744898.94
+2025-10-13,Information Technology Services,^YH31110010,fiftyTwoWeekHigh,994099.6
+2025-10-13,Information Technology Services,^YH31110010,fiftyDayAverage,774966.8
+2025-10-13,Information Technology Services,^YH31110010,twoHundredDayAverage,855638.75
+2025-10-13,Information Technology Services,^YH31110010,52WeekChange,-15.4598
+2025-10-13,Information Technology Services,^YH31110010,fiftyDayAverageChange,3805.0
+2025-10-13,Information Technology Services,^YH31110010,fiftyDayAverageChangePercent,0.0049098874
+2025-10-13,Information Technology Services,^YH31110010,twoHundredDayAverageChange,-76866.94
+2025-10-13,Information Technology Services,^YH31110010,twoHundredDayAverageChangePercent,-0.08983573
+2025-10-13,Information Technology Services,^YH31110010,regularMarketChangePercent,5.170084
+2025-10-13,Information Technology Services,^YH31110010,regularMarketPrice,778771.8
+2025-10-13,Information Technology Services,^YH31110010,regularMarketChange,39486.0
+2025-10-13,Information Technology Services,^YH31110010,fiftyTwoWeekLowChange,33872.875
+2025-10-13,Information Technology Services,^YH31110010,fiftyTwoWeekLowChangePercent,0.045473114
+2025-10-13,Information Technology Services,^YH31110010,fiftyTwoWeekHighChange,-215327.81
+2025-10-13,Information Technology Services,^YH31110010,fiftyTwoWeekHighChangePercent,-0.21660587
+2025-10-13,Information Technology Services,^YH31110010,fiftyTwoWeekChangePercent,-15.4598
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,previousClose,559944.0
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,regularMarketPreviousClose,559944.0
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyTwoWeekLow,307542.34
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyTwoWeekHigh,612130.94
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyDayAverage,498475.34
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,twoHundredDayAverage,434759.25
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,52WeekChange,11.069382
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,regularMarketChange,-43706.0
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyTwoWeekLowChange,266537.72
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyTwoWeekLowChangePercent,0.86667
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,regularMarketChangePercent,-7.8054233
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,regularMarketPrice,574080.06
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyTwoWeekHighChange,-38050.875
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyTwoWeekHighChangePercent,-0.062161334
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyTwoWeekChangePercent,11.069382
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyDayAverageChange,75604.72
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,fiftyDayAverageChangePercent,0.15167193
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,twoHundredDayAverageChange,139320.81
+2025-10-13,Semiconductor Equipment & Materials,^YH31130010,twoHundredDayAverageChangePercent,0.32045507
+2025-10-13,Computer Hardware,^YH31120020,previousClose,416389.0
+2025-10-13,Computer Hardware,^YH31120020,regularMarketPreviousClose,416389.0
+2025-10-13,Computer Hardware,^YH31120020,fiftyTwoWeekLow,251343.95
+2025-10-13,Computer Hardware,^YH31120020,fiftyTwoWeekHigh,583814.2
+2025-10-13,Computer Hardware,^YH31120020,fiftyDayAverage,482790.75
+2025-10-13,Computer Hardware,^YH31120020,twoHundredDayAverage,395080.6
+2025-10-13,Computer Hardware,^YH31120020,52WeekChange,40.686153
+2025-10-13,Computer Hardware,^YH31120020,regularMarketChangePercent,-6.058758
+2025-10-13,Computer Hardware,^YH31120020,regularMarketPrice,567743.56
+2025-10-13,Computer Hardware,^YH31120020,fiftyTwoWeekLowChange,316399.62
+2025-10-13,Computer Hardware,^YH31120020,fiftyTwoWeekLowChangePercent,1.2588313
+2025-10-13,Computer Hardware,^YH31120020,fiftyTwoWeekHighChange,-16070.625
+2025-10-13,Computer Hardware,^YH31120020,fiftyTwoWeekHighChangePercent,-0.027526952
+2025-10-13,Computer Hardware,^YH31120020,fiftyTwoWeekChangePercent,40.686153
+2025-10-13,Computer Hardware,^YH31120020,fiftyDayAverageChange,84952.81
+2025-10-13,Computer Hardware,^YH31120020,fiftyDayAverageChangePercent,0.17596197
+2025-10-13,Computer Hardware,^YH31120020,twoHundredDayAverageChange,172662.97
+2025-10-13,Computer Hardware,^YH31120020,twoHundredDayAverageChangePercent,0.43703228
+2025-10-13,Computer Hardware,^YH31120020,regularMarketChange,-25228.0
+2025-10-13,Communication Equipment,^YH31120010,previousClose,362764.0
+2025-10-13,Communication Equipment,^YH31120010,regularMarketPreviousClose,362764.0
+2025-10-13,Communication Equipment,^YH31120010,fiftyTwoWeekLow,372502.6
+2025-10-13,Communication Equipment,^YH31120010,fiftyTwoWeekHigh,544626.4
+2025-10-13,Communication Equipment,^YH31120010,fiftyDayAverage,502021.56
+2025-10-13,Communication Equipment,^YH31120010,twoHundredDayAverage,460126.56
+2025-10-13,Communication Equipment,^YH31120010,52WeekChange,23.299526
+2025-10-13,Communication Equipment,^YH31120010,regularMarketChangePercent,2.7692935
+2025-10-13,Communication Equipment,^YH31120010,regularMarketPrice,532645.0
+2025-10-13,Communication Equipment,^YH31120010,regularMarketChange,10046.0
+2025-10-13,Communication Equipment,^YH31120010,fiftyTwoWeekLowChange,160142.4
+2025-10-13,Communication Equipment,^YH31120010,fiftyTwoWeekLowChangePercent,0.4299095
+2025-10-13,Communication Equipment,^YH31120010,fiftyTwoWeekHighChange,-11981.375
+2025-10-13,Communication Equipment,^YH31120010,fiftyTwoWeekHighChangePercent,-0.021999257
+2025-10-13,Communication Equipment,^YH31120010,fiftyTwoWeekChangePercent,23.299526
+2025-10-13,Communication Equipment,^YH31120010,fiftyDayAverageChange,30623.438
+2025-10-13,Communication Equipment,^YH31120010,fiftyDayAverageChangePercent,0.061000243
+2025-10-13,Communication Equipment,^YH31120010,twoHundredDayAverageChange,72518.44
+2025-10-13,Communication Equipment,^YH31120010,twoHundredDayAverageChangePercent,0.15760541
+2025-10-13,Electronic Components,^YH31120040,previousClose,250701.0
+2025-10-13,Electronic Components,^YH31120040,regularMarketPreviousClose,250701.0
+2025-10-13,Electronic Components,^YH31120040,fiftyTwoWeekLow,209701.08
+2025-10-13,Electronic Components,^YH31120040,fiftyTwoWeekHigh,438869.9
+2025-10-13,Electronic Components,^YH31120040,fiftyDayAverage,401082.4
+2025-10-13,Electronic Components,^YH31120040,twoHundredDayAverage,311722.2
+2025-10-13,Electronic Components,^YH31120040,52WeekChange,65.66025
+2025-10-13,Electronic Components,^YH31120040,regularMarketChange,-3099.0
+2025-10-13,Electronic Components,^YH31120040,fiftyTwoWeekLowChange,221521.61
+2025-10-13,Electronic Components,^YH31120040,fiftyTwoWeekLowChangePercent,1.0563685
+2025-10-13,Electronic Components,^YH31120040,regularMarketChangePercent,-1.2361339
+2025-10-13,Electronic Components,^YH31120040,regularMarketPrice,431222.7
+2025-10-13,Electronic Components,^YH31120040,fiftyTwoWeekHighChange,-7647.2188
+2025-10-13,Electronic Components,^YH31120040,fiftyTwoWeekHighChangePercent,-0.017424796
+2025-10-13,Electronic Components,^YH31120040,fiftyTwoWeekChangePercent,65.66025
+2025-10-13,Electronic Components,^YH31120040,fiftyDayAverageChange,30140.281
+2025-10-13,Electronic Components,^YH31120040,fiftyDayAverageChangePercent,0.07514735
+2025-10-13,Electronic Components,^YH31120040,twoHundredDayAverageChange,119500.5
+2025-10-13,Electronic Components,^YH31120040,twoHundredDayAverageChangePercent,0.38335577
+2025-10-13,Scientific & Technical Instruments,^YH31120060,previousClose,179279.0
+2025-10-13,Scientific & Technical Instruments,^YH31120060,regularMarketPreviousClose,179279.0
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyTwoWeekLow,152786.86
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyTwoWeekHigh,212623.31
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyDayAverage,201600.77
+2025-10-13,Scientific & Technical Instruments,^YH31120060,twoHundredDayAverage,192622.95
+2025-10-13,Scientific & Technical Instruments,^YH31120060,52WeekChange,6.2483788
+2025-10-13,Scientific & Technical Instruments,^YH31120060,regularMarketChangePercent,2.773331
+2025-10-13,Scientific & Technical Instruments,^YH31120060,regularMarketPrice,205987.17
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyTwoWeekHighChange,-6636.1406
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyTwoWeekHighChangePercent,-0.031210786
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyTwoWeekChangePercent,6.2483788
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyDayAverageChange,4386.4062
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyDayAverageChangePercent,0.021757884
+2025-10-13,Scientific & Technical Instruments,^YH31120060,twoHundredDayAverageChange,13364.219
+2025-10-13,Scientific & Technical Instruments,^YH31120060,twoHundredDayAverageChangePercent,0.0693802
+2025-10-13,Scientific & Technical Instruments,^YH31120060,regularMarketChange,4972.0
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyTwoWeekLowChange,53200.312
+2025-10-13,Scientific & Technical Instruments,^YH31120060,fiftyTwoWeekLowChangePercent,0.34819952
+2025-10-13,Solar,^YH31130030,previousClose,60412.6
+2025-10-13,Solar,^YH31130030,regularMarketPreviousClose,60412.6
+2025-10-13,Solar,^YH31130030,fiftyTwoWeekLow,29973.086
+2025-10-13,Solar,^YH31130030,fiftyTwoWeekHigh,56086.773
+2025-10-13,Solar,^YH31130030,fiftyDayAverage,48246.08
+2025-10-13,Solar,^YH31130030,twoHundredDayAverage,40891.035
+2025-10-13,Solar,^YH31130030,52WeekChange,9.530306
+2025-10-13,Solar,^YH31130030,regularMarketChangePercent,-5.1284056
+2025-10-13,Solar,^YH31130030,regularMarketPrice,55305.785
+2025-10-13,Solar,^YH31130030,fiftyTwoWeekLowChange,25332.7
+2025-10-13,Solar,^YH31130030,fiftyTwoWeekLowChangePercent,0.8451815
+2025-10-13,Solar,^YH31130030,fiftyTwoWeekHighChange,-780.9883
+2025-10-13,Solar,^YH31130030,fiftyTwoWeekHighChangePercent,-0.0139246425
+2025-10-13,Solar,^YH31130030,fiftyTwoWeekChangePercent,9.530306
+2025-10-13,Solar,^YH31130030,fiftyDayAverageChange,7059.707
+2025-10-13,Solar,^YH31130030,fiftyDayAverageChangePercent,0.14632706
+2025-10-13,Solar,^YH31130030,twoHundredDayAverageChange,14414.75
+2025-10-13,Solar,^YH31130030,twoHundredDayAverageChangePercent,0.35251614
+2025-10-13,Solar,^YH31130030,regularMarketChange,-3098.2031
+2025-10-13,Electronics & Computer Distribution,^YH31120050,previousClose,30600.7
+2025-10-13,Electronics & Computer Distribution,^YH31120050,regularMarketPreviousClose,30600.7
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyTwoWeekLow,23316.824
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyTwoWeekHigh,33563.99
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyDayAverage,30231.82
+2025-10-13,Electronics & Computer Distribution,^YH31120050,twoHundredDayAverage,29264.764
+2025-10-13,Electronics & Computer Distribution,^YH31120050,52WeekChange,-13.197226
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyDayAverageChange,-1201.7148
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyDayAverageChangePercent,-0.03975
+2025-10-13,Electronics & Computer Distribution,^YH31120050,twoHundredDayAverageChange,-234.6582
+2025-10-13,Electronics & Computer Distribution,^YH31120050,twoHundredDayAverageChangePercent,-0.0080184555
+2025-10-13,Electronics & Computer Distribution,^YH31120050,regularMarketChangePercent,5.047928
+2025-10-13,Electronics & Computer Distribution,^YH31120050,regularMarketPrice,29030.105
+2025-10-13,Electronics & Computer Distribution,^YH31120050,regularMarketChange,1544.7012
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyTwoWeekLowChange,5713.2812
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyTwoWeekLowChangePercent,0.24502827
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyTwoWeekHighChange,-4533.883
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyTwoWeekHighChangePercent,-0.13508177
+2025-10-13,Electronics & Computer Distribution,^YH31120050,fiftyTwoWeekChangePercent,-13.197226
+2025-10-13,Drug Manufacturers - General,^YH20620010,previousClose,2374740.0
+2025-10-13,Drug Manufacturers - General,^YH20620010,regularMarketPreviousClose,2374740.0
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyTwoWeekLow,1990698.1
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyTwoWeekHigh,2452651.2
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyDayAverage,2236623.5
+2025-10-13,Drug Manufacturers - General,^YH20620010,twoHundredDayAverage,2210982.0
+2025-10-13,Drug Manufacturers - General,^YH20620010,52WeekChange,-1.7434657
+2025-10-13,Drug Manufacturers - General,^YH20620010,regularMarketChangePercent,0.58153737
+2025-10-13,Drug Manufacturers - General,^YH20620010,regularMarketPrice,2370620.5
+2025-10-13,Drug Manufacturers - General,^YH20620010,regularMarketChange,13810.0
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyTwoWeekLowChange,379922.38
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyTwoWeekLowChangePercent,0.19084881
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyTwoWeekHighChange,-82030.75
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyTwoWeekHighChangePercent,-0.033445746
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyTwoWeekChangePercent,-1.7434657
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyDayAverageChange,133997.0
+2025-10-13,Drug Manufacturers - General,^YH20620010,fiftyDayAverageChangePercent,0.059910398
+2025-10-13,Drug Manufacturers - General,^YH20620010,twoHundredDayAverageChange,159638.5
+2025-10-13,Drug Manufacturers - General,^YH20620010,twoHundredDayAverageChangePercent,0.07220253
+2025-10-13,Medical Devices,^YH20650010,previousClose,819717.0
+2025-10-13,Medical Devices,^YH20650010,regularMarketPreviousClose,819717.0
+2025-10-13,Medical Devices,^YH20650010,fiftyTwoWeekLow,802225.8
+2025-10-13,Medical Devices,^YH20650010,fiftyTwoWeekHigh,928005.7
+2025-10-13,Medical Devices,^YH20650010,fiftyDayAverage,894570.3
+2025-10-13,Medical Devices,^YH20650010,twoHundredDayAverage,886437.8
+2025-10-13,Medical Devices,^YH20650010,52WeekChange,4.142046
+2025-10-13,Medical Devices,^YH20650010,regularMarketChangePercent,0.9778985
+2025-10-13,Medical Devices,^YH20650010,regularMarketPrice,869200.0
+2025-10-13,Medical Devices,^YH20650010,regularMarketChange,8016.0
+2025-10-13,Medical Devices,^YH20650010,fiftyTwoWeekLowChange,66974.19
+2025-10-13,Medical Devices,^YH20650010,fiftyTwoWeekLowChangePercent,0.083485454
+2025-10-13,Medical Devices,^YH20650010,fiftyTwoWeekHighChange,-58805.688
+2025-10-13,Medical Devices,^YH20650010,fiftyTwoWeekHighChangePercent,-0.06336781
+2025-10-13,Medical Devices,^YH20650010,fiftyTwoWeekChangePercent,4.142046
+2025-10-13,Medical Devices,^YH20650010,fiftyDayAverageChange,-25370.312
+2025-10-13,Medical Devices,^YH20650010,fiftyDayAverageChangePercent,-0.028360333
+2025-10-13,Medical Devices,^YH20650010,twoHundredDayAverageChange,-17237.812
+2025-10-13,Medical Devices,^YH20650010,twoHundredDayAverageChangePercent,-0.01944616
+2025-10-13,Biotechnology,^YH20610010,previousClose,817608.0
+2025-10-13,Biotechnology,^YH20610010,regularMarketPreviousClose,817608.0
+2025-10-13,Biotechnology,^YH20610010,fiftyTwoWeekLow,568999.0
+2025-10-13,Biotechnology,^YH20610010,fiftyTwoWeekHigh,833192.3
+2025-10-13,Biotechnology,^YH20610010,fiftyDayAverage,745488.1
+2025-10-13,Biotechnology,^YH20610010,twoHundredDayAverage,692468.7
+2025-10-13,Biotechnology,^YH20610010,52WeekChange,0.32781363
+2025-10-13,Biotechnology,^YH20610010,regularMarketChangePercent,1.3346249
+2025-10-13,Biotechnology,^YH20610010,regularMarketPrice,810201.3
+2025-10-13,Biotechnology,^YH20610010,regularMarketChange,10912.0
+2025-10-13,Biotechnology,^YH20610010,fiftyTwoWeekLowChange,241202.31
+2025-10-13,Biotechnology,^YH20610010,fiftyTwoWeekLowChangePercent,0.4239064
+2025-10-13,Biotechnology,^YH20610010,fiftyTwoWeekHighChange,-22991.0
+2025-10-13,Biotechnology,^YH20610010,fiftyTwoWeekHighChangePercent,-0.02759387
+2025-10-13,Biotechnology,^YH20610010,fiftyTwoWeekChangePercent,0.32781363
+2025-10-13,Biotechnology,^YH20610010,fiftyDayAverageChange,64713.188
+2025-10-13,Biotechnology,^YH20610010,fiftyDayAverageChangePercent,0.08680646
+2025-10-13,Biotechnology,^YH20610010,twoHundredDayAverageChange,117732.625
+2025-10-13,Biotechnology,^YH20610010,twoHundredDayAverageChangePercent,0.1700187
+2025-10-13,Diagnostics & Research,^YH20660010,previousClose,732375.0
+2025-10-13,Diagnostics & Research,^YH20660010,regularMarketPreviousClose,732375.0
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyTwoWeekLow,549323.1
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyTwoWeekHigh,791386.7
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyDayAverage,670093.1
+2025-10-13,Diagnostics & Research,^YH20660010,twoHundredDayAverage,649079.7
+2025-10-13,Diagnostics & Research,^YH20660010,52WeekChange,-11.960035
+2025-10-13,Diagnostics & Research,^YH20660010,regularMarketChangePercent,2.6318483
+2025-10-13,Diagnostics & Research,^YH20660010,regularMarketPrice,705156.8
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyTwoWeekHighChange,-86229.875
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyTwoWeekHighChangePercent,-0.10896048
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyTwoWeekChangePercent,-11.960035
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyDayAverageChange,35063.688
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyDayAverageChangePercent,0.05232659
+2025-10-13,Diagnostics & Research,^YH20660010,twoHundredDayAverageChange,56077.125
+2025-10-13,Diagnostics & Research,^YH20660010,twoHundredDayAverageChangePercent,0.086394824
+2025-10-13,Diagnostics & Research,^YH20660010,regularMarketChange,19275.0
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyTwoWeekLowChange,155833.69
+2025-10-13,Diagnostics & Research,^YH20660010,fiftyTwoWeekLowChangePercent,0.2836831
+2025-10-13,Healthcare Plans,^YH20630010,previousClose,861132.0
+2025-10-13,Healthcare Plans,^YH20630010,regularMarketPreviousClose,861132.0
+2025-10-13,Healthcare Plans,^YH20630010,fiftyTwoWeekLow,487062.88
+2025-10-13,Healthcare Plans,^YH20630010,fiftyTwoWeekHigh,959210.3
+2025-10-13,Healthcare Plans,^YH20630010,fiftyDayAverage,598804.9
+2025-10-13,Healthcare Plans,^YH20630010,twoHundredDayAverage,689271.25
+2025-10-13,Healthcare Plans,^YH20630010,52WeekChange,-31.938816
+2025-10-13,Healthcare Plans,^YH20630010,regularMarketChangePercent,8.266677
+2025-10-13,Healthcare Plans,^YH20630010,regularMarketPrice,655524.5
+2025-10-13,Healthcare Plans,^YH20630010,fiftyTwoWeekLowChange,168461.62
+2025-10-13,Healthcare Plans,^YH20630010,fiftyTwoWeekLowChangePercent,0.34587243
+2025-10-13,Healthcare Plans,^YH20630010,fiftyTwoWeekHighChange,-303685.8
+2025-10-13,Healthcare Plans,^YH20630010,fiftyTwoWeekHighChangePercent,-0.31659982
+2025-10-13,Healthcare Plans,^YH20630010,fiftyTwoWeekChangePercent,-31.938816
+2025-10-13,Healthcare Plans,^YH20630010,fiftyDayAverageChange,56719.625
+2025-10-13,Healthcare Plans,^YH20630010,fiftyDayAverageChangePercent,0.094721384
+2025-10-13,Healthcare Plans,^YH20630010,twoHundredDayAverageChange,-33746.75
+2025-10-13,Healthcare Plans,^YH20630010,twoHundredDayAverageChangePercent,-0.04896004
+2025-10-13,Healthcare Plans,^YH20630010,regularMarketChange,71187.0
+2025-10-13,Medical Instruments & Supplies,^YH20650020,previousClose,450123.0
+2025-10-13,Medical Instruments & Supplies,^YH20650020,regularMarketPreviousClose,450123.0
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyTwoWeekLow,435921.1
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyTwoWeekHigh,555476.06
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyDayAverage,455596.22
+2025-10-13,Medical Instruments & Supplies,^YH20650020,twoHundredDayAverage,483311.44
+2025-10-13,Medical Instruments & Supplies,^YH20650020,52WeekChange,-15.892196
+2025-10-13,Medical Instruments & Supplies,^YH20650020,regularMarketChangePercent,0.11707911
+2025-10-13,Medical Instruments & Supplies,^YH20650020,regularMarketPrice,440263.56
+2025-10-13,Medical Instruments & Supplies,^YH20650020,regularMarketChange,527.0
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyTwoWeekLowChange,4342.4688
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyTwoWeekLowChangePercent,0.009961594
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyTwoWeekHighChange,-115212.5
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyTwoWeekHighChangePercent,-0.20741218
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyTwoWeekChangePercent,-15.892196
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyDayAverageChange,-15332.656
+2025-10-13,Medical Instruments & Supplies,^YH20650020,fiftyDayAverageChangePercent,-0.033654045
+2025-10-13,Medical Instruments & Supplies,^YH20650020,twoHundredDayAverageChange,-43047.875
+2025-10-13,Medical Instruments & Supplies,^YH20650020,twoHundredDayAverageChangePercent,-0.08906861
+2025-10-13,Medical Care Facilities,^YH20645010,previousClose,195758.0
+2025-10-13,Medical Care Facilities,^YH20645010,regularMarketPreviousClose,195758.0
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyTwoWeekLow,178541.73
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyTwoWeekHigh,239373.78
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyDayAverage,205404.47
+2025-10-13,Medical Care Facilities,^YH20645010,twoHundredDayAverage,197135.31
+2025-10-13,Medical Care Facilities,^YH20645010,52WeekChange,-11.805021
+2025-10-13,Medical Care Facilities,^YH20645010,regularMarketChangePercent,2.90052
+2025-10-13,Medical Care Facilities,^YH20645010,regularMarketPrice,206356.45
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyTwoWeekChangePercent,-11.805021
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyDayAverageChange,951.9844
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyDayAverageChangePercent,0.004634682
+2025-10-13,Medical Care Facilities,^YH20645010,twoHundredDayAverageChange,9221.141
+2025-10-13,Medical Care Facilities,^YH20645010,twoHundredDayAverageChangePercent,0.04677569
+2025-10-13,Medical Care Facilities,^YH20645010,regularMarketChange,5678.0
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyTwoWeekLowChange,27814.719
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyTwoWeekLowChangePercent,0.15578833
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyTwoWeekHighChange,-33017.33
+2025-10-13,Medical Care Facilities,^YH20645010,fiftyTwoWeekHighChangePercent,-0.13793209
+2025-10-13,Medical Distribution,^YH20670010,previousClose,153423.0
+2025-10-13,Medical Distribution,^YH20670010,regularMarketPreviousClose,153423.0
+2025-10-13,Medical Distribution,^YH20670010,fiftyTwoWeekLow,148249.75
+2025-10-13,Medical Distribution,^YH20670010,fiftyTwoWeekHigh,203170.97
+2025-10-13,Medical Distribution,^YH20670010,fiftyDayAverage,191713.8
+2025-10-13,Medical Distribution,^YH20670010,twoHundredDayAverage,185368.98
+2025-10-13,Medical Distribution,^YH20670010,52WeekChange,35.7445
+2025-10-13,Medical Distribution,^YH20670010,fiftyDayAverageChange,11772.391
+2025-10-13,Medical Distribution,^YH20670010,fiftyDayAverageChangePercent,0.06140607
+2025-10-13,Medical Distribution,^YH20670010,twoHundredDayAverageChange,18117.203
+2025-10-13,Medical Distribution,^YH20670010,twoHundredDayAverageChangePercent,0.09773589
+2025-10-13,Medical Distribution,^YH20670010,regularMarketChange,2957.0
+2025-10-13,Medical Distribution,^YH20670010,fiftyTwoWeekLowChange,55236.438
+2025-10-13,Medical Distribution,^YH20670010,fiftyTwoWeekLowChangePercent,0.37259042
+2025-10-13,Medical Distribution,^YH20670010,fiftyTwoWeekHighChange,315.21875
+2025-10-13,Medical Distribution,^YH20670010,fiftyTwoWeekHighChangePercent,0.001551495
+2025-10-13,Medical Distribution,^YH20670010,fiftyTwoWeekChangePercent,35.7445
+2025-10-13,Medical Distribution,^YH20670010,regularMarketChangePercent,1.9273512
+2025-10-13,Medical Distribution,^YH20670010,regularMarketPrice,203486.19
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,previousClose,185219.0
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,regularMarketPreviousClose,185219.0
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyTwoWeekLow,149395.34
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyTwoWeekHigh,205691.89
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyDayAverage,183608.5
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,twoHundredDayAverage,175097.66
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,52WeekChange,-0.95210075
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyDayAverageChange,13990.875
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyDayAverageChangePercent,0.076199494
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,twoHundredDayAverageChange,22501.719
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,twoHundredDayAverageChangePercent,0.12850954
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,regularMarketChange,2802.0
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyTwoWeekLowChange,48204.03
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyTwoWeekLowChangePercent,0.32266086
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyTwoWeekHighChange,-8092.5156
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyTwoWeekHighChangePercent,-0.0393429
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,fiftyTwoWeekChangePercent,-0.95210075
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,regularMarketChangePercent,1.5128038
+2025-10-13,Drug Manufacturers - Specialty & Generic,^YH20620020,regularMarketPrice,197599.38
+2025-10-13,Health Information Services,^YH20645030,previousClose,134375.0
+2025-10-13,Health Information Services,^YH20645030,regularMarketPreviousClose,134375.0
+2025-10-13,Health Information Services,^YH20645030,fiftyTwoWeekLow,113521.25
+2025-10-13,Health Information Services,^YH20645030,fiftyTwoWeekHigh,172828.95
+2025-10-13,Health Information Services,^YH20645030,fiftyDayAverage,157570.98
+2025-10-13,Health Information Services,^YH20645030,twoHundredDayAverage,148883.31
+2025-10-13,Health Information Services,^YH20645030,52WeekChange,3.6040187
+2025-10-13,Health Information Services,^YH20645030,regularMarketChangePercent,3.3733954
+2025-10-13,Health Information Services,^YH20645030,regularMarketPrice,161146.45
+2025-10-13,Health Information Services,^YH20645030,regularMarketChange,4533.0
+2025-10-13,Health Information Services,^YH20645030,fiftyTwoWeekLowChange,47625.203
+2025-10-13,Health Information Services,^YH20645030,fiftyTwoWeekLowChangePercent,0.41952676
+2025-10-13,Health Information Services,^YH20645030,fiftyTwoWeekHighChange,-11682.5
+2025-10-13,Health Information Services,^YH20645030,fiftyTwoWeekHighChangePercent,-0.067595735
+2025-10-13,Health Information Services,^YH20645030,fiftyTwoWeekChangePercent,3.6040187
+2025-10-13,Health Information Services,^YH20645030,fiftyDayAverageChange,3575.4688
+2025-10-13,Health Information Services,^YH20645030,fiftyDayAverageChangePercent,0.022691162
+2025-10-13,Health Information Services,^YH20645030,twoHundredDayAverageChange,12263.141
+2025-10-13,Health Information Services,^YH20645030,twoHundredDayAverageChangePercent,0.082367465
+2025-10-13,Pharmaceutical Retailers,^YH20645020,previousClose,468.266
+2025-10-13,Pharmaceutical Retailers,^YH20645020,regularMarketPreviousClose,468.266
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyTwoWeekLow,447.27063
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyTwoWeekHigh,11614.916
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyDayAverage,5022.296
+2025-10-13,Pharmaceutical Retailers,^YH20645020,twoHundredDayAverage,8783.319
+2025-10-13,Pharmaceutical Retailers,^YH20645020,52WeekChange,-94.455345
+2025-10-13,Pharmaceutical Retailers,^YH20645020,regularMarketChangePercent,-4.483562
+2025-10-13,Pharmaceutical Retailers,^YH20645020,regularMarketPrice,439.7363
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyDayAverageChange,-4582.5596
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyDayAverageChangePercent,-0.91244316
+2025-10-13,Pharmaceutical Retailers,^YH20645020,twoHundredDayAverageChange,-8343.583
+2025-10-13,Pharmaceutical Retailers,^YH20645020,twoHundredDayAverageChangePercent,-0.9499351
+2025-10-13,Pharmaceutical Retailers,^YH20645020,regularMarketChange,-20.994995
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyTwoWeekLowChange,-7.5343323
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyTwoWeekLowChangePercent,-0.016845131
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyTwoWeekHighChange,-11175.18
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyTwoWeekHighChangePercent,-0.9621404
+2025-10-13,Pharmaceutical Retailers,^YH20645020,fiftyTwoWeekChangePercent,-94.455345
+2025-10-13,Banks - Diversified,^YH10320010,previousClose,1780590.0
+2025-10-13,Banks - Diversified,^YH10320010,regularMarketPreviousClose,1780590.0
+2025-10-13,Banks - Diversified,^YH10320010,fiftyTwoWeekLow,1735642.8
+2025-10-13,Banks - Diversified,^YH10320010,fiftyTwoWeekHigh,2517174.2
+2025-10-13,Banks - Diversified,^YH10320010,fiftyDayAverage,2405282.2
+2025-10-13,Banks - Diversified,^YH10320010,twoHundredDayAverage,2175174.5
+2025-10-13,Banks - Diversified,^YH10320010,52WeekChange,25.02451
+2025-10-13,Banks - Diversified,^YH10320010,fiftyTwoWeekLowChange,695855.75
+2025-10-13,Banks - Diversified,^YH10320010,fiftyTwoWeekLowChangePercent,0.40092108
+2025-10-13,Banks - Diversified,^YH10320010,fiftyTwoWeekHighChange,-85675.75
+2025-10-13,Banks - Diversified,^YH10320010,fiftyTwoWeekHighChangePercent,-0.03403648
+2025-10-13,Banks - Diversified,^YH10320010,fiftyTwoWeekChangePercent,25.02451
+2025-10-13,Banks - Diversified,^YH10320010,fiftyDayAverageChange,26216.25
+2025-10-13,Banks - Diversified,^YH10320010,fiftyDayAverageChangePercent,0.010899449
+2025-10-13,Banks - Diversified,^YH10320010,twoHundredDayAverageChange,256324.0
+2025-10-13,Banks - Diversified,^YH10320010,twoHundredDayAverageChangePercent,0.11784066
+2025-10-13,Banks - Diversified,^YH10320010,regularMarketChangePercent,2.6047547
+2025-10-13,Banks - Diversified,^YH10320010,regularMarketPrice,2431498.5
+2025-10-13,Banks - Diversified,^YH10320010,regularMarketChange,46380.0
+2025-10-13,Credit Services,^YH10360010,previousClose,1358780.0
+2025-10-13,Credit Services,^YH10360010,regularMarketPreviousClose,1358780.0
+2025-10-13,Credit Services,^YH10360010,fiftyTwoWeekLow,1429317.4
+2025-10-13,Credit Services,^YH10360010,fiftyTwoWeekHigh,1797845.8
+2025-10-13,Credit Services,^YH10360010,fiftyDayAverage,1751288.9
+2025-10-13,Credit Services,^YH10360010,twoHundredDayAverage,1693443.0
+2025-10-13,Credit Services,^YH10360010,52WeekChange,14.698898
+2025-10-13,Credit Services,^YH10360010,fiftyDayAverageChange,-31425.25
+2025-10-13,Credit Services,^YH10360010,fiftyDayAverageChangePercent,-0.01794407
+2025-10-13,Credit Services,^YH10360010,twoHundredDayAverageChange,26420.625
+2025-10-13,Credit Services,^YH10360010,twoHundredDayAverageChangePercent,0.015601721
+2025-10-13,Credit Services,^YH10360010,regularMarketChange,56390.0
+2025-10-13,Credit Services,^YH10360010,fiftyTwoWeekLowChange,290546.25
+2025-10-13,Credit Services,^YH10360010,fiftyTwoWeekLowChangePercent,0.20327623
+2025-10-13,Credit Services,^YH10360010,fiftyTwoWeekHighChange,-77982.125
+2025-10-13,Credit Services,^YH10360010,fiftyTwoWeekHighChangePercent,-0.043375313
+2025-10-13,Credit Services,^YH10360010,fiftyTwoWeekChangePercent,14.698898
+2025-10-13,Credit Services,^YH10360010,regularMarketChangePercent,4.1500463
+2025-10-13,Credit Services,^YH10360010,regularMarketPrice,1719863.6
+2025-10-13,Asset Management,^YH10310010,previousClose,1214160.0
+2025-10-13,Asset Management,^YH10310010,regularMarketPreviousClose,1214160.0
+2025-10-13,Asset Management,^YH10310010,fiftyTwoWeekLow,1186353.8
+2025-10-13,Asset Management,^YH10310010,fiftyTwoWeekHigh,1630321.1
+2025-10-13,Asset Management,^YH10310010,fiftyDayAverage,1575993.4
+2025-10-13,Asset Management,^YH10310010,twoHundredDayAverage,1481337.4
+2025-10-13,Asset Management,^YH10310010,52WeekChange,8.512629
+2025-10-13,Asset Management,^YH10310010,regularMarketChangePercent,2.5943863
+2025-10-13,Asset Management,^YH10310010,regularMarketPrice,1506975.8
+2025-10-13,Asset Management,^YH10310010,regularMarketChange,31500.0
+2025-10-13,Asset Management,^YH10310010,fiftyTwoWeekLowChange,320622.0
+2025-10-13,Asset Management,^YH10310010,fiftyTwoWeekLowChangePercent,0.27025834
+2025-10-13,Asset Management,^YH10310010,fiftyTwoWeekHighChange,-123345.375
+2025-10-13,Asset Management,^YH10310010,fiftyTwoWeekHighChangePercent,-0.07565711
+2025-10-13,Asset Management,^YH10310010,fiftyTwoWeekChangePercent,8.512629
+2025-10-13,Asset Management,^YH10310010,fiftyDayAverageChange,-69017.625
+2025-10-13,Asset Management,^YH10310010,fiftyDayAverageChangePercent,-0.043793093
+2025-10-13,Asset Management,^YH10310010,twoHundredDayAverageChange,25638.375
+2025-10-13,Asset Management,^YH10310010,twoHundredDayAverageChangePercent,0.017307587
+2025-10-13,Capital Markets,^YH10330010,previousClose,714767.0
+2025-10-13,Capital Markets,^YH10330010,regularMarketPreviousClose,714767.0
+2025-10-13,Capital Markets,^YH10330010,fiftyTwoWeekLow,669414.44
+2025-10-13,Capital Markets,^YH10330010,fiftyTwoWeekHigh,1234709.5
+2025-10-13,Capital Markets,^YH10330010,fiftyDayAverage,1140219.0
+2025-10-13,Capital Markets,^YH10330010,twoHundredDayAverage,950955.75
+2025-10-13,Capital Markets,^YH10330010,52WeekChange,60.838436
+2025-10-13,Capital Markets,^YH10330010,regularMarketChangePercent,-0.32765922
+2025-10-13,Capital Markets,^YH10330010,regularMarketPrice,1217301.0
+2025-10-13,Capital Markets,^YH10330010,regularMarketChange,-2342.0
+2025-10-13,Capital Markets,^YH10330010,fiftyTwoWeekLowChange,547886.56
+2025-10-13,Capital Markets,^YH10330010,fiftyTwoWeekLowChangePercent,0.8184565
+2025-10-13,Capital Markets,^YH10330010,fiftyTwoWeekHighChange,-17408.5
+2025-10-13,Capital Markets,^YH10330010,fiftyTwoWeekHighChangePercent,-0.014099268
+2025-10-13,Capital Markets,^YH10330010,fiftyTwoWeekChangePercent,60.838436
+2025-10-13,Capital Markets,^YH10330010,fiftyDayAverageChange,77082.0
+2025-10-13,Capital Markets,^YH10330010,fiftyDayAverageChangePercent,0.067602806
+2025-10-13,Capital Markets,^YH10330010,twoHundredDayAverageChange,266345.25
+2025-10-13,Capital Markets,^YH10330010,twoHundredDayAverageChangePercent,0.28008163
+2025-10-13,Insurance - Diversified,^YH10340060,previousClose,1051360.0
+2025-10-13,Insurance - Diversified,^YH10340060,regularMarketPreviousClose,1051360.0
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyTwoWeekLow,1100715.2
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyTwoWeekHigh,1303073.5
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyDayAverage,1189852.8
+2025-10-13,Insurance - Diversified,^YH10340060,twoHundredDayAverage,1200396.9
+2025-10-13,Insurance - Diversified,^YH10340060,52WeekChange,3.8646817
+2025-10-13,Insurance - Diversified,^YH10340060,regularMarketChangePercent,5.8514686
+2025-10-13,Insurance - Diversified,^YH10340060,regularMarketPrice,1198748.2
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyDayAverageChange,8895.5
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyDayAverageChangePercent,0.007476135
+2025-10-13,Insurance - Diversified,^YH10340060,twoHundredDayAverageChange,-1648.625
+2025-10-13,Insurance - Diversified,^YH10340060,twoHundredDayAverageChangePercent,-0.0013734
+2025-10-13,Insurance - Diversified,^YH10340060,regularMarketChange,61520.0
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyTwoWeekLowChange,98033.0
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyTwoWeekLowChangePercent,0.089062996
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyTwoWeekHighChange,-104325.25
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyTwoWeekHighChangePercent,-0.08006091
+2025-10-13,Insurance - Diversified,^YH10340060,fiftyTwoWeekChangePercent,3.8646817
+2025-10-13,Banks - Regional,^YH10320020,previousClose,849260.0
+2025-10-13,Banks - Regional,^YH10320020,regularMarketPreviousClose,849260.0
+2025-10-13,Banks - Regional,^YH10320020,fiftyTwoWeekLow,779260.1
+2025-10-13,Banks - Regional,^YH10320020,fiftyTwoWeekHigh,1075597.0
+2025-10-13,Banks - Regional,^YH10320020,fiftyDayAverage,1032376.9
+2025-10-13,Banks - Regional,^YH10320020,twoHundredDayAverage,958005.8
+2025-10-13,Banks - Regional,^YH10320020,52WeekChange,4.4923186
+2025-10-13,Banks - Regional,^YH10320020,regularMarketChangePercent,6.206227
+2025-10-13,Banks - Regional,^YH10320020,regularMarketPrice,1001558.7
+2025-10-13,Banks - Regional,^YH10320020,fiftyDayAverageChange,-30818.188
+2025-10-13,Banks - Regional,^YH10320020,fiftyDayAverageChangePercent,-0.029851682
+2025-10-13,Banks - Regional,^YH10320020,twoHundredDayAverageChange,43552.875
+2025-10-13,Banks - Regional,^YH10320020,twoHundredDayAverageChangePercent,0.045462016
+2025-10-13,Banks - Regional,^YH10320020,regularMarketChange,52707.0
+2025-10-13,Banks - Regional,^YH10320020,fiftyTwoWeekLowChange,222298.56
+2025-10-13,Banks - Regional,^YH10320020,fiftyTwoWeekLowChangePercent,0.28526875
+2025-10-13,Banks - Regional,^YH10320020,fiftyTwoWeekHighChange,-74038.31
+2025-10-13,Banks - Regional,^YH10320020,fiftyTwoWeekHighChangePercent,-0.068834625
+2025-10-13,Banks - Regional,^YH10320020,fiftyTwoWeekChangePercent,4.4923186
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,previousClose,562965.0
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,regularMarketPreviousClose,562965.0
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyTwoWeekLow,567227.9
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyTwoWeekHigh,738461.9
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyDayAverage,695965.3
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,twoHundredDayAverage,673586.06
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,52WeekChange,3.057468
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,regularMarketChangePercent,4.192623
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,regularMarketPrice,667465.1
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,regularMarketChange,23603.0
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyDayAverageChange,-28500.188
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyDayAverageChangePercent,-0.040950585
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,twoHundredDayAverageChange,-6120.9375
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,twoHundredDayAverageChangePercent,-0.00908709
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyTwoWeekLowChange,100237.25
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyTwoWeekLowChangePercent,0.17671426
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyTwoWeekHighChange,-70996.75
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyTwoWeekHighChangePercent,-0.09614139
+2025-10-13,Financial Data & Stock Exchanges,^YH10330020,fiftyTwoWeekChangePercent,3.057468
+2025-10-13,Insurance - Property & Casualty,^YH10340020,previousClose,505380.0
+2025-10-13,Insurance - Property & Casualty,^YH10340020,regularMarketPreviousClose,505380.0
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyTwoWeekLow,558312.4
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyTwoWeekHigh,658701.3
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyDayAverage,622602.8
+2025-10-13,Insurance - Property & Casualty,^YH10340020,twoHundredDayAverage,617584.5
+2025-10-13,Insurance - Property & Casualty,^YH10340020,52WeekChange,5.3695917
+2025-10-13,Insurance - Property & Casualty,^YH10340020,regularMarketChangePercent,4.5634966
+2025-10-13,Insurance - Property & Casualty,^YH10340020,regularMarketPrice,622967.44
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyDayAverageChange,364.625
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyDayAverageChangePercent,0.00058564625
+2025-10-13,Insurance - Property & Casualty,^YH10340020,twoHundredDayAverageChange,5382.9375
+2025-10-13,Insurance - Property & Casualty,^YH10340020,twoHundredDayAverageChangePercent,0.008716115
+2025-10-13,Insurance - Property & Casualty,^YH10340020,regularMarketChange,23063.0
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyTwoWeekLowChange,64655.062
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyTwoWeekLowChangePercent,0.115804456
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyTwoWeekHighChange,-35733.875
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyTwoWeekHighChangePercent,-0.05424898
+2025-10-13,Insurance - Property & Casualty,^YH10340020,fiftyTwoWeekChangePercent,5.3695917
+2025-10-13,Insurance Brokers,^YH10340050,previousClose,311216.0
+2025-10-13,Insurance Brokers,^YH10340050,regularMarketPreviousClose,311216.0
+2025-10-13,Insurance Brokers,^YH10340050,fiftyTwoWeekLow,338209.8
+2025-10-13,Insurance Brokers,^YH10340050,fiftyTwoWeekHigh,401290.88
+2025-10-13,Insurance Brokers,^YH10340050,fiftyDayAverage,353376.22
+2025-10-13,Insurance Brokers,^YH10340050,twoHundredDayAverage,366203.47
+2025-10-13,Insurance Brokers,^YH10340050,52WeekChange,0.92698336
+2025-10-13,Insurance Brokers,^YH10340050,fiftyDayAverageChange,-1956.9375
+2025-10-13,Insurance Brokers,^YH10340050,fiftyDayAverageChangePercent,-0.0055378303
+2025-10-13,Insurance Brokers,^YH10340050,twoHundredDayAverageChange,-14784.1875
+2025-10-13,Insurance Brokers,^YH10340050,twoHundredDayAverageChangePercent,-0.04037151
+2025-10-13,Insurance Brokers,^YH10340050,regularMarketChange,5497.0
+2025-10-13,Insurance Brokers,^YH10340050,fiftyTwoWeekLowChange,13209.469
+2025-10-13,Insurance Brokers,^YH10340050,fiftyTwoWeekLowChangePercent,0.039057024
+2025-10-13,Insurance Brokers,^YH10340050,fiftyTwoWeekHighChange,-49871.594
+2025-10-13,Insurance Brokers,^YH10340050,fiftyTwoWeekHighChangePercent,-0.12427792
+2025-10-13,Insurance Brokers,^YH10340050,fiftyTwoWeekChangePercent,0.92698336
+2025-10-13,Insurance Brokers,^YH10340050,regularMarketChangePercent,1.7662973
+2025-10-13,Insurance Brokers,^YH10340050,regularMarketPrice,351419.28
+2025-10-13,Insurance - Life,^YH10340010,previousClose,250772.0
+2025-10-13,Insurance - Life,^YH10340010,regularMarketPreviousClose,250772.0
+2025-10-13,Insurance - Life,^YH10340010,fiftyTwoWeekLow,235564.28
+2025-10-13,Insurance - Life,^YH10340010,fiftyTwoWeekHigh,290992.38
+2025-10-13,Insurance - Life,^YH10340010,fiftyDayAverage,262659.28
+2025-10-13,Insurance - Life,^YH10340010,twoHundredDayAverage,263036.0
+2025-10-13,Insurance - Life,^YH10340010,52WeekChange,-7.26698
+2025-10-13,Insurance - Life,^YH10340010,regularMarketChange,4509.0
+2025-10-13,Insurance - Life,^YH10340010,fiftyDayAverageChange,1320.6875
+2025-10-13,Insurance - Life,^YH10340010,fiftyDayAverageChangePercent,0.0050281393
+2025-10-13,Insurance - Life,^YH10340010,twoHundredDayAverageChange,943.96875
+2025-10-13,Insurance - Life,^YH10340010,twoHundredDayAverageChangePercent,0.0035887435
+2025-10-13,Insurance - Life,^YH10340010,regularMarketChangePercent,1.7980477
+2025-10-13,Insurance - Life,^YH10340010,regularMarketPrice,263979.97
+2025-10-13,Insurance - Life,^YH10340010,fiftyTwoWeekLowChange,28415.688
+2025-10-13,Insurance - Life,^YH10340010,fiftyTwoWeekLowChangePercent,0.12062817
+2025-10-13,Insurance - Life,^YH10340010,fiftyTwoWeekHighChange,-27012.406
+2025-10-13,Insurance - Life,^YH10340010,fiftyTwoWeekHighChangePercent,-0.09282857
+2025-10-13,Insurance - Life,^YH10340010,fiftyTwoWeekChangePercent,-7.26698
+2025-10-13,Insurance - Specialty,^YH10340040,previousClose,84090.5
+2025-10-13,Insurance - Specialty,^YH10340040,regularMarketPreviousClose,84090.5
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyTwoWeekLow,75238.016
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyTwoWeekHigh,91630.9
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyDayAverage,79089.766
+2025-10-13,Insurance - Specialty,^YH10340040,twoHundredDayAverage,80942.586
+2025-10-13,Insurance - Specialty,^YH10340040,52WeekChange,-14.657206
+2025-10-13,Insurance - Specialty,^YH10340040,regularMarketChangePercent,5.2522006
+2025-10-13,Insurance - Specialty,^YH10340040,regularMarketPrice,75484.46
+2025-10-13,Insurance - Specialty,^YH10340040,regularMarketChange,4416.6016
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyTwoWeekLowChange,246.44531
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyTwoWeekLowChangePercent,0.0032755425
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyTwoWeekHighChange,-16146.4375
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyTwoWeekHighChangePercent,-0.17621171
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyTwoWeekChangePercent,-14.657206
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyDayAverageChange,-3605.3047
+2025-10-13,Insurance - Specialty,^YH10340040,fiftyDayAverageChangePercent,-0.045584973
+2025-10-13,Insurance - Specialty,^YH10340040,twoHundredDayAverageChange,-5458.125
+2025-10-13,Insurance - Specialty,^YH10340040,twoHundredDayAverageChangePercent,-0.06743205
+2025-10-13,Mortgage Finance,^YH10320030,previousClose,58323.4
+2025-10-13,Mortgage Finance,^YH10320030,regularMarketPreviousClose,58323.4
+2025-10-13,Mortgage Finance,^YH10320030,fiftyTwoWeekLow,46662.2
+2025-10-13,Mortgage Finance,^YH10320030,fiftyTwoWeekHigh,122867.875
+2025-10-13,Mortgage Finance,^YH10320030,fiftyDayAverage,101208.78
+2025-10-13,Mortgage Finance,^YH10320030,twoHundredDayAverage,68281.24
+2025-10-13,Mortgage Finance,^YH10320030,52WeekChange,18.698765
+2025-10-13,Mortgage Finance,^YH10320030,regularMarketChangePercent,6.420069
+2025-10-13,Mortgage Finance,^YH10320030,regularMarketPrice,68292.69
+2025-10-13,Mortgage Finance,^YH10320030,regularMarketChange,3744.4023
+2025-10-13,Mortgage Finance,^YH10320030,fiftyTwoWeekLowChange,21630.488
+2025-10-13,Mortgage Finance,^YH10320030,fiftyTwoWeekLowChangePercent,0.46355483
+2025-10-13,Mortgage Finance,^YH10320030,fiftyTwoWeekHighChange,-54575.188
+2025-10-13,Mortgage Finance,^YH10320030,fiftyTwoWeekHighChangePercent,-0.44417784
+2025-10-13,Mortgage Finance,^YH10320030,fiftyTwoWeekChangePercent,18.698765
+2025-10-13,Mortgage Finance,^YH10320030,fiftyDayAverageChange,-32916.094
+2025-10-13,Mortgage Finance,^YH10320030,fiftyDayAverageChangePercent,-0.32522961
+2025-10-13,Mortgage Finance,^YH10320030,twoHundredDayAverageChange,11.4453125
+2025-10-13,Mortgage Finance,^YH10320030,twoHundredDayAverageChangePercent,0.00016762015
+2025-10-13,Insurance - Reinsurance,^YH10340030,previousClose,53120.2
+2025-10-13,Insurance - Reinsurance,^YH10340030,regularMarketPreviousClose,53120.2
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyTwoWeekLow,40131.984
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyTwoWeekHigh,51790.16
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyDayAverage,43489.594
+2025-10-13,Insurance - Reinsurance,^YH10340030,twoHundredDayAverage,44361.16
+2025-10-13,Insurance - Reinsurance,^YH10340030,52WeekChange,-11.698139
+2025-10-13,Insurance - Reinsurance,^YH10340030,regularMarketChangePercent,4.2405744
+2025-10-13,Insurance - Reinsurance,^YH10340030,regularMarketPrice,44909.223
+2025-10-13,Insurance - Reinsurance,^YH10340030,regularMarketChange,2252.6016
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyTwoWeekLowChange,4777.2383
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyTwoWeekLowChangePercent,0.11903818
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyTwoWeekHighChange,-6880.9375
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyTwoWeekHighChangePercent,-0.13286187
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyTwoWeekChangePercent,-11.698139
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyDayAverageChange,1419.6289
+2025-10-13,Insurance - Reinsurance,^YH10340030,fiftyDayAverageChangePercent,0.032642957
+2025-10-13,Insurance - Reinsurance,^YH10340030,twoHundredDayAverageChange,548.0625
+2025-10-13,Insurance - Reinsurance,^YH10340030,twoHundredDayAverageChangePercent,0.012354557
+2025-10-13,Financial Conglomerates,^YH10350020,previousClose,8424.94
+2025-10-13,Financial Conglomerates,^YH10350020,regularMarketPreviousClose,8424.94
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyTwoWeekLow,7012.1416
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyTwoWeekHigh,21497.81
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyDayAverage,20934.99
+2025-10-13,Financial Conglomerates,^YH10350020,twoHundredDayAverage,16758.572
+2025-10-13,Financial Conglomerates,^YH10350020,52WeekChange,121.79709
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyDayAverageChange,-489.08008
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyDayAverageChangePercent,-0.023361849
+2025-10-13,Financial Conglomerates,^YH10350020,twoHundredDayAverageChange,3687.338
+2025-10-13,Financial Conglomerates,^YH10350020,twoHundredDayAverageChangePercent,0.22002697
+2025-10-13,Financial Conglomerates,^YH10350020,regularMarketChangePercent,2.976514
+2025-10-13,Financial Conglomerates,^YH10350020,regularMarketPrice,20445.91
+2025-10-13,Financial Conglomerates,^YH10350020,regularMarketChange,250.76953
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyTwoWeekLowChange,13433.769
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyTwoWeekLowChangePercent,1.9157869
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyTwoWeekHighChange,-1051.9004
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyTwoWeekHighChangePercent,-0.04893058
+2025-10-13,Financial Conglomerates,^YH10350020,fiftyTwoWeekChangePercent,121.79709
+2025-10-13,Shell Companies,^YH10350010,previousClose,20189.2
+2025-10-13,Shell Companies,^YH10350010,regularMarketPreviousClose,20189.2
+2025-10-13,Shell Companies,^YH10350010,fiftyTwoWeekLow,3756.771
+2025-10-13,Shell Companies,^YH10350010,fiftyTwoWeekHigh,12888.581
+2025-10-13,Shell Companies,^YH10350010,fiftyDayAverage,4181.1875
+2025-10-13,Shell Companies,^YH10350010,twoHundredDayAverage,5141.992
+2025-10-13,Shell Companies,^YH10350010,52WeekChange,-66.40318
+2025-10-13,Shell Companies,^YH10350010,regularMarketChangePercent,-1.6464171
+2025-10-13,Shell Companies,^YH10350010,regularMarketPrice,8821.562
+2025-10-13,Shell Companies,^YH10350010,regularMarketChange,-332.39844
+2025-10-13,Shell Companies,^YH10350010,fiftyTwoWeekLowChange,5064.7905
+2025-10-13,Shell Companies,^YH10350010,fiftyTwoWeekLowChangePercent,1.3481766
+2025-10-13,Shell Companies,^YH10350010,fiftyTwoWeekHighChange,-4067.0195
+2025-10-13,Shell Companies,^YH10350010,fiftyTwoWeekHighChangePercent,-0.31555215
+2025-10-13,Shell Companies,^YH10350010,fiftyTwoWeekChangePercent,-66.40318
+2025-10-13,Shell Companies,^YH10350010,fiftyDayAverageChange,4640.374
+2025-10-13,Shell Companies,^YH10350010,fiftyDayAverageChangePercent,1.109822
+2025-10-13,Shell Companies,^YH10350010,twoHundredDayAverageChange,3679.5693
+2025-10-13,Shell Companies,^YH10350010,twoHundredDayAverageChangePercent,0.71559215
+2025-10-13,Internet Retail,^YH10280050,previousClose,2227300.0
+2025-10-13,Internet Retail,^YH10280050,regularMarketPreviousClose,2227300.0
+2025-10-13,Internet Retail,^YH10280050,fiftyTwoWeekLow,1991145.2
+2025-10-13,Internet Retail,^YH10280050,fiftyTwoWeekHigh,2930513.5
+2025-10-13,Internet Retail,^YH10280050,fiftyDayAverage,2794963.8
+2025-10-13,Internet Retail,^YH10280050,twoHundredDayAverage,2574091.5
+2025-10-13,Internet Retail,^YH10280050,52WeekChange,21.923864
+2025-10-13,Internet Retail,^YH10280050,regularMarketChangePercent,-3.417142
+2025-10-13,Internet Retail,^YH10280050,regularMarketPrice,2727878.5
+2025-10-13,Internet Retail,^YH10280050,fiftyDayAverageChange,-67085.25
+2025-10-13,Internet Retail,^YH10280050,fiftyDayAverageChangePercent,-0.024002189
+2025-10-13,Internet Retail,^YH10280050,twoHundredDayAverageChange,153787.0
+2025-10-13,Internet Retail,^YH10280050,twoHundredDayAverageChangePercent,0.059744187
+2025-10-13,Internet Retail,^YH10280050,regularMarketChange,-76110.0
+2025-10-13,Internet Retail,^YH10280050,fiftyTwoWeekLowChange,736733.25
+2025-10-13,Internet Retail,^YH10280050,fiftyTwoWeekLowChangePercent,0.37000477
+2025-10-13,Internet Retail,^YH10280050,fiftyTwoWeekHighChange,-202635.0
+2025-10-13,Internet Retail,^YH10280050,fiftyTwoWeekHighChangePercent,-0.06914659
+2025-10-13,Internet Retail,^YH10280050,fiftyTwoWeekChangePercent,21.923864
+2025-10-13,Auto Manufacturers,^YH10200020,previousClose,1055520.0
+2025-10-13,Auto Manufacturers,^YH10200020,regularMarketPreviousClose,1055520.0
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyTwoWeekLow,918080.7
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyTwoWeekHigh,1790301.1
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyDayAverage,1481116.5
+2025-10-13,Auto Manufacturers,^YH10200020,twoHundredDayAverage,1313305.5
+2025-10-13,Auto Manufacturers,^YH10200020,52WeekChange,68.96148
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyDayAverageChange,206507.5
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyDayAverageChangePercent,0.13942692
+2025-10-13,Auto Manufacturers,^YH10200020,twoHundredDayAverageChange,374318.5
+2025-10-13,Auto Manufacturers,^YH10200020,twoHundredDayAverageChangePercent,0.2850201
+2025-10-13,Auto Manufacturers,^YH10200020,regularMarketChangePercent,2.8772547
+2025-10-13,Auto Manufacturers,^YH10200020,regularMarketPrice,1687624.0
+2025-10-13,Auto Manufacturers,^YH10200020,regularMarketChange,30370.0
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyTwoWeekLowChange,769543.3
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyTwoWeekLowChangePercent,0.8382088
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyTwoWeekHighChange,-102677.125
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyTwoWeekHighChangePercent,-0.057351876
+2025-10-13,Auto Manufacturers,^YH10200020,fiftyTwoWeekChangePercent,68.96148
+2025-10-13,Restaurants,^YH10270010,previousClose,529382.0
+2025-10-13,Restaurants,^YH10270010,regularMarketPreviousClose,529382.0
+2025-10-13,Restaurants,^YH10270010,fiftyTwoWeekLow,534758.94
+2025-10-13,Restaurants,^YH10270010,fiftyTwoWeekHigh,642757.5
+2025-10-13,Restaurants,^YH10270010,fiftyDayAverage,564940.44
+2025-10-13,Restaurants,^YH10270010,twoHundredDayAverage,589252.56
+2025-10-13,Restaurants,^YH10270010,52WeekChange,-12.477321
+2025-10-13,Restaurants,^YH10270010,regularMarketChange,5998.0
+2025-10-13,Restaurants,^YH10270010,fiftyDayAverageChange,-22388.312
+2025-10-13,Restaurants,^YH10270010,fiftyDayAverageChangePercent,-0.039629508
+2025-10-13,Restaurants,^YH10270010,twoHundredDayAverageChange,-46700.438
+2025-10-13,Restaurants,^YH10270010,twoHundredDayAverageChangePercent,-0.07925369
+2025-10-13,Restaurants,^YH10270010,regularMarketChangePercent,1.1330192
+2025-10-13,Restaurants,^YH10270010,regularMarketPrice,542552.1
+2025-10-13,Restaurants,^YH10270010,fiftyTwoWeekLowChange,7793.1875
+2025-10-13,Restaurants,^YH10270010,fiftyTwoWeekLowChangePercent,0.014573272
+2025-10-13,Restaurants,^YH10270010,fiftyTwoWeekHighChange,-100205.375
+2025-10-13,Restaurants,^YH10270010,fiftyTwoWeekHighChangePercent,-0.1558992
+2025-10-13,Restaurants,^YH10270010,fiftyTwoWeekChangePercent,-12.477321
+2025-10-13,Home Improvement Retail,^YH10280030,previousClose,495103.0
+2025-10-13,Home Improvement Retail,^YH10280030,regularMarketPreviousClose,495103.0
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyTwoWeekLow,459809.2
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyTwoWeekHigh,596896.06
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyDayAverage,554189.0
+2025-10-13,Home Improvement Retail,^YH10280030,twoHundredDayAverage,523337.1
+2025-10-13,Home Improvement Retail,^YH10280030,52WeekChange,-12.63662
+2025-10-13,Home Improvement Retail,^YH10280030,regularMarketChangePercent,5.1304474
+2025-10-13,Home Improvement Retail,^YH10280030,regularMarketPrice,516617.03
+2025-10-13,Home Improvement Retail,^YH10280030,regularMarketChange,25401.0
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyDayAverageChange,-37571.97
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyDayAverageChangePercent,-0.06779631
+2025-10-13,Home Improvement Retail,^YH10280030,twoHundredDayAverageChange,-6720.0625
+2025-10-13,Home Improvement Retail,^YH10280030,twoHundredDayAverageChangePercent,-0.012840792
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyTwoWeekLowChange,56807.844
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyTwoWeekLowChangePercent,0.12354656
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyTwoWeekHighChange,-80279.03
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyTwoWeekHighChangePercent,-0.13449416
+2025-10-13,Home Improvement Retail,^YH10280030,fiftyTwoWeekChangePercent,-12.63662
+2025-10-13,Travel Services,^YH10290050,previousClose,352611.0
+2025-10-13,Travel Services,^YH10290050,regularMarketPreviousClose,352611.0
+2025-10-13,Travel Services,^YH10290050,fiftyTwoWeekLow,332725.2
+2025-10-13,Travel Services,^YH10290050,fiftyTwoWeekHigh,494997.1
+2025-10-13,Travel Services,^YH10290050,fiftyDayAverage,471044.78
+2025-10-13,Travel Services,^YH10290050,twoHundredDayAverage,433691.34
+2025-10-13,Travel Services,^YH10290050,52WeekChange,17.561245
+2025-10-13,Travel Services,^YH10290050,regularMarketChangePercent,0.5158659
+2025-10-13,Travel Services,^YH10290050,regularMarketPrice,447376.94
+2025-10-13,Travel Services,^YH10290050,fiftyTwoWeekLowChange,114651.75
+2025-10-13,Travel Services,^YH10290050,fiftyTwoWeekLowChangePercent,0.34458393
+2025-10-13,Travel Services,^YH10290050,fiftyTwoWeekHighChange,-47620.156
+2025-10-13,Travel Services,^YH10290050,fiftyTwoWeekHighChangePercent,-0.0962029
+2025-10-13,Travel Services,^YH10290050,fiftyTwoWeekChangePercent,17.561245
+2025-10-13,Travel Services,^YH10290050,fiftyDayAverageChange,-23667.844
+2025-10-13,Travel Services,^YH10290050,fiftyDayAverageChangePercent,-0.050245423
+2025-10-13,Travel Services,^YH10290050,twoHundredDayAverageChange,13685.594
+2025-10-13,Travel Services,^YH10290050,twoHundredDayAverageChangePercent,0.03155607
+2025-10-13,Travel Services,^YH10290050,regularMarketChange,1819.0
+2025-10-13,Auto Parts,^YH10200030,previousClose,161450.0
+2025-10-13,Auto Parts,^YH10200030,regularMarketPreviousClose,161450.0
+2025-10-13,Auto Parts,^YH10200030,fiftyTwoWeekLow,108984.39
+2025-10-13,Auto Parts,^YH10200030,fiftyTwoWeekHigh,328055.84
+2025-10-13,Auto Parts,^YH10200030,fiftyDayAverage,316726.7
+2025-10-13,Auto Parts,^YH10200030,twoHundredDayAverage,236950.6
+2025-10-13,Auto Parts,^YH10200030,52WeekChange,119.90655
+2025-10-13,Auto Parts,^YH10200030,regularMarketChangePercent,3.793744
+2025-10-13,Auto Parts,^YH10200030,regularMarketPrice,315786.44
+2025-10-13,Auto Parts,^YH10200030,regularMarketChange,6125.0
+2025-10-13,Auto Parts,^YH10200030,fiftyTwoWeekLowChange,206802.05
+2025-10-13,Auto Parts,^YH10200030,fiftyTwoWeekLowChangePercent,1.8975382
+2025-10-13,Auto Parts,^YH10200030,fiftyTwoWeekHighChange,-12269.406
+2025-10-13,Auto Parts,^YH10200030,fiftyTwoWeekHighChangePercent,-0.037400357
+2025-10-13,Auto Parts,^YH10200030,fiftyTwoWeekChangePercent,119.90655
+2025-10-13,Auto Parts,^YH10200030,fiftyDayAverageChange,-940.25
+2025-10-13,Auto Parts,^YH10200030,fiftyDayAverageChangePercent,-0.0029686478
+2025-10-13,Auto Parts,^YH10200030,twoHundredDayAverageChange,78835.84
+2025-10-13,Auto Parts,^YH10200030,twoHundredDayAverageChangePercent,0.33271006
+2025-10-13,Apparel Retail,^YH10280010,previousClose,278992.0
+2025-10-13,Apparel Retail,^YH10280010,regularMarketPreviousClose,278992.0
+2025-10-13,Apparel Retail,^YH10280010,fiftyTwoWeekLow,247053.61
+2025-10-13,Apparel Retail,^YH10280010,fiftyTwoWeekHigh,308100.22
+2025-10-13,Apparel Retail,^YH10280010,fiftyDayAverage,281049.94
+2025-10-13,Apparel Retail,^YH10280010,twoHundredDayAverage,275925.7
+2025-10-13,Apparel Retail,^YH10280010,52WeekChange,0.8594394
+2025-10-13,Apparel Retail,^YH10280010,regularMarketChangePercent,-0.86059815
+2025-10-13,Apparel Retail,^YH10280010,regularMarketPrice,281664.5
+2025-10-13,Apparel Retail,^YH10280010,regularMarketChange,-2401.0
+2025-10-13,Apparel Retail,^YH10280010,fiftyTwoWeekLowChange,34610.89
+2025-10-13,Apparel Retail,^YH10280010,fiftyTwoWeekLowChangePercent,0.14009465
+2025-10-13,Apparel Retail,^YH10280010,fiftyTwoWeekHighChange,-26435.719
+2025-10-13,Apparel Retail,^YH10280010,fiftyTwoWeekHighChangePercent,-0.08580234
+2025-10-13,Apparel Retail,^YH10280010,fiftyTwoWeekChangePercent,0.8594394
+2025-10-13,Apparel Retail,^YH10280010,fiftyDayAverageChange,614.5625
+2025-10-13,Apparel Retail,^YH10280010,fiftyDayAverageChangePercent,0.0021866665
+2025-10-13,Apparel Retail,^YH10280010,twoHundredDayAverageChange,5738.8125
+2025-10-13,Apparel Retail,^YH10280010,twoHundredDayAverageChangePercent,0.020798398
+2025-10-13,Specialty Retail,^YH10280060,previousClose,290914.0
+2025-10-13,Specialty Retail,^YH10280060,regularMarketPreviousClose,290914.0
+2025-10-13,Specialty Retail,^YH10280060,fiftyTwoWeekLow,142729.11
+2025-10-13,Specialty Retail,^YH10280060,fiftyTwoWeekHigh,327300.06
+2025-10-13,Specialty Retail,^YH10280060,fiftyDayAverage,190025.78
+2025-10-13,Specialty Retail,^YH10280060,twoHundredDayAverage,220933.7
+2025-10-13,Specialty Retail,^YH10280060,52WeekChange,-39.565617
+2025-10-13,Specialty Retail,^YH10280060,regularMarketChangePercent,2.3814597
+2025-10-13,Specialty Retail,^YH10280060,regularMarketPrice,190173.11
+2025-10-13,Specialty Retail,^YH10280060,fiftyTwoWeekLowChange,47444.0
+2025-10-13,Specialty Retail,^YH10280060,fiftyTwoWeekLowChangePercent,0.33240592
+2025-10-13,Specialty Retail,^YH10280060,fiftyTwoWeekHighChange,-137126.95
+2025-10-13,Specialty Retail,^YH10280060,fiftyTwoWeekHighChangePercent,-0.41896403
+2025-10-13,Specialty Retail,^YH10280060,fiftyTwoWeekChangePercent,-39.565617
+2025-10-13,Specialty Retail,^YH10280060,fiftyDayAverageChange,147.32812
+2025-10-13,Specialty Retail,^YH10280060,fiftyDayAverageChangePercent,0.00077530596
+2025-10-13,Specialty Retail,^YH10280060,twoHundredDayAverageChange,-30760.594
+2025-10-13,Specialty Retail,^YH10280060,twoHundredDayAverageChangePercent,-0.13922997
+2025-10-13,Specialty Retail,^YH10280060,regularMarketChange,6928.0
+2025-10-13,Residential Construction,^YH10230010,previousClose,206137.0
+2025-10-13,Residential Construction,^YH10230010,regularMarketPreviousClose,206137.0
+2025-10-13,Residential Construction,^YH10230010,fiftyTwoWeekLow,150028.58
+2025-10-13,Residential Construction,^YH10230010,fiftyTwoWeekHigh,251647.97
+2025-10-13,Residential Construction,^YH10230010,fiftyDayAverage,191819.48
+2025-10-13,Residential Construction,^YH10230010,twoHundredDayAverage,174554.88
+2025-10-13,Residential Construction,^YH10230010,52WeekChange,-28.024042
+2025-10-13,Residential Construction,^YH10230010,regularMarketChangePercent,6.4326153
+2025-10-13,Residential Construction,^YH10230010,regularMarketPrice,174346.08
+2025-10-13,Residential Construction,^YH10230010,fiftyTwoWeekLowChange,24317.5
+2025-10-13,Residential Construction,^YH10230010,fiftyTwoWeekLowChangePercent,0.16208579
+2025-10-13,Residential Construction,^YH10230010,fiftyTwoWeekHighChange,-77301.89
+2025-10-13,Residential Construction,^YH10230010,fiftyTwoWeekHighChangePercent,-0.30718264
+2025-10-13,Residential Construction,^YH10230010,fiftyTwoWeekChangePercent,-28.024042
+2025-10-13,Residential Construction,^YH10230010,fiftyDayAverageChange,-17473.406
+2025-10-13,Residential Construction,^YH10230010,fiftyDayAverageChangePercent,-0.09109297
+2025-10-13,Residential Construction,^YH10230010,twoHundredDayAverageChange,-208.79688
+2025-10-13,Residential Construction,^YH10230010,twoHundredDayAverageChangePercent,-0.0011961675
+2025-10-13,Residential Construction,^YH10230010,regularMarketChange,13260.0
+2025-10-13,Lodging,^YH10290030,previousClose,151233.0
+2025-10-13,Lodging,^YH10290030,regularMarketPreviousClose,151233.0
+2025-10-13,Lodging,^YH10290030,fiftyTwoWeekLow,129169.984
+2025-10-13,Lodging,^YH10290030,fiftyTwoWeekHigh,182792.95
+2025-10-13,Lodging,^YH10290030,fiftyDayAverage,162371.02
+2025-10-13,Lodging,^YH10290030,twoHundredDayAverage,160469.78
+2025-10-13,Lodging,^YH10290030,52WeekChange,-2.3749113
+2025-10-13,Lodging,^YH10290030,regularMarketChangePercent,2.6429417
+2025-10-13,Lodging,^YH10290030,regularMarketPrice,160382.69
+2025-10-13,Lodging,^YH10290030,regularMarketChange,3997.0
+2025-10-13,Lodging,^YH10290030,fiftyTwoWeekLowChange,31212.703
+2025-10-13,Lodging,^YH10290030,fiftyTwoWeekLowChangePercent,0.24164052
+2025-10-13,Lodging,^YH10290030,fiftyTwoWeekHighChange,-22410.266
+2025-10-13,Lodging,^YH10290030,fiftyTwoWeekHighChangePercent,-0.12259918
+2025-10-13,Lodging,^YH10290030,fiftyTwoWeekChangePercent,-2.3749113
+2025-10-13,Lodging,^YH10290030,fiftyDayAverageChange,-1988.3281
+2025-10-13,Lodging,^YH10290030,fiftyDayAverageChangePercent,-0.012245585
+2025-10-13,Lodging,^YH10290030,twoHundredDayAverageChange,-87.09375
+2025-10-13,Lodging,^YH10290030,twoHundredDayAverageChangePercent,-0.0005427424
+2025-10-13,Packaging & Containers,^YH10250010,previousClose,175726.0
+2025-10-13,Packaging & Containers,^YH10250010,regularMarketPreviousClose,175726.0
+2025-10-13,Packaging & Containers,^YH10250010,fiftyTwoWeekLow,148257.2
+2025-10-13,Packaging & Containers,^YH10250010,fiftyTwoWeekHigh,186198.3
+2025-10-13,Packaging & Containers,^YH10250010,fiftyDayAverage,161035.95
+2025-10-13,Packaging & Containers,^YH10250010,twoHundredDayAverage,166268.66
+2025-10-13,Packaging & Containers,^YH10250010,52WeekChange,-13.499588
+2025-10-13,Packaging & Containers,^YH10250010,regularMarketChangePercent,-3.8582795
+2025-10-13,Packaging & Containers,^YH10250010,regularMarketPrice,153579.3
+2025-10-13,Packaging & Containers,^YH10250010,regularMarketChange,-6780.0
+2025-10-13,Packaging & Containers,^YH10250010,fiftyTwoWeekLowChange,5322.0938
+2025-10-13,Packaging & Containers,^YH10250010,fiftyTwoWeekLowChangePercent,0.03589771
+2025-10-13,Packaging & Containers,^YH10250010,fiftyTwoWeekHighChange,-32619.0
+2025-10-13,Packaging & Containers,^YH10250010,fiftyTwoWeekHighChangePercent,-0.1751842
+2025-10-13,Packaging & Containers,^YH10250010,fiftyTwoWeekChangePercent,-13.499588
+2025-10-13,Packaging & Containers,^YH10250010,fiftyDayAverageChange,-7456.6562
+2025-10-13,Packaging & Containers,^YH10250010,fiftyDayAverageChangePercent,-0.046304293
+2025-10-13,Packaging & Containers,^YH10250010,twoHundredDayAverageChange,-12689.359
+2025-10-13,Packaging & Containers,^YH10250010,twoHundredDayAverageChangePercent,-0.07631841
+2025-10-13,Footwear & Accessories,^YH10240030,previousClose,180029.0
+2025-10-13,Footwear & Accessories,^YH10240030,regularMarketPreviousClose,180029.0
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyTwoWeekLow,129314.41
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyTwoWeekHigh,205985.92
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyDayAverage,166115.92
+2025-10-13,Footwear & Accessories,^YH10240030,twoHundredDayAverage,165859.69
+2025-10-13,Footwear & Accessories,^YH10240030,52WeekChange,-26.79581
+2025-10-13,Footwear & Accessories,^YH10240030,regularMarketChangePercent,-0.23996134
+2025-10-13,Footwear & Accessories,^YH10240030,regularMarketPrice,148324.92
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyDayAverageChange,-17791.0
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyDayAverageChangePercent,-0.107099906
+2025-10-13,Footwear & Accessories,^YH10240030,twoHundredDayAverageChange,-17534.766
+2025-10-13,Footwear & Accessories,^YH10240030,twoHundredDayAverageChangePercent,-0.10572048
+2025-10-13,Footwear & Accessories,^YH10240030,regularMarketChange,-432.0
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyTwoWeekLowChange,19010.516
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyTwoWeekLowChangePercent,0.14701004
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyTwoWeekHighChange,-57661.0
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyTwoWeekHighChangePercent,-0.2799269
+2025-10-13,Footwear & Accessories,^YH10240030,fiftyTwoWeekChangePercent,-26.79581
+2025-10-13,Auto & Truck Dealerships,^YH10200010,previousClose,112136.0
+2025-10-13,Auto & Truck Dealerships,^YH10200010,regularMarketPreviousClose,112136.0
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyTwoWeekLow,104852.29
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyTwoWeekHigh,174432.44
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyDayAverage,154334.44
+2025-10-13,Auto & Truck Dealerships,^YH10200010,twoHundredDayAverage,138806.08
+2025-10-13,Auto & Truck Dealerships,^YH10200010,52WeekChange,2.2865891
+2025-10-13,Auto & Truck Dealerships,^YH10200010,regularMarketChangePercent,4.519512
+2025-10-13,Auto & Truck Dealerships,^YH10200010,regularMarketPrice,142351.38
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyDayAverageChange,-11983.0625
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyDayAverageChangePercent,-0.07764348
+2025-10-13,Auto & Truck Dealerships,^YH10200010,twoHundredDayAverageChange,3545.2969
+2025-10-13,Auto & Truck Dealerships,^YH10200010,twoHundredDayAverageChangePercent,0.025541367
+2025-10-13,Auto & Truck Dealerships,^YH10200010,regularMarketChange,5068.0
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyTwoWeekLowChange,37499.086
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyTwoWeekLowChangePercent,0.35763726
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyTwoWeekHighChange,-32081.062
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyTwoWeekHighChangePercent,-0.18391684
+2025-10-13,Auto & Truck Dealerships,^YH10200010,fiftyTwoWeekChangePercent,2.2865891
+2025-10-13,Gambling,^YH10290010,previousClose,85213.6
+2025-10-13,Gambling,^YH10290010,regularMarketPreviousClose,85213.6
+2025-10-13,Gambling,^YH10290010,fiftyTwoWeekLow,78642.336
+2025-10-13,Gambling,^YH10290010,fiftyTwoWeekHigh,112617.69
+2025-10-13,Gambling,^YH10290010,fiftyDayAverage,104946.95
+2025-10-13,Gambling,^YH10290010,twoHundredDayAverage,98013.055
+2025-10-13,Gambling,^YH10290010,52WeekChange,-0.2145052
+2025-10-13,Gambling,^YH10290010,regularMarketChangePercent,1.3802906
+2025-10-13,Gambling,^YH10290010,regularMarketPrice,92615.99
+2025-10-13,Gambling,^YH10290010,regularMarketChange,1176.1953
+2025-10-13,Gambling,^YH10290010,fiftyDayAverageChange,-12330.961
+2025-10-13,Gambling,^YH10290010,fiftyDayAverageChangePercent,-0.11749709
+2025-10-13,Gambling,^YH10290010,twoHundredDayAverageChange,-5397.0625
+2025-10-13,Gambling,^YH10290010,twoHundredDayAverageChangePercent,-0.05506473
+2025-10-13,Gambling,^YH10290010,fiftyTwoWeekLowChange,13973.656
+2025-10-13,Gambling,^YH10290010,fiftyTwoWeekLowChangePercent,0.17768618
+2025-10-13,Gambling,^YH10290010,fiftyTwoWeekHighChange,-20001.695
+2025-10-13,Gambling,^YH10290010,fiftyTwoWeekHighChangePercent,-0.17760704
+2025-10-13,Gambling,^YH10290010,fiftyTwoWeekChangePercent,-0.2145052
+2025-10-13,Resorts & Casinos,^YH10290040,previousClose,96640.5
+2025-10-13,Resorts & Casinos,^YH10290040,regularMarketPreviousClose,96640.5
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyTwoWeekLow,66032.414
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyTwoWeekHigh,105032.17
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyDayAverage,95824.71
+2025-10-13,Resorts & Casinos,^YH10290040,twoHundredDayAverage,88456.4
+2025-10-13,Resorts & Casinos,^YH10290040,52WeekChange,-14.241034
+2025-10-13,Resorts & Casinos,^YH10290040,regularMarketChangePercent,0.8718928
+2025-10-13,Resorts & Casinos,^YH10290040,regularMarketPrice,86173.82
+2025-10-13,Resorts & Casinos,^YH10290040,regularMarketChange,842.60156
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyTwoWeekLowChange,20141.406
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyTwoWeekLowChangePercent,0.305023
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyTwoWeekHighChange,-18858.352
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyTwoWeekHighChangePercent,-0.17954834
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyTwoWeekChangePercent,-14.241034
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyDayAverageChange,-9650.891
+2025-10-13,Resorts & Casinos,^YH10290040,fiftyDayAverageChangePercent,-0.100714006
+2025-10-13,Resorts & Casinos,^YH10290040,twoHundredDayAverageChange,-2282.5781
+2025-10-13,Resorts & Casinos,^YH10290040,twoHundredDayAverageChangePercent,-0.025804557
+2025-10-13,Leisure,^YH10290020,previousClose,60860.0
+2025-10-13,Leisure,^YH10290020,regularMarketPreviousClose,60860.0
+2025-10-13,Leisure,^YH10290020,fiftyTwoWeekLow,56772.06
+2025-10-13,Leisure,^YH10290020,fiftyTwoWeekHigh,82183.336
+2025-10-13,Leisure,^YH10290020,fiftyDayAverage,77770.695
+2025-10-13,Leisure,^YH10290020,twoHundredDayAverage,73912.71
+2025-10-13,Leisure,^YH10290020,52WeekChange,4.3027997
+2025-10-13,Leisure,^YH10290020,regularMarketChangePercent,2.944957
+2025-10-13,Leisure,^YH10290020,regularMarketPrice,71782.14
+2025-10-13,Leisure,^YH10290020,regularMarketChange,1792.3008
+2025-10-13,Leisure,^YH10290020,fiftyTwoWeekLowChange,15010.082
+2025-10-13,Leisure,^YH10290020,fiftyTwoWeekLowChangePercent,0.26439208
+2025-10-13,Leisure,^YH10290020,fiftyTwoWeekHighChange,-10401.195
+2025-10-13,Leisure,^YH10290020,fiftyTwoWeekHighChangePercent,-0.12656088
+2025-10-13,Leisure,^YH10290020,fiftyTwoWeekChangePercent,4.3027997
+2025-10-13,Leisure,^YH10290020,fiftyDayAverageChange,-5988.5547
+2025-10-13,Leisure,^YH10290020,fiftyDayAverageChangePercent,-0.07700271
+2025-10-13,Leisure,^YH10290020,twoHundredDayAverageChange,-2130.5703
+2025-10-13,Leisure,^YH10290020,twoHundredDayAverageChangePercent,-0.028825494
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,previousClose,46778.3
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,regularMarketPreviousClose,46778.3
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyTwoWeekLow,45670.184
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyTwoWeekHigh,68298.766
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyDayAverage,64807.812
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,twoHundredDayAverage,57544.81
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,52WeekChange,14.838898
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyDayAverageChange,-355.5039
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyDayAverageChangePercent,-0.00548551
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,twoHundredDayAverageChange,6907.5
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,twoHundredDayAverageChangePercent,0.12003689
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,regularMarketChange,2815.0977
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyTwoWeekLowChange,18782.125
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyTwoWeekLowChangePercent,0.41125575
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyTwoWeekHighChange,-3846.457
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyTwoWeekHighChangePercent,-0.056318104
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,fiftyTwoWeekChangePercent,14.838898
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,regularMarketChangePercent,6.017956
+2025-10-13,"Furnishings, Fixtures & Appliances",^YH10220010,regularMarketPrice,64452.31
+2025-10-13,Apparel Manufacturing,^YH10240020,previousClose,58607.1
+2025-10-13,Apparel Manufacturing,^YH10240020,regularMarketPreviousClose,58607.1
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyTwoWeekLow,43727.223
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyTwoWeekHigh,72339.055
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyDayAverage,63519.113
+2025-10-13,Apparel Manufacturing,^YH10240020,twoHundredDayAverage,60528.926
+2025-10-13,Apparel Manufacturing,^YH10240020,52WeekChange,-2.0377815
+2025-10-13,Apparel Manufacturing,^YH10240020,regularMarketChangePercent,0.46734685
+2025-10-13,Apparel Manufacturing,^YH10240020,regularMarketPrice,64366.277
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyDayAverageChange,847.16406
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyDayAverageChangePercent,0.013337152
+2025-10-13,Apparel Manufacturing,^YH10240020,twoHundredDayAverageChange,3837.3516
+2025-10-13,Apparel Manufacturing,^YH10240020,twoHundredDayAverageChangePercent,0.06339699
+2025-10-13,Apparel Manufacturing,^YH10240020,regularMarketChange,273.89844
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyTwoWeekLowChange,20639.055
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyTwoWeekLowChangePercent,0.47199556
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyTwoWeekHighChange,-7972.7773
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyTwoWeekHighChangePercent,-0.11021401
+2025-10-13,Apparel Manufacturing,^YH10240020,fiftyTwoWeekChangePercent,-2.0377815
+2025-10-13,Personal Services,^YH10260010,previousClose,54038.7
+2025-10-13,Personal Services,^YH10260010,regularMarketPreviousClose,54038.7
+2025-10-13,Personal Services,^YH10260010,fiftyTwoWeekLow,52364.13
+2025-10-13,Personal Services,^YH10260010,fiftyTwoWeekHigh,63187.594
+2025-10-13,Personal Services,^YH10260010,fiftyDayAverage,58514.55
+2025-10-13,Personal Services,^YH10260010,twoHundredDayAverage,57461.94
+2025-10-13,Personal Services,^YH10260010,52WeekChange,1.286447
+2025-10-13,Personal Services,^YH10260010,fiftyDayAverageChange,-1952.9102
+2025-10-13,Personal Services,^YH10260010,fiftyDayAverageChangePercent,-0.03337478
+2025-10-13,Personal Services,^YH10260010,twoHundredDayAverageChange,-900.3008
+2025-10-13,Personal Services,^YH10260010,twoHundredDayAverageChangePercent,-0.015667776
+2025-10-13,Personal Services,^YH10260010,regularMarketChangePercent,3.3733275
+2025-10-13,Personal Services,^YH10260010,regularMarketPrice,56561.64
+2025-10-13,Personal Services,^YH10260010,regularMarketChange,1822.9023
+2025-10-13,Personal Services,^YH10260010,fiftyTwoWeekLowChange,4197.5117
+2025-10-13,Personal Services,^YH10260010,fiftyTwoWeekLowChangePercent,0.08016006
+2025-10-13,Personal Services,^YH10260010,fiftyTwoWeekHighChange,-6625.953
+2025-10-13,Personal Services,^YH10260010,fiftyTwoWeekHighChangePercent,-0.10486162
+2025-10-13,Personal Services,^YH10260010,fiftyTwoWeekChangePercent,1.286447
+2025-10-13,Luxury Goods,^YH10280040,previousClose,19668.3
+2025-10-13,Luxury Goods,^YH10280040,regularMarketPreviousClose,19668.3
+2025-10-13,Luxury Goods,^YH10280040,fiftyTwoWeekLow,17671.217
+2025-10-13,Luxury Goods,^YH10280040,fiftyTwoWeekHigh,33098.492
+2025-10-13,Luxury Goods,^YH10280040,fiftyDayAverage,30712.82
+2025-10-13,Luxury Goods,^YH10280040,twoHundredDayAverage,25383.727
+2025-10-13,Luxury Goods,^YH10280040,52WeekChange,44.249596
+2025-10-13,Luxury Goods,^YH10280040,fiftyDayAverageChange,1731.207
+2025-10-13,Luxury Goods,^YH10280040,fiftyDayAverageChangePercent,0.05636757
+2025-10-13,Luxury Goods,^YH10280040,twoHundredDayAverageChange,7060.301
+2025-10-13,Luxury Goods,^YH10280040,twoHundredDayAverageChangePercent,0.2781428
+2025-10-13,Luxury Goods,^YH10280040,regularMarketChangePercent,-1.6717294
+2025-10-13,Luxury Goods,^YH10280040,regularMarketPrice,32444.027
+2025-10-13,Luxury Goods,^YH10280040,regularMarketChange,-328.80078
+2025-10-13,Luxury Goods,^YH10280040,fiftyTwoWeekLowChange,14772.811
+2025-10-13,Luxury Goods,^YH10280040,fiftyTwoWeekLowChangePercent,0.8359815
+2025-10-13,Luxury Goods,^YH10280040,fiftyTwoWeekHighChange,-654.46484
+2025-10-13,Luxury Goods,^YH10280040,fiftyTwoWeekHighChangePercent,-0.019773252
+2025-10-13,Luxury Goods,^YH10280040,fiftyTwoWeekChangePercent,44.249596
+2025-10-13,Recreational Vehicles,^YH10200040,previousClose,30175.2
+2025-10-13,Recreational Vehicles,^YH10200040,regularMarketPreviousClose,30175.2
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyTwoWeekLow,16823.713
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyTwoWeekHigh,31795.578
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyDayAverage,25679.914
+2025-10-13,Recreational Vehicles,^YH10200040,twoHundredDayAverage,22812.582
+2025-10-13,Recreational Vehicles,^YH10200040,52WeekChange,-21.854454
+2025-10-13,Recreational Vehicles,^YH10200040,regularMarketChangePercent,6.614373
+2025-10-13,Recreational Vehicles,^YH10200040,regularMarketPrice,25020.957
+2025-10-13,Recreational Vehicles,^YH10200040,regularMarketChange,1995.9004
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyTwoWeekLowChange,8197.244
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyTwoWeekLowChangePercent,0.48724347
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyTwoWeekHighChange,-6774.621
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyTwoWeekHighChangePercent,-0.21306802
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyTwoWeekChangePercent,-21.854454
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyDayAverageChange,-658.95703
+2025-10-13,Recreational Vehicles,^YH10200040,fiftyDayAverageChangePercent,-0.025660407
+2025-10-13,Recreational Vehicles,^YH10200040,twoHundredDayAverageChange,2208.375
+2025-10-13,Recreational Vehicles,^YH10200040,twoHundredDayAverageChangePercent,0.09680513
+2025-10-13,Department Stores,^YH10280020,previousClose,19360.6
+2025-10-13,Department Stores,^YH10280020,regularMarketPreviousClose,19360.6
+2025-10-13,Department Stores,^YH10280020,fiftyTwoWeekLow,10103.452
+2025-10-13,Department Stores,^YH10280020,fiftyTwoWeekHigh,19638.002
+2025-10-13,Department Stores,^YH10280020,fiftyDayAverage,17771.098
+2025-10-13,Department Stores,^YH10280020,twoHundredDayAverage,14799.801
+2025-10-13,Department Stores,^YH10280020,52WeekChange,13.3716345
+2025-10-13,Department Stores,^YH10280020,fiftyDayAverageChange,1579.9219
+2025-10-13,Department Stores,^YH10280020,fiftyDayAverageChangePercent,0.08890401
+2025-10-13,Department Stores,^YH10280020,twoHundredDayAverageChange,4551.2188
+2025-10-13,Department Stores,^YH10280020,twoHundredDayAverageChangePercent,0.30751893
+2025-10-13,Department Stores,^YH10280020,regularMarketChange,-1589.4004
+2025-10-13,Department Stores,^YH10280020,fiftyTwoWeekLowChange,9247.567
+2025-10-13,Department Stores,^YH10280020,fiftyTwoWeekLowChangePercent,0.9152879
+2025-10-13,Department Stores,^YH10280020,fiftyTwoWeekHighChange,-286.98242
+2025-10-13,Department Stores,^YH10280020,fiftyTwoWeekHighChangePercent,-0.0146136265
+2025-10-13,Department Stores,^YH10280020,fiftyTwoWeekChangePercent,13.3716345
+2025-10-13,Department Stores,^YH10280020,regularMarketChangePercent,-8.209458
+2025-10-13,Department Stores,^YH10280020,regularMarketPrice,19351.02
+2025-10-13,Textile Manufacturing,^YH10240010,previousClose,1778.75
+2025-10-13,Textile Manufacturing,^YH10240010,regularMarketPreviousClose,1778.75
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyTwoWeekLow,1737.6858
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyTwoWeekHigh,2866.4329
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyDayAverage,1912.7377
+2025-10-13,Textile Manufacturing,^YH10240010,twoHundredDayAverage,2239.0999
+2025-10-13,Textile Manufacturing,^YH10240010,52WeekChange,-30.182701
+2025-10-13,Textile Manufacturing,^YH10240010,regularMarketChangePercent,-2.2487702
+2025-10-13,Textile Manufacturing,^YH10240010,regularMarketPrice,1808.6064
+2025-10-13,Textile Manufacturing,^YH10240010,regularMarketChange,-40.0
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyTwoWeekLowChange,70.920654
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyTwoWeekLowChangePercent,0.04081328
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyTwoWeekHighChange,-1057.8264
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyTwoWeekHighChangePercent,-0.36903933
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyTwoWeekChangePercent,-30.182701
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyDayAverageChange,-104.131226
+2025-10-13,Textile Manufacturing,^YH10240010,fiftyDayAverageChangePercent,-0.054440934
+2025-10-13,Textile Manufacturing,^YH10240010,twoHundredDayAverageChange,-430.4934
+2025-10-13,Textile Manufacturing,^YH10240010,twoHundredDayAverageChangePercent,-0.19226182
+2025-10-13,Discount Stores,^YH20550010,previousClose,1082190.0
+2025-10-13,Discount Stores,^YH20550010,regularMarketPreviousClose,1082190.0
+2025-10-13,Discount Stores,^YH20550010,fiftyTwoWeekLow,1160053.1
+2025-10-13,Discount Stores,^YH20550010,fiftyTwoWeekHigh,1439084.2
+2025-10-13,Discount Stores,^YH20550010,fiftyDayAverage,1344821.8
+2025-10-13,Discount Stores,^YH20550010,twoHundredDayAverage,1319848.0
+2025-10-13,Discount Stores,^YH20550010,52WeekChange,13.781166
+2025-10-13,Discount Stores,^YH20550010,fiftyDayAverageChange,-9562.5
+2025-10-13,Discount Stores,^YH20550010,fiftyDayAverageChangePercent,-0.007110608
+2025-10-13,Discount Stores,^YH20550010,twoHundredDayAverageChange,15411.25
+2025-10-13,Discount Stores,^YH20550010,twoHundredDayAverageChangePercent,0.011676534
+2025-10-13,Discount Stores,^YH20550010,regularMarketChangePercent,0.9702548
+2025-10-13,Discount Stores,^YH20550010,regularMarketPrice,1335259.2
+2025-10-13,Discount Stores,^YH20550010,regularMarketChange,10500.0
+2025-10-13,Discount Stores,^YH20550010,fiftyTwoWeekLowChange,175206.12
+2025-10-13,Discount Stores,^YH20550010,fiftyTwoWeekLowChangePercent,0.15103285
+2025-10-13,Discount Stores,^YH20550010,fiftyTwoWeekHighChange,-103825.0
+2025-10-13,Discount Stores,^YH20550010,fiftyTwoWeekHighChangePercent,-0.07214657
+2025-10-13,Discount Stores,^YH20550010,fiftyTwoWeekChangePercent,13.781166
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,previousClose,660362.0
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,regularMarketPreviousClose,660362.0
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyTwoWeekLow,622612.4
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyTwoWeekHigh,718459.75
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyDayAverage,678427.0
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,twoHundredDayAverage,675290.25
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,52WeekChange,-4.658347
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyDayAverageChange,-1485.75
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyDayAverageChangePercent,-0.0021899925
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,twoHundredDayAverageChange,1651.0
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,twoHundredDayAverageChangePercent,0.0024448747
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,regularMarketChangePercent,2.5404248
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,regularMarketPrice,676941.25
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyTwoWeekLowChange,54328.875
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyTwoWeekLowChangePercent,0.087259546
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyTwoWeekHighChange,-41518.5
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyTwoWeekHighChangePercent,-0.057788204
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,fiftyTwoWeekChangePercent,-4.658347
+2025-10-13,Beverages - Non-Alcoholic,^YH20520010,regularMarketChange,16776.0
+2025-10-13,Household & Personal Products,^YH20525030,previousClose,670946.0
+2025-10-13,Household & Personal Products,^YH20525030,regularMarketPreviousClose,670946.0
+2025-10-13,Household & Personal Products,^YH20525030,fiftyTwoWeekLow,573547.0
+2025-10-13,Household & Personal Products,^YH20525030,fiftyTwoWeekHigh,708795.3
+2025-10-13,Household & Personal Products,^YH20525030,fiftyDayAverage,607623.44
+2025-10-13,Household & Personal Products,^YH20525030,twoHundredDayAverage,636368.4
+2025-10-13,Household & Personal Products,^YH20525030,52WeekChange,-16.943377
+2025-10-13,Household & Personal Products,^YH20525030,twoHundredDayAverageChangePercent,-0.10678436
+2025-10-13,Household & Personal Products,^YH20525030,regularMarketChangePercent,1.6433513
+2025-10-13,Household & Personal Products,^YH20525030,regularMarketPrice,568414.2
+2025-10-13,Household & Personal Products,^YH20525030,regularMarketChange,11026.0
+2025-10-13,Household & Personal Products,^YH20525030,fiftyTwoWeekLowChange,-5132.8125
+2025-10-13,Household & Personal Products,^YH20525030,fiftyTwoWeekLowChangePercent,-0.008949244
+2025-10-13,Household & Personal Products,^YH20525030,fiftyTwoWeekHighChange,-140381.12
+2025-10-13,Household & Personal Products,^YH20525030,fiftyTwoWeekHighChangePercent,-0.19805594
+2025-10-13,Household & Personal Products,^YH20525030,fiftyTwoWeekChangePercent,-16.943377
+2025-10-13,Household & Personal Products,^YH20525030,fiftyDayAverageChange,-39209.25
+2025-10-13,Household & Personal Products,^YH20525030,fiftyDayAverageChangePercent,-0.06452886
+2025-10-13,Household & Personal Products,^YH20525030,twoHundredDayAverageChange,-67954.19
+2025-10-13,Tobacco,^YH20560010,previousClose,248099.0
+2025-10-13,Tobacco,^YH20560010,regularMarketPreviousClose,248099.0
+2025-10-13,Tobacco,^YH20560010,fiftyTwoWeekLow,270850.16
+2025-10-13,Tobacco,^YH20560010,fiftyTwoWeekHigh,392744.0
+2025-10-13,Tobacco,^YH20560010,fiftyDayAverage,369659.25
+2025-10-13,Tobacco,^YH20560010,twoHundredDayAverage,353309.06
+2025-10-13,Tobacco,^YH20560010,52WeekChange,33.00052
+2025-10-13,Tobacco,^YH20560010,regularMarketChangePercent,3.7654324
+2025-10-13,Tobacco,^YH20560010,regularMarketPrice,359167.5
+2025-10-13,Tobacco,^YH20560010,fiftyTwoWeekChangePercent,33.00052
+2025-10-13,Tobacco,^YH20560010,fiftyDayAverageChange,-10491.75
+2025-10-13,Tobacco,^YH20560010,fiftyDayAverageChangePercent,-0.02838222
+2025-10-13,Tobacco,^YH20560010,twoHundredDayAverageChange,5858.4375
+2025-10-13,Tobacco,^YH20560010,twoHundredDayAverageChangePercent,0.016581623
+2025-10-13,Tobacco,^YH20560010,regularMarketChange,9342.0
+2025-10-13,Tobacco,^YH20560010,fiftyTwoWeekLowChange,88317.34
+2025-10-13,Tobacco,^YH20560010,fiftyTwoWeekLowChangePercent,0.32607454
+2025-10-13,Tobacco,^YH20560010,fiftyTwoWeekHighChange,-33576.5
+2025-10-13,Tobacco,^YH20560010,fiftyTwoWeekHighChangePercent,-0.085492074
+2025-10-13,Packaged Foods,^YH20525040,previousClose,258855.0
+2025-10-13,Packaged Foods,^YH20525040,regularMarketPreviousClose,258855.0
+2025-10-13,Packaged Foods,^YH20525040,fiftyTwoWeekLow,221790.14
+2025-10-13,Packaged Foods,^YH20525040,fiftyTwoWeekHigh,284520.34
+2025-10-13,Packaged Foods,^YH20525040,fiftyDayAverage,252916.84
+2025-10-13,Packaged Foods,^YH20525040,twoHundredDayAverage,253382.2
+2025-10-13,Packaged Foods,^YH20525040,52WeekChange,-21.568752
+2025-10-13,Packaged Foods,^YH20525040,fiftyDayAverageChange,-33514.594
+2025-10-13,Packaged Foods,^YH20525040,fiftyDayAverageChangePercent,-0.1325123
+2025-10-13,Packaged Foods,^YH20525040,twoHundredDayAverageChange,-33979.953
+2025-10-13,Packaged Foods,^YH20525040,twoHundredDayAverageChangePercent,-0.13410552
+2025-10-13,Packaged Foods,^YH20525040,regularMarketChangePercent,3.7569296
+2025-10-13,Packaged Foods,^YH20525040,regularMarketPrice,219402.25
+2025-10-13,Packaged Foods,^YH20525040,fiftyTwoWeekLowChange,-2387.8906
+2025-10-13,Packaged Foods,^YH20525040,fiftyTwoWeekLowChangePercent,-0.010766442
+2025-10-13,Packaged Foods,^YH20525040,fiftyTwoWeekHighChange,-65118.094
+2025-10-13,Packaged Foods,^YH20525040,fiftyTwoWeekHighChangePercent,-0.22886972
+2025-10-13,Packaged Foods,^YH20525040,fiftyTwoWeekChangePercent,-21.568752
+2025-10-13,Packaged Foods,^YH20525040,regularMarketChange,9725.0
+2025-10-13,Confectioners,^YH20525010,previousClose,127520.0
+2025-10-13,Confectioners,^YH20525010,regularMarketPreviousClose,127520.0
+2025-10-13,Confectioners,^YH20525010,fiftyTwoWeekLow,105932.6
+2025-10-13,Confectioners,^YH20525010,fiftyTwoWeekHigh,135693.16
+2025-10-13,Confectioners,^YH20525010,fiftyDayAverage,120059.0
+2025-10-13,Confectioners,^YH20525010,twoHundredDayAverage,120045.96
+2025-10-13,Confectioners,^YH20525010,52WeekChange,-10.298908
+2025-10-13,Confectioners,^YH20525010,regularMarketChangePercent,3.058344
+2025-10-13,Confectioners,^YH20525010,regularMarketPrice,119253.125
+2025-10-13,Confectioners,^YH20525010,regularMarketChange,3900.0
+2025-10-13,Confectioners,^YH20525010,fiftyDayAverageChange,-805.875
+2025-10-13,Confectioners,^YH20525010,fiftyDayAverageChangePercent,-0.006712325
+2025-10-13,Confectioners,^YH20525010,twoHundredDayAverageChange,-792.83594
+2025-10-13,Confectioners,^YH20525010,twoHundredDayAverageChangePercent,-0.006604437
+2025-10-13,Confectioners,^YH20525010,fiftyTwoWeekLowChange,13320.523
+2025-10-13,Confectioners,^YH20525010,fiftyTwoWeekLowChangePercent,0.12574527
+2025-10-13,Confectioners,^YH20525010,fiftyTwoWeekHighChange,-16440.031
+2025-10-13,Confectioners,^YH20525010,fiftyTwoWeekHighChangePercent,-0.12115593
+2025-10-13,Confectioners,^YH20525010,fiftyTwoWeekChangePercent,-10.298908
+2025-10-13,Food Distribution,^YH20550020,previousClose,64620.7
+2025-10-13,Food Distribution,^YH20550020,regularMarketPreviousClose,64620.7
+2025-10-13,Food Distribution,^YH20550020,fiftyTwoWeekLow,65369.19
+2025-10-13,Food Distribution,^YH20550020,fiftyTwoWeekHigh,82969.91
+2025-10-13,Food Distribution,^YH20550020,fiftyDayAverage,80548.6
+2025-10-13,Food Distribution,^YH20550020,twoHundredDayAverage,75402.7
+2025-10-13,Food Distribution,^YH20550020,52WeekChange,8.333421
+2025-10-13,Food Distribution,^YH20550020,regularMarketChangePercent,4.396733
+2025-10-13,Food Distribution,^YH20550020,regularMarketPrice,78134.84
+2025-10-13,Food Distribution,^YH20550020,fiftyDayAverageChange,-2413.7578
+2025-10-13,Food Distribution,^YH20550020,fiftyDayAverageChangePercent,-0.029966477
+2025-10-13,Food Distribution,^YH20550020,twoHundredDayAverageChange,2732.1406
+2025-10-13,Food Distribution,^YH20550020,twoHundredDayAverageChangePercent,0.036233988
+2025-10-13,Food Distribution,^YH20550020,regularMarketChange,2841.1992
+2025-10-13,Food Distribution,^YH20550020,fiftyTwoWeekLowChange,12765.652
+2025-10-13,Food Distribution,^YH20550020,fiftyTwoWeekLowChangePercent,0.19528545
+2025-10-13,Food Distribution,^YH20550020,fiftyTwoWeekHighChange,-4835.0625
+2025-10-13,Food Distribution,^YH20550020,fiftyTwoWeekHighChangePercent,-0.058274895
+2025-10-13,Food Distribution,^YH20550020,fiftyTwoWeekChangePercent,8.333421
+2025-10-13,Farm Products,^YH20525020,previousClose,76952.9
+2025-10-13,Farm Products,^YH20525020,regularMarketPreviousClose,76952.9
+2025-10-13,Farm Products,^YH20525020,fiftyTwoWeekLow,60369.527
+2025-10-13,Farm Products,^YH20525020,fiftyTwoWeekHigh,82108.61
+2025-10-13,Farm Products,^YH20525020,fiftyDayAverage,77606.1
+2025-10-13,Farm Products,^YH20525020,twoHundredDayAverage,69380.2
+2025-10-13,Farm Products,^YH20525020,52WeekChange,1.8676639
+2025-10-13,Farm Products,^YH20525020,regularMarketChangePercent,3.1662226
+2025-10-13,Farm Products,^YH20525020,regularMarketPrice,75658.88
+2025-10-13,Farm Products,^YH20525020,regularMarketChange,2436.5
+2025-10-13,Farm Products,^YH20525020,fiftyDayAverageChange,-1947.2188
+2025-10-13,Farm Products,^YH20525020,fiftyDayAverageChangePercent,-0.025091052
+2025-10-13,Farm Products,^YH20525020,twoHundredDayAverageChange,6278.6797
+2025-10-13,Farm Products,^YH20525020,twoHundredDayAverageChangePercent,0.090496704
+2025-10-13,Farm Products,^YH20525020,fiftyTwoWeekLowChange,15289.355
+2025-10-13,Farm Products,^YH20525020,fiftyTwoWeekLowChangePercent,0.2532628
+2025-10-13,Farm Products,^YH20525020,fiftyTwoWeekHighChange,-6449.7266
+2025-10-13,Farm Products,^YH20525020,fiftyTwoWeekHighChangePercent,-0.07855116
+2025-10-13,Farm Products,^YH20525020,fiftyTwoWeekChangePercent,1.8676639
+2025-10-13,Grocery Stores,^YH20550030,previousClose,65703.7
+2025-10-13,Grocery Stores,^YH20550030,regularMarketPreviousClose,65703.7
+2025-10-13,Grocery Stores,^YH20550030,fiftyTwoWeekLow,69017.32
+2025-10-13,Grocery Stores,^YH20550030,fiftyTwoWeekHigh,85498.92
+2025-10-13,Grocery Stores,^YH20550030,fiftyDayAverage,75296.234
+2025-10-13,Grocery Stores,^YH20550030,twoHundredDayAverage,78967.195
+2025-10-13,Grocery Stores,^YH20550030,52WeekChange,2.1275282
+2025-10-13,Grocery Stores,^YH20550030,regularMarketChangePercent,3.3591619
+2025-10-13,Grocery Stores,^YH20550030,regularMarketPrice,70786.13
+2025-10-13,Grocery Stores,^YH20550030,regularMarketChange,2207.0938
+2025-10-13,Grocery Stores,^YH20550030,fiftyTwoWeekLowChange,1768.8125
+2025-10-13,Grocery Stores,^YH20550030,fiftyTwoWeekLowChangePercent,0.025628531
+2025-10-13,Grocery Stores,^YH20550030,fiftyTwoWeekHighChange,-14712.789
+2025-10-13,Grocery Stores,^YH20550030,fiftyTwoWeekHighChangePercent,-0.17208157
+2025-10-13,Grocery Stores,^YH20550030,fiftyTwoWeekChangePercent,2.1275282
+2025-10-13,Grocery Stores,^YH20550030,fiftyDayAverageChange,-4510.1016
+2025-10-13,Grocery Stores,^YH20550030,fiftyDayAverageChangePercent,-0.0598981
+2025-10-13,Grocery Stores,^YH20550030,twoHundredDayAverageChange,-8181.0625
+2025-10-13,Grocery Stores,^YH20550030,twoHundredDayAverageChangePercent,-0.10360077
+2025-10-13,Education & Training Services,^YH20540010,previousClose,26481.4
+2025-10-13,Education & Training Services,^YH20540010,regularMarketPreviousClose,26481.4
+2025-10-13,Education & Training Services,^YH20540010,fiftyTwoWeekLow,28869.8
+2025-10-13,Education & Training Services,^YH20540010,fiftyTwoWeekHigh,44974.684
+2025-10-13,Education & Training Services,^YH20540010,fiftyDayAverage,42781.035
+2025-10-13,Education & Training Services,^YH20540010,twoHundredDayAverage,38004.363
+2025-10-13,Education & Training Services,^YH20540010,52WeekChange,44.470524
+2025-10-13,Education & Training Services,^YH20540010,regularMarketChangePercent,6.9309034
+2025-10-13,Education & Training Services,^YH20540010,regularMarketPrice,43005.97
+2025-10-13,Education & Training Services,^YH20540010,fiftyDayAverageChange,224.9336
+2025-10-13,Education & Training Services,^YH20540010,fiftyDayAverageChangePercent,0.0052577876
+2025-10-13,Education & Training Services,^YH20540010,twoHundredDayAverageChange,5001.6055
+2025-10-13,Education & Training Services,^YH20540010,twoHundredDayAverageChangePercent,0.13160609
+2025-10-13,Education & Training Services,^YH20540010,regularMarketChange,1835.4004
+2025-10-13,Education & Training Services,^YH20540010,fiftyTwoWeekLowChange,14136.168
+2025-10-13,Education & Training Services,^YH20540010,fiftyTwoWeekLowChangePercent,0.48965243
+2025-10-13,Education & Training Services,^YH20540010,fiftyTwoWeekHighChange,-1968.7148
+2025-10-13,Education & Training Services,^YH20540010,fiftyTwoWeekHighChangePercent,-0.043773845
+2025-10-13,Education & Training Services,^YH20540010,fiftyTwoWeekChangePercent,44.470524
+2025-10-13,Beverages - Brewers,^YH20510010,previousClose,14308.4
+2025-10-13,Beverages - Brewers,^YH20510010,regularMarketPreviousClose,14308.4
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyTwoWeekLow,34324.723
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyTwoWeekHigh,60747.33
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyDayAverage,38557.35
+2025-10-13,Beverages - Brewers,^YH20510010,twoHundredDayAverage,44002.332
+2025-10-13,Beverages - Brewers,^YH20510010,52WeekChange,-38.516064
+2025-10-13,Beverages - Brewers,^YH20510010,regularMarketChangePercent,4.0486693
+2025-10-13,Beverages - Brewers,^YH20510010,regularMarketPrice,36204.258
+2025-10-13,Beverages - Brewers,^YH20510010,regularMarketChange,579.2998
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyTwoWeekLowChange,1879.5352
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyTwoWeekLowChangePercent,0.054757476
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyTwoWeekHighChange,-24543.07
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyTwoWeekHighChangePercent,-0.40401894
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyTwoWeekChangePercent,-38.516064
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyDayAverageChange,-2353.0938
+2025-10-13,Beverages - Brewers,^YH20510010,fiftyDayAverageChangePercent,-0.061028406
+2025-10-13,Beverages - Brewers,^YH20510010,twoHundredDayAverageChange,-7798.074
+2025-10-13,Beverages - Brewers,^YH20510010,twoHundredDayAverageChangePercent,-0.17721957
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,previousClose,71243.9
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,regularMarketPreviousClose,71243.9
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyTwoWeekLow,13560.0625
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyTwoWeekHigh,27245.684
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyDayAverage,15302.455
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,twoHundredDayAverage,16183.2
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,52WeekChange,-46.81975
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,regularMarketChangePercent,-1.7477922
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,regularMarketPrice,14487.466
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyTwoWeekLowChange,927.4033
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyTwoWeekLowChangePercent,0.06839226
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyTwoWeekHighChange,-12758.218
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyTwoWeekHighChangePercent,-0.46826565
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyTwoWeekChangePercent,-46.81975
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,regularMarketChange,-1245.1953
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyDayAverageChange,-814.98926
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,fiftyDayAverageChangePercent,-0.053258725
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,twoHundredDayAverageChange,-1695.7344
+2025-10-13,Beverages - Wineries & Distilleries,^YH20510020,twoHundredDayAverageChangePercent,-0.104783624
+2025-10-13,Internet Content & Information,^YH30830010,previousClose,3840110.0
+2025-10-13,Internet Content & Information,^YH30830010,regularMarketPreviousClose,3840110.0
+2025-10-13,Internet Content & Information,^YH30830010,fiftyTwoWeekLow,3322622.0
+2025-10-13,Internet Content & Information,^YH30830010,fiftyTwoWeekHigh,5374559.0
+2025-10-13,Internet Content & Information,^YH30830010,fiftyDayAverage,4942259.0
+2025-10-13,Internet Content & Information,^YH30830010,twoHundredDayAverage,4285109.0
+2025-10-13,Internet Content & Information,^YH30830010,52WeekChange,30.65921
+2025-10-13,Internet Content & Information,^YH30830010,regularMarketChangePercent,-4.886318
+2025-10-13,Internet Content & Information,^YH30830010,regularMarketPrice,5063291.0
+2025-10-13,Internet Content & Information,^YH30830010,fiftyDayAverageChange,121032.0
+2025-10-13,Internet Content & Information,^YH30830010,fiftyDayAverageChangePercent,0.024489205
+2025-10-13,Internet Content & Information,^YH30830010,twoHundredDayAverageChange,778182.0
+2025-10-13,Internet Content & Information,^YH30830010,twoHundredDayAverageChangePercent,0.18160145
+2025-10-13,Internet Content & Information,^YH30830010,regularMarketChange,-187640.0
+2025-10-13,Internet Content & Information,^YH30830010,fiftyTwoWeekLowChange,1740669.0
+2025-10-13,Internet Content & Information,^YH30830010,fiftyTwoWeekLowChangePercent,0.5238842
+2025-10-13,Internet Content & Information,^YH30830010,fiftyTwoWeekHighChange,-311268.0
+2025-10-13,Internet Content & Information,^YH30830010,fiftyTwoWeekHighChangePercent,-0.057915077
+2025-10-13,Internet Content & Information,^YH30830010,fiftyTwoWeekChangePercent,30.65921
+2025-10-13,Entertainment,^YH30820040,previousClose,646820.0
+2025-10-13,Entertainment,^YH30820040,regularMarketPreviousClose,646820.0
+2025-10-13,Entertainment,^YH30820040,fiftyTwoWeekLow,665274.75
+2025-10-13,Entertainment,^YH30820040,fiftyTwoWeekHigh,1015291.0
+2025-10-13,Entertainment,^YH30820040,fiftyDayAverage,969050.56
+2025-10-13,Entertainment,^YH30820040,twoHundredDayAverage,891206.75
+2025-10-13,Entertainment,^YH30820040,52WeekChange,43.51295
+2025-10-13,Entertainment,^YH30820040,regularMarketChangePercent,0.83949167
+2025-10-13,Entertainment,^YH30820040,regularMarketPrice,967907.6
+2025-10-13,Entertainment,^YH30820040,fiftyTwoWeekLowChange,302632.88
+2025-10-13,Entertainment,^YH30820040,fiftyTwoWeekLowChangePercent,0.45489907
+2025-10-13,Entertainment,^YH30820040,fiftyTwoWeekHighChange,-47383.375
+2025-10-13,Entertainment,^YH30820040,fiftyTwoWeekHighChangePercent,-0.046669748
+2025-10-13,Entertainment,^YH30820040,fiftyTwoWeekChangePercent,43.51295
+2025-10-13,Entertainment,^YH30820040,regularMarketChange,5430.0
+2025-10-13,Entertainment,^YH30820040,fiftyDayAverageChange,-1142.9375
+2025-10-13,Entertainment,^YH30820040,fiftyDayAverageChangePercent,-0.0011794405
+2025-10-13,Entertainment,^YH30820040,twoHundredDayAverageChange,76700.875
+2025-10-13,Entertainment,^YH30820040,twoHundredDayAverageChangePercent,0.08606406
+2025-10-13,Telecom Services,^YH30810010,previousClose,894778.0
+2025-10-13,Telecom Services,^YH30810010,regularMarketPreviousClose,894778.0
+2025-10-13,Telecom Services,^YH30810010,fiftyTwoWeekLow,909984.56
+2025-10-13,Telecom Services,^YH30810010,fiftyTwoWeekHigh,1061483.2
+2025-10-13,Telecom Services,^YH30810010,fiftyDayAverage,1024885.75
+2025-10-13,Telecom Services,^YH30810010,twoHundredDayAverage,1011129.94
+2025-10-13,Telecom Services,^YH30810010,52WeekChange,-1.7086148
+2025-10-13,Telecom Services,^YH30810010,regularMarketChangePercent,3.218005
+2025-10-13,Telecom Services,^YH30810010,regularMarketPrice,967242.4
+2025-10-13,Telecom Services,^YH30810010,fiftyTwoWeekLowChange,57257.812
+2025-10-13,Telecom Services,^YH30810010,fiftyTwoWeekLowChangePercent,0.06292174
+2025-10-13,Telecom Services,^YH30810010,fiftyTwoWeekHighChange,-94240.875
+2025-10-13,Telecom Services,^YH30810010,fiftyTwoWeekHighChangePercent,-0.08878225
+2025-10-13,Telecom Services,^YH30810010,fiftyTwoWeekChangePercent,-1.7086148
+2025-10-13,Telecom Services,^YH30810010,fiftyDayAverageChange,-57643.375
+2025-10-13,Telecom Services,^YH30810010,fiftyDayAverageChangePercent,-0.056243706
+2025-10-13,Telecom Services,^YH30810010,twoHundredDayAverageChange,-43887.562
+2025-10-13,Telecom Services,^YH30810010,twoHundredDayAverageChangePercent,-0.043404475
+2025-10-13,Telecom Services,^YH30810010,regularMarketChange,28794.0
+2025-10-13,Advertising Agencies,^YH30820010,previousClose,43582.1
+2025-10-13,Advertising Agencies,^YH30820010,regularMarketPreviousClose,43582.1
+2025-10-13,Advertising Agencies,^YH30820010,fiftyTwoWeekLow,31556.557
+2025-10-13,Advertising Agencies,^YH30820010,fiftyTwoWeekHigh,307317.84
+2025-10-13,Advertising Agencies,^YH30820010,fiftyDayAverage,248724.98
+2025-10-13,Advertising Agencies,^YH30820010,twoHundredDayAverage,128469.38
+2025-10-13,Advertising Agencies,^YH30820010,52WeekChange,468.5645
+2025-10-13,Advertising Agencies,^YH30820010,regularMarketChangePercent,2.8396924
+2025-10-13,Advertising Agencies,^YH30820010,regularMarketPrice,268043.56
+2025-10-13,Advertising Agencies,^YH30820010,fiftyTwoWeekHighChange,-39274.28
+2025-10-13,Advertising Agencies,^YH30820010,fiftyTwoWeekHighChangePercent,-0.12779695
+2025-10-13,Advertising Agencies,^YH30820010,fiftyTwoWeekChangePercent,468.5645
+2025-10-13,Advertising Agencies,^YH30820010,fiftyDayAverageChange,19318.578
+2025-10-13,Advertising Agencies,^YH30820010,fiftyDayAverageChangePercent,0.07767044
+2025-10-13,Advertising Agencies,^YH30820010,twoHundredDayAverageChange,139574.19
+2025-10-13,Advertising Agencies,^YH30820010,twoHundredDayAverageChangePercent,1.0864393
+2025-10-13,Advertising Agencies,^YH30820010,regularMarketChange,1237.5977
+2025-10-13,Advertising Agencies,^YH30820010,fiftyTwoWeekLowChange,236487.0
+2025-10-13,Advertising Agencies,^YH30820010,fiftyTwoWeekLowChangePercent,7.4940686
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,previousClose,93958.2
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,regularMarketPreviousClose,93958.2
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyTwoWeekLow,95194.65
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyTwoWeekHigh,193736.52
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyDayAverage,181312.19
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,twoHundredDayAverage,143909.8
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,52WeekChange,95.686134
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,regularMarketChangePercent,1.3144143
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,regularMarketPrice,189409.38
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyTwoWeekLowChange,94214.73
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyTwoWeekLowChangePercent,0.9897061
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyTwoWeekHighChange,-4327.1406
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyTwoWeekHighChangePercent,-0.022335183
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyTwoWeekChangePercent,95.686134
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyDayAverageChange,8097.1875
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,fiftyDayAverageChangePercent,0.044658814
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,twoHundredDayAverageChange,45499.58
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,twoHundredDayAverageChangePercent,0.31616735
+2025-10-13,Electronic Gaming & Multimedia,^YH30830020,regularMarketChange,1235.0
+2025-10-13,Broadcasting,^YH30820030,previousClose,11844.9
+2025-10-13,Broadcasting,^YH30820030,regularMarketPreviousClose,11844.9
+2025-10-13,Broadcasting,^YH30820030,fiftyTwoWeekLow,10401.41
+2025-10-13,Broadcasting,^YH30820030,fiftyTwoWeekHigh,32627.586
+2025-10-13,Broadcasting,^YH30820030,fiftyDayAverage,14546.71
+2025-10-13,Broadcasting,^YH30820030,twoHundredDayAverage,13091.608
+2025-10-13,Broadcasting,^YH30820030,52WeekChange,22.817326
+2025-10-13,Broadcasting,^YH30820030,regularMarketChangePercent,4.7725163
+2025-10-13,Broadcasting,^YH30820030,regularMarketPrice,14047.565
+2025-10-13,Broadcasting,^YH30820030,regularMarketChange,565.2998
+2025-10-13,Broadcasting,^YH30820030,fiftyTwoWeekLowChange,3646.1553
+2025-10-13,Broadcasting,^YH30820030,fiftyTwoWeekLowChangePercent,0.35054433
+2025-10-13,Broadcasting,^YH30820030,fiftyTwoWeekHighChange,-18580.02
+2025-10-13,Broadcasting,^YH30820030,fiftyTwoWeekHighChangePercent,-0.56945735
+2025-10-13,Broadcasting,^YH30820030,fiftyTwoWeekChangePercent,22.817326
+2025-10-13,Broadcasting,^YH30820030,fiftyDayAverageChange,-499.14453
+2025-10-13,Broadcasting,^YH30820030,fiftyDayAverageChangePercent,-0.034313224
+2025-10-13,Broadcasting,^YH30820030,twoHundredDayAverageChange,955.95703
+2025-10-13,Broadcasting,^YH30820030,twoHundredDayAverageChangePercent,0.07302059
+2025-10-13,Publishing,^YH30820020,previousClose,12975.0
+2025-10-13,Publishing,^YH30820020,regularMarketPreviousClose,12975.0
+2025-10-13,Publishing,^YH30820020,fiftyTwoWeekLow,10496.681
+2025-10-13,Publishing,^YH30820020,fiftyTwoWeekHigh,13880.1875
+2025-10-13,Publishing,^YH30820020,fiftyDayAverage,12978.963
+2025-10-13,Publishing,^YH30820020,twoHundredDayAverage,12236.656
+2025-10-13,Publishing,^YH30820020,52WeekChange,-10.740966
+2025-10-13,Publishing,^YH30820020,fiftyDayAverageChange,-766.1738
+2025-10-13,Publishing,^YH30820020,fiftyDayAverageChangePercent,-0.059031975
+2025-10-13,Publishing,^YH30820020,twoHundredDayAverageChange,-23.867188
+2025-10-13,Publishing,^YH30820020,twoHundredDayAverageChangePercent,-0.0019504664
+2025-10-13,Publishing,^YH30820020,regularMarketChangePercent,2.2951815
+2025-10-13,Publishing,^YH30820020,regularMarketPrice,12212.789
+2025-10-13,Publishing,^YH30820020,regularMarketChange,297.7998
+2025-10-13,Publishing,^YH30820020,fiftyTwoWeekLowChange,1716.1084
+2025-10-13,Publishing,^YH30820020,fiftyTwoWeekLowChangePercent,0.16349058
+2025-10-13,Publishing,^YH30820020,fiftyTwoWeekHighChange,-1667.3984
+2025-10-13,Publishing,^YH30820020,fiftyTwoWeekHighChangePercent,-0.120127946
+2025-10-13,Publishing,^YH30820020,fiftyTwoWeekChangePercent,-10.740966
