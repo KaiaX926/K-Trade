@@ -1,0 +1,322 @@
+industry_key,industry_name,industry_ticker,sector,closed_date,Prioritize
+specialty-retail,Specialty Retail,^YH10280060,consumer-cyclical,10/27/25,True
+residential-construction,Residential Construction,^YH10230010,consumer-cyclical,10/27/25,True
+recreational-vehicles,Recreational Vehicles,^YH10200040,consumer-cyclical,10/27/25,True
+shell-companies,Shell Companies,^YH10350010,financial-services,10/27/25,True
+insurance-reinsurance,Insurance - Reinsurance,^YH10340030,financial-services,10/27/25,True
+beverages-wineries-distilleries,Beverages - Wineries & Distilleries,^YH20510020,consumer-defensive,10/27/25,True
+solar,Solar,^YH31130030,technology,10/27/25,True
+drug-manufacturers-general,Drug Manufacturers - General,^YH20620010,healthcare,10/27/25,True
+healthcare-plans,Healthcare Plans,^YH20630010,healthcare,10/27/25,True
+semiconductors,Semiconductors,^YH31130020,technology,10/27/25,False
+leisure,Leisure,^YH10290020,consumer-cyclical,10/27/25,False
+luxury-goods,Luxury Goods,^YH10280040,consumer-cyclical,10/27/25,False
+personal-services,Personal Services,^YH10260010,consumer-cyclical,10/27/25,False
+furnishings-fixtures-appliances,"Furnishings, Fixtures & Appliances",^YH10220010,consumer-cyclical,10/27/25,False
+apparel-manufacturing,Apparel Manufacturing,^YH10240020,consumer-cyclical,10/27/25,False
+footwear-accessories,Footwear & Accessories,^YH10240030,consumer-cyclical,10/27/25,False
+gambling,Gambling,^YH10290010,consumer-cyclical,10/27/25,False
+resorts-casinos,Resorts & Casinos,^YH10290040,consumer-cyclical,10/27/25,False
+textile-manufacturing,Textile Manufacturing,^YH10240010,consumer-cyclical,10/27/25,False
+auto-truck-dealerships,Auto & Truck Dealerships,^YH10200010,consumer-cyclical,10/27/25,False
+packaging-containers,Packaging & Containers,^YH10250010,consumer-cyclical,10/27/25,False
+lodging,Lodging,^YH10290030,consumer-cyclical,10/27/25,False
+department-stores,Department Stores,^YH10280020,consumer-cyclical,10/27/25,False
+beverages-non-alcoholic,Beverages - Non-Alcoholic,^YH20520010,consumer-defensive,10/27/25,False
+discount-stores,Discount Stores,^YH20550010,consumer-defensive,10/27/25,False
+auto-parts,Auto Parts,^YH10200030,consumer-cyclical,10/27/25,False
+broadcasting,Broadcasting,^YH30820030,communication-services,10/27/25,False
+electronic-gaming-multimedia,Electronic Gaming & Multimedia,^YH30830020,communication-services,10/27/25,False
+advertising-agencies,Advertising Agencies,^YH30820010,communication-services,10/27/25,False
+entertainment,Entertainment,^YH30820040,communication-services,10/27/25,False
+telecom-services,Telecom Services,^YH30810010,communication-services,10/27/25,False
+internet-content-information,Internet Content & Information,^YH30830010,communication-services,10/27/25,False
+beverages-brewers,Beverages - Brewers,^YH20510010,consumer-defensive,10/27/25,False
+education-training-services,Education & Training Services,^YH20540010,consumer-defensive,10/27/25,False
+grocery-stores,Grocery Stores,^YH20550030,consumer-defensive,10/27/25,False
+food-distribution,Food Distribution,^YH20550020,consumer-defensive,10/27/25,False
+farm-products,Farm Products,^YH20525020,consumer-defensive,10/27/25,False
+confectioners,Confectioners,^YH20525010,consumer-defensive,10/27/25,False
+packaged-foods,Packaged Foods,^YH20525040,consumer-defensive,10/27/25,False
+tobacco,Tobacco,^YH20560010,consumer-defensive,10/27/25,False
+household-personal-products,Household & Personal Products,^YH20525030,consumer-defensive,10/27/25,False
+apparel-retail,Apparel Retail,^YH10280010,consumer-cyclical,10/27/25,False
+restaurants,Restaurants,^YH10270010,consumer-cyclical,10/27/25,False
+travel-services,Travel Services,^YH10290050,consumer-cyclical,10/27/25,False
+health-information-services,Health Information Services,^YH20645030,healthcare,10/27/25,False
+medical-distribution,Medical Distribution,^YH20670010,healthcare,10/27/25,False
+medical-care-facilities,Medical Care Facilities,^YH20645010,healthcare,10/27/25,False
+medical-instruments-supplies,Medical Instruments & Supplies,^YH20650020,healthcare,10/27/25,False
+diagnostics-research,Diagnostics & Research,^YH20660010,healthcare,10/27/25,False
+biotechnology,Biotechnology,^YH20610010,healthcare,10/27/25,False
+medical-devices,Medical Devices,^YH20650010,healthcare,10/27/25,False
+electronics-computer-distribution,Electronics & Computer Distribution,^YH31120050,technology,10/27/25,False
+scientific-technical-instruments,Scientific & Technical Instruments,^YH31120060,technology,10/27/25,False
+electronic-components,Electronic Components,^YH31120040,technology,10/27/25,False
+communication-equipment,Communication Equipment,^YH31120010,technology,10/27/25,False
+computer-hardware,Computer Hardware,^YH31120020,technology,10/27/25,False
+semiconductor-equipment-materials,Semiconductor Equipment & Materials,^YH31130010,technology,10/27/25,False
+information-technology-services,Information Technology Services,^YH31110010,technology,10/27/25,False
+software-application,Software - Application,^YH31110020,technology,10/27/25,False
+consumer-electronics,Consumer Electronics,^YH31120030,technology,10/27/25,False
+drug-manufacturers-specialty-generic,Drug Manufacturers - Specialty & Generic,^YH20620020,healthcare,10/27/25,False
+pharmaceutical-retailers,Pharmaceutical Retailers,^YH20645020,healthcare,10/27/25,False
+home-improvement-retail,Home Improvement Retail,^YH10280030,consumer-cyclical,10/27/25,False
+banks-diversified,Banks - Diversified,^YH10320010,financial-services,10/27/25,False
+software-infrastructure,Software - Infrastructure,^YH31110030,technology,10/27/25,False
+auto-manufacturers,Auto Manufacturers,^YH10200020,consumer-cyclical,10/27/25,False
+internet-retail,Internet Retail,^YH10280050,consumer-cyclical,10/27/25,False
+financial-conglomerates,Financial Conglomerates,^YH10350020,financial-services,10/27/25,False
+mortgage-finance,Mortgage Finance,^YH10320030,financial-services,10/27/25,False
+insurance-specialty,Insurance - Specialty,^YH10340040,financial-services,10/27/25,False
+insurance-life,Insurance - Life,^YH10340010,financial-services,10/27/25,False
+insurance-brokers,Insurance Brokers,^YH10340050,financial-services,10/27/25,False
+insurance-property-casualty,Insurance - Property & Casualty,^YH10340020,financial-services,10/27/25,False
+financial-data-stock-exchanges,Financial Data & Stock Exchanges,^YH10330020,financial-services,10/27/25,False
+banks-regional,Banks - Regional,^YH10320020,financial-services,10/27/25,False
+insurance-diversified,Insurance - Diversified,^YH10340060,financial-services,10/27/25,False
+capital-markets,Capital Markets,^YH10330010,financial-services,10/27/25,False
+asset-management,Asset Management,^YH10310010,financial-services,10/27/25,False
+credit-services,Credit Services,^YH10360010,financial-services,10/27/25,False
+publishing,Publishing,^YH30820020,communication-services,10/27/25,False
+resorts-casinos,Resorts & Casinos,^YH10290040,consumer-cyclical,10/27/25,True
+healthcare-plans,Healthcare Plans,^YH20630010,healthcare,10/29/25,True
+specialty-retail,Specialty Retail,^YH10280060,consumer-cyclical,10/29/25,True
+residential-construction,Residential Construction,^YH10230010,consumer-cyclical,10/29/25,True
+recreational-vehicles,Recreational Vehicles,^YH10200040,consumer-cyclical,10/29/25,True
+shell-companies,Shell Companies,^YH10350010,financial-services,10/29/25,True
+insurance-reinsurance,Insurance - Reinsurance,^YH10340030,financial-services,10/29/25,True
+beverages-wineries-distilleries,Beverages - Wineries & Distilleries,^YH20510020,consumer-defensive,10/29/25,True
+solar,Solar,^YH31130030,technology,10/29/25,True
+drug-manufacturers-general,Drug Manufacturers - General,^YH20620010,healthcare,10/29/25,True
+resorts-casinos,Resorts & Casinos,^YH10290040,consumer-cyclical,10/29/25,True
+semiconductors,Semiconductors,^YH31130020,technology,10/29/25,False
+luxury-goods,Luxury Goods,^YH10280040,consumer-cyclical,10/29/25,False
+personal-services,Personal Services,^YH10260010,consumer-cyclical,10/29/25,False
+furnishings-fixtures-appliances,"Furnishings, Fixtures & Appliances",^YH10220010,consumer-cyclical,10/29/25,False
+apparel-manufacturing,Apparel Manufacturing,^YH10240020,consumer-cyclical,10/29/25,False
+footwear-accessories,Footwear & Accessories,^YH10240030,consumer-cyclical,10/29/25,False
+leisure,Leisure,^YH10290020,consumer-cyclical,10/29/25,False
+gambling,Gambling,^YH10290010,consumer-cyclical,10/29/25,False
+textile-manufacturing,Textile Manufacturing,^YH10240010,consumer-cyclical,10/29/25,False
+auto-truck-dealerships,Auto & Truck Dealerships,^YH10200010,consumer-cyclical,10/29/25,False
+packaging-containers,Packaging & Containers,^YH10250010,consumer-cyclical,10/29/25,False
+lodging,Lodging,^YH10290030,consumer-cyclical,10/29/25,False
+department-stores,Department Stores,^YH10280020,consumer-cyclical,10/29/25,False
+beverages-non-alcoholic,Beverages - Non-Alcoholic,^YH20520010,consumer-defensive,10/29/25,False
+discount-stores,Discount Stores,^YH20550010,consumer-defensive,10/29/25,False
+auto-parts,Auto Parts,^YH10200030,consumer-cyclical,10/29/25,False
+broadcasting,Broadcasting,^YH30820030,communication-services,10/29/25,False
+electronic-gaming-multimedia,Electronic Gaming & Multimedia,^YH30830020,communication-services,10/29/25,False
+advertising-agencies,Advertising Agencies,^YH30820010,communication-services,10/29/25,False
+entertainment,Entertainment,^YH30820040,communication-services,10/29/25,False
+telecom-services,Telecom Services,^YH30810010,communication-services,10/29/25,False
+internet-content-information,Internet Content & Information,^YH30830010,communication-services,10/29/25,False
+beverages-brewers,Beverages - Brewers,^YH20510010,consumer-defensive,10/29/25,False
+education-training-services,Education & Training Services,^YH20540010,consumer-defensive,10/29/25,False
+grocery-stores,Grocery Stores,^YH20550030,consumer-defensive,10/29/25,False
+food-distribution,Food Distribution,^YH20550020,consumer-defensive,10/29/25,False
+farm-products,Farm Products,^YH20525020,consumer-defensive,10/29/25,False
+confectioners,Confectioners,^YH20525010,consumer-defensive,10/29/25,False
+packaged-foods,Packaged Foods,^YH20525040,consumer-defensive,10/29/25,False
+tobacco,Tobacco,^YH20560010,consumer-defensive,10/29/25,False
+household-personal-products,Household & Personal Products,^YH20525030,consumer-defensive,10/29/25,False
+apparel-retail,Apparel Retail,^YH10280010,consumer-cyclical,10/29/25,False
+restaurants,Restaurants,^YH10270010,consumer-cyclical,10/29/25,False
+travel-services,Travel Services,^YH10290050,consumer-cyclical,10/29/25,False
+health-information-services,Health Information Services,^YH20645030,healthcare,10/29/25,False
+medical-distribution,Medical Distribution,^YH20670010,healthcare,10/29/25,False
+medical-care-facilities,Medical Care Facilities,^YH20645010,healthcare,10/29/25,False
+medical-instruments-supplies,Medical Instruments & Supplies,^YH20650020,healthcare,10/29/25,False
+diagnostics-research,Diagnostics & Research,^YH20660010,healthcare,10/29/25,False
+biotechnology,Biotechnology,^YH20610010,healthcare,10/29/25,False
+medical-devices,Medical Devices,^YH20650010,healthcare,10/29/25,False
+electronics-computer-distribution,Electronics & Computer Distribution,^YH31120050,technology,10/29/25,False
+scientific-technical-instruments,Scientific & Technical Instruments,^YH31120060,technology,10/29/25,False
+electronic-components,Electronic Components,^YH31120040,technology,10/29/25,False
+communication-equipment,Communication Equipment,^YH31120010,technology,10/29/25,False
+computer-hardware,Computer Hardware,^YH31120020,technology,10/29/25,False
+semiconductor-equipment-materials,Semiconductor Equipment & Materials,^YH31130010,technology,10/29/25,False
+information-technology-services,Information Technology Services,^YH31110010,technology,10/29/25,False
+software-application,Software - Application,^YH31110020,technology,10/29/25,False
+consumer-electronics,Consumer Electronics,^YH31120030,technology,10/29/25,False
+drug-manufacturers-specialty-generic,Drug Manufacturers - Specialty & Generic,^YH20620020,healthcare,10/29/25,False
+pharmaceutical-retailers,Pharmaceutical Retailers,^YH20645020,healthcare,10/29/25,False
+home-improvement-retail,Home Improvement Retail,^YH10280030,consumer-cyclical,10/29/25,False
+banks-diversified,Banks - Diversified,^YH10320010,financial-services,10/29/25,False
+software-infrastructure,Software - Infrastructure,^YH31110030,technology,10/29/25,False
+auto-manufacturers,Auto Manufacturers,^YH10200020,consumer-cyclical,10/29/25,False
+internet-retail,Internet Retail,^YH10280050,consumer-cyclical,10/29/25,False
+financial-conglomerates,Financial Conglomerates,^YH10350020,financial-services,10/29/25,False
+mortgage-finance,Mortgage Finance,^YH10320030,financial-services,10/29/25,False
+insurance-specialty,Insurance - Specialty,^YH10340040,financial-services,10/29/25,False
+insurance-life,Insurance - Life,^YH10340010,financial-services,10/29/25,False
+insurance-brokers,Insurance Brokers,^YH10340050,financial-services,10/29/25,False
+insurance-property-casualty,Insurance - Property & Casualty,^YH10340020,financial-services,10/29/25,False
+financial-data-stock-exchanges,Financial Data & Stock Exchanges,^YH10330020,financial-services,10/29/25,False
+banks-regional,Banks - Regional,^YH10320020,financial-services,10/29/25,False
+insurance-diversified,Insurance - Diversified,^YH10340060,financial-services,10/29/25,False
+capital-markets,Capital Markets,^YH10330010,financial-services,10/29/25,False
+asset-management,Asset Management,^YH10310010,financial-services,10/29/25,False
+credit-services,Credit Services,^YH10360010,financial-services,10/29/25,False
+publishing,Publishing,^YH30820020,communication-services,10/29/25,False
+healthcare-plans,Healthcare Plans,^YH20630010,healthcare,10/29/25,True
+specialty-retail,Specialty Retail,^YH10280060,consumer-cyclical,10/29/25,True
+residential-construction,Residential Construction,^YH10230010,consumer-cyclical,10/29/25,True
+recreational-vehicles,Recreational Vehicles,^YH10200040,consumer-cyclical,10/29/25,True
+shell-companies,Shell Companies,^YH10350010,financial-services,10/29/25,True
+insurance-reinsurance,Insurance - Reinsurance,^YH10340030,financial-services,10/29/25,True
+beverages-wineries-distilleries,Beverages - Wineries & Distilleries,^YH20510020,consumer-defensive,10/29/25,True
+solar,Solar,^YH31130030,technology,10/29/25,True
+drug-manufacturers-general,Drug Manufacturers - General,^YH20620010,healthcare,10/29/25,True
+resorts-casinos,Resorts & Casinos,^YH10290040,consumer-cyclical,10/29/25,True
+semiconductors,Semiconductors,^YH31130020,technology,10/29/25,False
+luxury-goods,Luxury Goods,^YH10280040,consumer-cyclical,10/29/25,False
+personal-services,Personal Services,^YH10260010,consumer-cyclical,10/29/25,False
+furnishings-fixtures-appliances,"Furnishings, Fixtures & Appliances",^YH10220010,consumer-cyclical,10/29/25,False
+apparel-manufacturing,Apparel Manufacturing,^YH10240020,consumer-cyclical,10/29/25,False
+footwear-accessories,Footwear & Accessories,^YH10240030,consumer-cyclical,10/29/25,False
+leisure,Leisure,^YH10290020,consumer-cyclical,10/29/25,False
+gambling,Gambling,^YH10290010,consumer-cyclical,10/29/25,False
+textile-manufacturing,Textile Manufacturing,^YH10240010,consumer-cyclical,10/29/25,False
+auto-truck-dealerships,Auto & Truck Dealerships,^YH10200010,consumer-cyclical,10/29/25,False
+packaging-containers,Packaging & Containers,^YH10250010,consumer-cyclical,10/29/25,False
+lodging,Lodging,^YH10290030,consumer-cyclical,10/29/25,False
+department-stores,Department Stores,^YH10280020,consumer-cyclical,10/29/25,False
+beverages-non-alcoholic,Beverages - Non-Alcoholic,^YH20520010,consumer-defensive,10/29/25,False
+discount-stores,Discount Stores,^YH20550010,consumer-defensive,10/29/25,False
+auto-parts,Auto Parts,^YH10200030,consumer-cyclical,10/29/25,False
+broadcasting,Broadcasting,^YH30820030,communication-services,10/29/25,False
+electronic-gaming-multimedia,Electronic Gaming & Multimedia,^YH30830020,communication-services,10/29/25,False
+advertising-agencies,Advertising Agencies,^YH30820010,communication-services,10/29/25,False
+entertainment,Entertainment,^YH30820040,communication-services,10/29/25,False
+telecom-services,Telecom Services,^YH30810010,communication-services,10/29/25,False
+internet-content-information,Internet Content & Information,^YH30830010,communication-services,10/29/25,False
+beverages-brewers,Beverages - Brewers,^YH20510010,consumer-defensive,10/29/25,False
+education-training-services,Education & Training Services,^YH20540010,consumer-defensive,10/29/25,False
+grocery-stores,Grocery Stores,^YH20550030,consumer-defensive,10/29/25,False
+food-distribution,Food Distribution,^YH20550020,consumer-defensive,10/29/25,False
+farm-products,Farm Products,^YH20525020,consumer-defensive,10/29/25,False
+confectioners,Confectioners,^YH20525010,consumer-defensive,10/29/25,False
+packaged-foods,Packaged Foods,^YH20525040,consumer-defensive,10/29/25,False
+tobacco,Tobacco,^YH20560010,consumer-defensive,10/29/25,False
+household-personal-products,Household & Personal Products,^YH20525030,consumer-defensive,10/29/25,False
+apparel-retail,Apparel Retail,^YH10280010,consumer-cyclical,10/29/25,False
+restaurants,Restaurants,^YH10270010,consumer-cyclical,10/29/25,False
+travel-services,Travel Services,^YH10290050,consumer-cyclical,10/29/25,False
+health-information-services,Health Information Services,^YH20645030,healthcare,10/29/25,False
+medical-distribution,Medical Distribution,^YH20670010,healthcare,10/29/25,False
+medical-care-facilities,Medical Care Facilities,^YH20645010,healthcare,10/29/25,False
+medical-instruments-supplies,Medical Instruments & Supplies,^YH20650020,healthcare,10/29/25,False
+diagnostics-research,Diagnostics & Research,^YH20660010,healthcare,10/29/25,False
+biotechnology,Biotechnology,^YH20610010,healthcare,10/29/25,False
+medical-devices,Medical Devices,^YH20650010,healthcare,10/29/25,False
+electronics-computer-distribution,Electronics & Computer Distribution,^YH31120050,technology,10/29/25,False
+scientific-technical-instruments,Scientific & Technical Instruments,^YH31120060,technology,10/29/25,False
+electronic-components,Electronic Components,^YH31120040,technology,10/29/25,False
+communication-equipment,Communication Equipment,^YH31120010,technology,10/29/25,False
+computer-hardware,Computer Hardware,^YH31120020,technology,10/29/25,False
+semiconductor-equipment-materials,Semiconductor Equipment & Materials,^YH31130010,technology,10/29/25,False
+information-technology-services,Information Technology Services,^YH31110010,technology,10/29/25,False
+software-application,Software - Application,^YH31110020,technology,10/29/25,False
+consumer-electronics,Consumer Electronics,^YH31120030,technology,10/29/25,False
+drug-manufacturers-specialty-generic,Drug Manufacturers - Specialty & Generic,^YH20620020,healthcare,10/29/25,False
+pharmaceutical-retailers,Pharmaceutical Retailers,^YH20645020,healthcare,10/29/25,False
+home-improvement-retail,Home Improvement Retail,^YH10280030,consumer-cyclical,10/29/25,False
+banks-diversified,Banks - Diversified,^YH10320010,financial-services,10/29/25,False
+software-infrastructure,Software - Infrastructure,^YH31110030,technology,10/29/25,False
+auto-manufacturers,Auto Manufacturers,^YH10200020,consumer-cyclical,10/29/25,False
+internet-retail,Internet Retail,^YH10280050,consumer-cyclical,10/29/25,False
+financial-conglomerates,Financial Conglomerates,^YH10350020,financial-services,10/29/25,False
+mortgage-finance,Mortgage Finance,^YH10320030,financial-services,10/29/25,False
+insurance-specialty,Insurance - Specialty,^YH10340040,financial-services,10/29/25,False
+insurance-life,Insurance - Life,^YH10340010,financial-services,10/29/25,False
+insurance-brokers,Insurance Brokers,^YH10340050,financial-services,10/29/25,False
+insurance-property-casualty,Insurance - Property & Casualty,^YH10340020,financial-services,10/29/25,False
+financial-data-stock-exchanges,Financial Data & Stock Exchanges,^YH10330020,financial-services,10/29/25,False
+banks-regional,Banks - Regional,^YH10320020,financial-services,10/29/25,False
+insurance-diversified,Insurance - Diversified,^YH10340060,financial-services,10/29/25,False
+capital-markets,Capital Markets,^YH10330010,financial-services,10/29/25,False
+asset-management,Asset Management,^YH10310010,financial-services,10/29/25,False
+credit-services,Credit Services,^YH10360010,financial-services,10/29/25,False
+publishing,Publishing,^YH30820020,communication-services,10/29/25,False
+recreational-vehicles,Recreational Vehicles,^YH10200040,consumer-cyclical,2025-10-29,True
+specialty-retail,Specialty Retail,^YH10280060,consumer-cyclical,2025-10-29,True
+residential-construction,Residential Construction,^YH10230010,consumer-cyclical,2025-10-29,True
+shell-companies,Shell Companies,^YH10350010,financial-services,2025-10-29,True
+insurance-reinsurance,Insurance - Reinsurance,^YH10340030,financial-services,2025-10-29,True
+beverages-wineries-distilleries,Beverages - Wineries & Distilleries,^YH20510020,consumer-defensive,2025-10-29,True
+healthcare-plans,Healthcare Plans,^YH20630010,healthcare,2025-10-29,True
+drug-manufacturers-general,Drug Manufacturers - General,^YH20620010,healthcare,2025-10-29,True
+resorts-casinos,Resorts & Casinos,^YH10290040,consumer-cyclical,2025-10-29,True
+leisure,Leisure,^YH10290020,consumer-cyclical,2025-10-29,False
+luxury-goods,Luxury Goods,^YH10280040,consumer-cyclical,2025-10-29,False
+personal-services,Personal Services,^YH10260010,consumer-cyclical,2025-10-29,False
+furnishings-fixtures-appliances,"Furnishings, Fixtures & Appliances",^YH10220010,consumer-cyclical,2025-10-29,False
+apparel-manufacturing,Apparel Manufacturing,^YH10240020,consumer-cyclical,2025-10-29,False
+semiconductors,Semiconductors,^YH31130020,technology,2025-10-29,False
+gambling,Gambling,^YH10290010,consumer-cyclical,2025-10-29,False
+department-stores,Department Stores,^YH10280020,consumer-cyclical,2025-10-29,False
+auto-truck-dealerships,Auto & Truck Dealerships,^YH10200010,consumer-cyclical,2025-10-29,False
+packaging-containers,Packaging & Containers,^YH10250010,consumer-cyclical,2025-10-29,False
+lodging,Lodging,^YH10290030,consumer-cyclical,2025-10-29,False
+apparel-retail,Apparel Retail,^YH10280010,consumer-cyclical,2025-10-29,False
+footwear-accessories,Footwear & Accessories,^YH10240030,consumer-cyclical,2025-10-29,False
+discount-stores,Discount Stores,^YH20550010,consumer-defensive,2025-10-29,False
+textile-manufacturing,Textile Manufacturing,^YH10240010,consumer-cyclical,2025-10-29,False
+education-training-services,Education & Training Services,^YH20540010,consumer-defensive,2025-10-29,False
+broadcasting,Broadcasting,^YH30820030,communication-services,2025-10-29,False
+electronic-gaming-multimedia,Electronic Gaming & Multimedia,^YH30830020,communication-services,2025-10-29,False
+advertising-agencies,Advertising Agencies,^YH30820010,communication-services,2025-10-29,False
+entertainment,Entertainment,^YH30820040,communication-services,2025-10-29,False
+telecom-services,Telecom Services,^YH30810010,communication-services,2025-10-29,False
+internet-content-information,Internet Content & Information,^YH30830010,communication-services,2025-10-29,False
+beverages-brewers,Beverages - Brewers,^YH20510010,consumer-defensive,2025-10-29,False
+grocery-stores,Grocery Stores,^YH20550030,consumer-defensive,2025-10-29,False
+travel-services,Travel Services,^YH10290050,consumer-cyclical,2025-10-29,False
+food-distribution,Food Distribution,^YH20550020,consumer-defensive,2025-10-29,False
+farm-products,Farm Products,^YH20525020,consumer-defensive,2025-10-29,False
+confectioners,Confectioners,^YH20525010,consumer-defensive,2025-10-29,False
+packaged-foods,Packaged Foods,^YH20525040,consumer-defensive,2025-10-29,False
+tobacco,Tobacco,^YH20560010,consumer-defensive,2025-10-29,False
+household-personal-products,Household & Personal Products,^YH20525030,consumer-defensive,2025-10-29,False
+beverages-non-alcoholic,Beverages - Non-Alcoholic,^YH20520010,consumer-defensive,2025-10-29,False
+auto-parts,Auto Parts,^YH10200030,consumer-cyclical,2025-10-29,False
+restaurants,Restaurants,^YH10270010,consumer-cyclical,2025-10-29,False
+home-improvement-retail,Home Improvement Retail,^YH10280030,consumer-cyclical,2025-10-29,False
+drug-manufacturers-specialty-generic,Drug Manufacturers - Specialty & Generic,^YH20620020,healthcare,2025-10-29,False
+medical-care-facilities,Medical Care Facilities,^YH20645010,healthcare,2025-10-29,False
+medical-instruments-supplies,Medical Instruments & Supplies,^YH20650020,healthcare,2025-10-29,False
+diagnostics-research,Diagnostics & Research,^YH20660010,healthcare,2025-10-29,False
+biotechnology,Biotechnology,^YH20610010,healthcare,2025-10-29,False
+medical-devices,Medical Devices,^YH20650010,healthcare,2025-10-29,False
+electronics-computer-distribution,Electronics & Computer Distribution,^YH31120050,technology,2025-10-29,False
+solar,Solar,^YH31130030,technology,2025-10-29,False
+scientific-technical-instruments,Scientific & Technical Instruments,^YH31120060,technology,2025-10-29,False
+electronic-components,Electronic Components,^YH31120040,technology,2025-10-29,False
+communication-equipment,Communication Equipment,^YH31120010,technology,2025-10-29,False
+computer-hardware,Computer Hardware,^YH31120020,technology,2025-10-29,False
+semiconductor-equipment-materials,Semiconductor Equipment & Materials,^YH31130010,technology,2025-10-29,False
+information-technology-services,Information Technology Services,^YH31110010,technology,2025-10-29,False
+software-application,Software - Application,^YH31110020,technology,2025-10-29,False
+consumer-electronics,Consumer Electronics,^YH31120030,technology,2025-10-29,False
+medical-distribution,Medical Distribution,^YH20670010,healthcare,2025-10-29,False
+health-information-services,Health Information Services,^YH20645030,healthcare,2025-10-29,False
+software-infrastructure,Software - Infrastructure,^YH31110030,technology,2025-10-29,False
+pharmaceutical-retailers,Pharmaceutical Retailers,^YH20645020,healthcare,2025-10-29,False
+auto-manufacturers,Auto Manufacturers,^YH10200020,consumer-cyclical,2025-10-29,False
+internet-retail,Internet Retail,^YH10280050,consumer-cyclical,2025-10-29,False
+financial-conglomerates,Financial Conglomerates,^YH10350020,financial-services,2025-10-29,False
+mortgage-finance,Mortgage Finance,^YH10320030,financial-services,2025-10-29,False
+insurance-specialty,Insurance - Specialty,^YH10340040,financial-services,2025-10-29,False
+insurance-life,Insurance - Life,^YH10340010,financial-services,2025-10-29,False
+insurance-brokers,Insurance Brokers,^YH10340050,financial-services,2025-10-29,False
+insurance-property-casualty,Insurance - Property & Casualty,^YH10340020,financial-services,2025-10-29,False
+financial-data-stock-exchanges,Financial Data & Stock Exchanges,^YH10330020,financial-services,2025-10-29,False
+banks-regional,Banks - Regional,^YH10320020,financial-services,2025-10-29,False
+insurance-diversified,Insurance - Diversified,^YH10340060,financial-services,2025-10-29,False
+capital-markets,Capital Markets,^YH10330010,financial-services,2025-10-29,False
+asset-management,Asset Management,^YH10310010,financial-services,2025-10-29,False
+credit-services,Credit Services,^YH10360010,financial-services,2025-10-29,False
+banks-diversified,Banks - Diversified,^YH10320010,financial-services,2025-10-29,False
+publishing,Publishing,^YH30820020,communication-services,2025-10-29,False
